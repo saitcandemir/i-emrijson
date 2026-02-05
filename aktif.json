@@ -24,5 +24,13 @@
     "reklam": "44",
     "toplam": "444",
     "onay": false
+  },
+  {
+    "İD": "1770331363657",
+    "reklam": "demır1",
+    "toplam": "22",
+    "atolye": "KAYNAK",
+    "onay": false,
+    "bitis": false
   }
 ]
