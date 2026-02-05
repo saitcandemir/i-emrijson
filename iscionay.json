@@ -19,5 +19,12 @@
     "brans": "TORNA",
     "aktif": true,
     "is_basi": false
+  },
+  {
+    "id": "1770331332197",
+    "ad": "beeeen",
+    "brans": "KAYNAK",
+    "aktif": false,
+    "is_basi": false
   }
 ]
