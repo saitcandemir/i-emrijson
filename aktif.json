@@ -66,7 +66,9 @@
     "reklam": "saaaa",
     "toplam": "2222",
     "atolye": "KAYNAK",
-    "onay": false,
-    "bitis": false
+    "onay": true,
+    "bitis": false,
+    "usta": "beeeen",
+    "baslangic": "02:02:43"
   }
 ]
