@@ -10,8 +10,10 @@
     "reklam": "demır1",
     "toplam": "22",
     "atolye": "KAYNAK",
-    "onay": false,
-    "bitis": false
+    "onay": true,
+    "bitis": false,
+    "usta": "beeeen",
+    "baslangic": "02:07:58"
   },
   {
     "İD": "1770331401980",
