@@ -4,5 +4,13 @@
     "ad": "ÖRNEK PERSONEL",
     "tel": "555-000-0000",
     "aktif": true
+  },
+  {
+    "id": "1770328331821",
+    "ad": "saıt",
+    "brans": "tasarım",
+    "tel": "33333",
+    "aktif": false,
+    "is_basi": false
   }
 ]
