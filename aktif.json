@@ -12,7 +12,8 @@
     "reklam": "eee",
     "toplam": "2222",
     "onay": true,
-    "bitti": false
+    "bitti": false,
+    "bitis": true
   },
   {
     "İD": "333333",
