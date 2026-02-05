@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "1001",
+    "ad": "ÖRNEK PERSONEL",
+    "tel": "555-000-0000",
+    "aktif": false
+  }
+]
