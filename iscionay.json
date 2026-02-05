@@ -12,5 +12,12 @@
     "tel": "33333",
     "aktif": true,
     "is_basi": false
+  },
+  {
+    "id": "1770331282142",
+    "ad": "sader",
+    "brans": "TORNA",
+    "aktif": false,
+    "is_basi": false
   }
 ]
