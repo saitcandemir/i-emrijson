@@ -18,8 +18,10 @@
     "reklam": "1111111111111111111",
     "toplam": "1111111111111111111",
     "atolye": "KAYNAK",
-    "onay": false,
-    "bitis": false
+    "onay": true,
+    "bitis": false,
+    "usta": "beeeen",
+    "baslangic": "02:03:06"
   },
   {
     "İD": "1770331601169",
