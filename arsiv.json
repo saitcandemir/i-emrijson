@@ -68,5 +68,15 @@
     "usta": "sader",
     "baslangic": "09:53:09",
     "f_tar": "06.02.2026 09:53:50"
+  },
+  {
+    "İD": "444",
+    "reklam": "44",
+    "toplam": "444",
+    "onay": true,
+    "usta": "sa",
+    "baslangic": "11:39:14",
+    "bitis": true,
+    "f_tar": "06.02.2026 11:44:35"
   }
 ]
