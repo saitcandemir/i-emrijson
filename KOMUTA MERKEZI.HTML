@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>ALSER KOMUTA MERKEZİ</title>
+    <script src="https://unpkg.com/peerjs@1.5.2/dist/peerjs.min.js"></script>
+    <style>
+        body { background: #0f172a; color: white; font-family: sans-serif; display: flex; gap: 20px; padding: 20px; }
+        .panel { background: #1e293b; padding: 20px; border-radius: 15px; border: 2px solid #fb923c; flex: 1; }
+        .rehber { background: #1e293b; padding: 20px; border-radius: 15px; border: 2px solid #22c55e; width: 300px; }
+        .yeni-gelen { background: #ef4444; padding: 10px; border-radius: 8px; margin-bottom: 20px; animation: blink 1s infinite; }
+        @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
+        button { width: 100%; padding: 10px; margin-top: 10px; cursor: pointer; font-weight: bold; border-radius: 5px; border: none; }
+        select { width: 100%; padding: 10px; margin-top: 10px; background: #0f172a; color: white; border: 1px solid #fb923c; }
+        #micBtn { height: 100px; background: #fb923c; font-size: 20px; }
+    </style>
+</head>
+<body>
+
+    <div class="panel">
+        <h2>🚀 MERKEZ KOMUTA</h2>
+        <div id="gelenAnons" style="display:none;" class="yeni-gelen">
+            ⚠️ YENİ BAĞLANTI TESPİT EDİLDİ!<br>
+            <span id="yeniId">---</span>
+            <input type="text" id="yeniIsim" placeholder="Usta Adı (Örn: Hasan)">
+            <button onclick="kaydet()" style="background:#22c55e; color:white;">LİSTEYE EKLE</button>
+        </div>
+        
+        <div id="durum" style="color:#94a3b8; margin-bottom:10px;">📡 Merkez Online</div>
+        
+        <label>Konuşulacak Kişi Seç:</label>
+        <select id="rehberListe"><option value="">-- REHBER BOŞ --</option></select>
+        
+        <button id="micBtn">🎤 BAS KONUŞ (ANONS GEÇ)</button>
+    </div>
+
+    <div class="rehber">
+        <h3>📇 KAYITLI USTALAR</h3>
+        <div id="listeGosterim" style="font-size: 14px; color: #94a3b8;"></div>
+    </div>
+
+<script>
+    const MERKEZ_ID = "ALSER-MERKEZ-SAIT-MUDUR"; // Senin sabit ID'n
+    const peer = new Peer(MERKEZ_ID);
+    let localStream;
+    let rehber = JSON.parse(localStorage.getItem('alser_rehber_v7')) || [];
+
+    peer.on('open', (id) => console.log("Merkez ID: " + id));
+
+    // GELEN BAĞLANTI (ADAMIN ID'SİNİ YAKALAMA)
+    peer.on('connection', (conn) => {
+        document.getElementById('gelenAnons').style.display = "block";
+        document.getElementById('yeniId').innerText = conn.peer;
+    });
+
+    // GELEN SESİ DİNLE
+    peer.on('call', (call) => {
+        call.answer();
+        call.on('stream', (stream) => {
+            const audio = new Audio();
+            audio.srcObject = stream;
+            audio.play();
+        });
+    });
+
+    function kaydet() {
+        const ad = document.getElementById('yeniIsim').value.toUpperCase();
+        const id = document.getElementById('yeniId').innerText;
+        if(!ad) return alert("İsim yaz müdürüm!");
+        rehber.push({ ad, id });
+        localStorage.setItem('alser_rehber_v7', JSON.stringify(rehber));
+        location.reload();
+    }
+
+    function rehberGuncelle() {
+        const l = document.getElementById('rehberListe');
+        const d = document.getElementById('listeGosterim');
+        l.innerHTML = '<option value="">-- SEÇ --</option>';
+        d.innerHTML = "";
+        rehber.forEach(u => {
+            l.innerHTML += `<option value="${u.id}">${u.ad}</option>`;
+            d.innerHTML += `• ${u.ad} (${u.id})<br>`;
+        });
+    }
+
+    // BAS KONUŞ
+    const btn = document.getElementById('micBtn');
+    btn.onmousedown = btn.ontouchstart = async (e) => {
+        e.preventDefault();
+        const hid = document.getElementById('rehberListe').value;
+        if(!hid) return alert("Kimi arayacağız?");
+        localStream = await navigator.mediaDevices.getUserMedia({ audio: true });
+        peer.call(hid, localStream);
+        document.getElementById('durum').innerText = "🎤 ANONS YAPILIYOR...";
+    };
+    btn.onmouseup = btn.ontouchend = () => {
+        if(localStream) localStream.getTracks().forEach(t => t.stop());
+        document.getElementById('durum').innerText = "📡 Merkez Online";
+    };
+
+    rehberGuncelle();
+</script>
+</body>
+</html>
