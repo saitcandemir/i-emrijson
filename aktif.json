@@ -92,8 +92,8 @@
     "tarih": "06.02.2026 11:08:19",
     "durum": "AÇIK",
     "onay": true,
-    "usta": "beeeen",
-    "baslangic": "11:22:12"
+    "usta": "sait",
+    "baslangic": "11:40:14"
   },
   {
     "İD": "151.01.1601",
@@ -215,9 +215,11 @@
     "torna": "40",
     "montaj": "60",
     "sevkiyat": "60",
-    "onay": false,
+    "onay": true,
     "bitis": false,
-    "tarih": "06.02.2026 11:33:21"
+    "tarih": "06.02.2026 11:33:21",
+    "usta": "sait",
+    "baslangic": "11:40:14"
   },
   {
     "İD": "151.01.2009",
@@ -254,8 +256,10 @@
     "torna": "40",
     "montaj": "60",
     "sevkiyat": "60",
-    "onay": false,
+    "onay": true,
     "bitis": false,
-    "tarih": "06.02.2026 11:36:37"
+    "tarih": "06.02.2026 11:36:37",
+    "usta": "sait",
+    "baslangic": "11:40:14"
   }
 ]
