@@ -62,5 +62,13 @@
     "brans": "TORNA",
     "aktif": true,
     "is_basi": false
+  },
+  {
+    "id": "1770419757892",
+    "ad": "MURTAZA",
+    "brans": "BOYA",
+    "tel": "33333333333333333",
+    "aktif": false,
+    "is_basi": false
   }
 ]
