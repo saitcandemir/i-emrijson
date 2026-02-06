@@ -218,5 +218,21 @@
     "usta": "sait",
     "baslangic": "11:40:25",
     "f_tar": "06.02.2026 11:45:25"
+  },
+  {
+    "İD": "151.01.2009",
+    "reklam": "Pro Hareket Mili Uzun KAYNAK",
+    "adet": "1",
+    "atolye": "KAYNAK",
+    "kaynak": "20",
+    "torna": "40",
+    "montaj": "60",
+    "sevkiyat": "60",
+    "onay": true,
+    "bitis": true,
+    "tarih": "06.02.2026 11:34:46",
+    "usta": "sait",
+    "baslangic": "11:40:25",
+    "f_tar": "06.02.2026 11:45:27"
   }
 ]
