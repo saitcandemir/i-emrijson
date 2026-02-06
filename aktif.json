@@ -5,7 +5,9 @@
     "toplam": "444444444444",
     "atolye": "BOYA",
     "onay": false,
-    "bitis": false
+    "bitis": true,
+    "usta": "USTA 1",
+    "sure": "00:28"
   },
   {
     "İD": "1770331648889",
