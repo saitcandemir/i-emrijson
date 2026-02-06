@@ -78,5 +78,13 @@
     "tel": "333333333",
     "aktif": false,
     "is_basi": false
+  },
+  {
+    "id": "1770419900977",
+    "ad": "EEE333",
+    "brans": "TORNA",
+    "tel": "4444",
+    "aktif": false,
+    "is_basi": false
   }
 ]
