@@ -40,8 +40,10 @@
     "reklam": "33333",
     "toplam": "333333",
     "atolye": "TORNA",
-    "onay": false,
-    "bitis": false
+    "onay": true,
+    "bitis": false,
+    "usta": "sader",
+    "baslangic": "09:53:09"
   },
   {
     "İD": "1770331632949",
