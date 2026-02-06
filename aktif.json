@@ -82,7 +82,8 @@
     "durum": "AÇIK",
     "onay": true,
     "usta": "beeeen",
-    "baslangic": "11:21:48"
+    "baslangic": "11:21:48",
+    "bitis": true
   },
   {
     "İD": "151.01.2008",
@@ -105,7 +106,8 @@
     "durum": "AÇIK",
     "onay": true,
     "usta": "beeeen",
-    "baslangic": "11:21:48"
+    "baslangic": "11:21:48",
+    "bitis": true
   },
   {
     "İD": "151.01.1601",
@@ -116,7 +118,8 @@
     "durum": "AÇIK",
     "onay": true,
     "usta": "beeeen",
-    "baslangic": "11:21:48"
+    "baslangic": "11:21:48",
+    "bitis": true
   },
   {
     "İD": "151.01.1601",
@@ -127,7 +130,8 @@
     "durum": "AÇIK",
     "onay": true,
     "usta": "beeeen",
-    "baslangic": "11:21:48"
+    "baslangic": "11:21:48",
+    "bitis": true
   },
   {
     "İD": "151.01.1601",
@@ -141,7 +145,7 @@
       "sevkiyat": "60"
     },
     "tarih": "06.02.2026 11:18:00",
-    "bitis": false,
+    "bitis": true,
     "onay": true,
     "usta": "beeeen",
     "baslangic": "11:21:48"
@@ -175,7 +179,7 @@
       "sevkiyat": "60"
     },
     "tarih": "06.02.2026 11:20:16",
-    "bitis": false,
+    "bitis": true,
     "onay": true,
     "usta": "beeeen",
     "baslangic": "11:21:48"
