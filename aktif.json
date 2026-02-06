@@ -66,8 +66,10 @@
     "reklam": "151.01.1601",
     "toplam": "",
     "atolye": "KAYNAK",
-    "onay": false,
-    "bitis": false
+    "onay": true,
+    "bitis": false,
+    "usta": "beeeen",
+    "baslangic": "11:21:40"
   },
   {
     "İD": "151.01.1601",
