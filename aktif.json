@@ -186,5 +186,19 @@
     "bitis": false,
     "usta": "beeeen",
     "baslangic": "11:22:05"
+  },
+  {
+    "İD": "151.01.2220",
+    "reklam": "Platform Altsacİ Baklava KAYNAK",
+    "adet": "1",
+    "atolye": "KAYNAK",
+    "sureler": {
+      "kaynak": "20",
+      "torna": "40",
+      "montaj": "60",
+      "sevkiyat": "60"
+    },
+    "tarih": "06.02.2026 11:22:28",
+    "bitis": false
   }
 ]
