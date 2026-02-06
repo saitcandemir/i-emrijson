@@ -48,5 +48,12 @@
     "brans": "KAYNAK",
     "aktif": true,
     "is_basi": false
+  },
+  {
+    "id": "1770416569522",
+    "ad": "MEHMET",
+    "brans": "MONTAJ",
+    "aktif": false,
+    "is_basi": false
   }
 ]
