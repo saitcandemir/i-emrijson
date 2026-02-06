@@ -77,7 +77,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "tarih": "06.02.2026 11:06:45",
-    "durum": "AÇIK"
+    "durum": "AÇIK",
+    "onay": true,
+    "usta": "beeeen",
+    "baslangic": "11:21:48"
   },
   {
     "İD": "151.01.2008",
@@ -93,7 +96,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "tarih": "06.02.2026 11:10:09",
-    "durum": "AÇIK"
+    "durum": "AÇIK",
+    "onay": true,
+    "usta": "beeeen",
+    "baslangic": "11:21:48"
   },
   {
     "İD": "151.01.1601",
@@ -101,7 +107,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "tarih": "06.02.2026 11:10:12",
-    "durum": "AÇIK"
+    "durum": "AÇIK",
+    "onay": true,
+    "usta": "beeeen",
+    "baslangic": "11:21:48"
   },
   {
     "İD": "151.01.1601",
@@ -109,7 +118,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "tarih": "06.02.2026 11:10:13",
-    "durum": "AÇIK"
+    "durum": "AÇIK",
+    "onay": true,
+    "usta": "beeeen",
+    "baslangic": "11:21:48"
   },
   {
     "İD": "151.01.1601",
@@ -123,7 +135,10 @@
       "sevkiyat": "60"
     },
     "tarih": "06.02.2026 11:18:00",
-    "bitis": false
+    "bitis": false,
+    "onay": true,
+    "usta": "beeeen",
+    "baslangic": "11:21:48"
   },
   {
     "İD": "151.01.2220",
@@ -151,7 +166,10 @@
       "sevkiyat": "60"
     },
     "tarih": "06.02.2026 11:20:16",
-    "bitis": false
+    "bitis": false,
+    "onay": true,
+    "usta": "beeeen",
+    "baslangic": "11:21:48"
   },
   {
     "İD": "1770366090568",
