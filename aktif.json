@@ -41,7 +41,7 @@
     "toplam": "333333",
     "atolye": "TORNA",
     "onay": true,
-    "bitis": false,
+    "bitis": true,
     "usta": "sader",
     "baslangic": "09:53:09"
   },
