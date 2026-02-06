@@ -113,9 +113,10 @@
     "montaj": "60",
     "sevkiyat": "60",
     "onay": true,
-    "bitis": false,
+    "bitis": true,
     "tarih": "07.02.2026 01:20:07",
     "usta": "SAİT",
-    "baslangic": "01:21:02"
+    "baslangic": "01:21:02",
+    "bitis_tar": "01:30:19"
   }
 ]
