@@ -27,5 +27,12 @@
     "brans": "KAYNAK",
     "aktif": true,
     "is_basi": true
+  },
+  {
+    "id": "1770362804318",
+    "ad": "hasaaan",
+    "brans": "BOYA",
+    "aktif": false,
+    "is_basi": false
   }
 ]
