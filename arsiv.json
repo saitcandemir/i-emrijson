@@ -144,5 +144,18 @@
     "usta": "beeeen",
     "baslangic": "11:21:40",
     "f_tar": "06.02.2026 11:44:59"
+  },
+  {
+    "İD": "151.01.1601",
+    "reklam": "ESKİ TİP PLATFORM MONTAJİ",
+    "adet": "1",
+    "atolye": "KAYNAK",
+    "tarih": "06.02.2026 11:06:45",
+    "durum": "AÇIK",
+    "onay": true,
+    "usta": "beeeen",
+    "baslangic": "11:21:48",
+    "bitis": true,
+    "f_tar": "06.02.2026 11:45:04"
   }
 ]
