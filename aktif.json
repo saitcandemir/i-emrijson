@@ -3,7 +3,9 @@
     "İD": "444",
     "reklam": "44",
     "toplam": "444",
-    "onay": false
+    "onay": true,
+    "usta": "sa",
+    "baslangic": "11:39:14"
   },
   {
     "İD": "1770331363657",
