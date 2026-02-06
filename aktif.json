@@ -12,8 +12,10 @@
     "reklam": "555555",
     "toplam": "555555555",
     "atolye": "MONTAJ",
-    "onay": false,
-    "bitis": false
+    "onay": true,
+    "bitis": false,
+    "usta": "MEHMET",
+    "baslangic": "01:23:41"
   },
   {
     "İD": "152.02.202",
