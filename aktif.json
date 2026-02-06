@@ -24,8 +24,10 @@
     "torna": "40",
     "montaj": "60",
     "sevkiyat": "60",
-    "onay": false,
+    "onay": true,
     "bitis": false,
-    "tarih": "06.02.2026 11:43:48"
+    "tarih": "06.02.2026 11:43:48",
+    "usta": "beeeen",
+    "baslangic": "11:45:58"
   }
 ]
