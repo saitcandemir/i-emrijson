@@ -70,5 +70,13 @@
     "tel": "33333333333333333",
     "aktif": false,
     "is_basi": false
+  },
+  {
+    "id": "1770419816814",
+    "ad": "MERTISAA",
+    "brans": "KAYNAK",
+    "tel": "333333333",
+    "aktif": false,
+    "is_basi": false
   }
 ]
