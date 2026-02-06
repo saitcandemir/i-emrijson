@@ -88,7 +88,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "tarih": "06.02.2026 11:08:19",
-    "durum": "AÇIK"
+    "durum": "AÇIK",
+    "onay": true,
+    "usta": "beeeen",
+    "baslangic": "11:22:12"
   },
   {
     "İD": "151.01.1601",
