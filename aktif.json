@@ -16,18 +16,6 @@
     "bitis": false
   },
   {
-    "İD": "151.01.1601",
-    "reklam": "ESKİ TİP PLATFORM MONTAJİ",
-    "adet": "1",
-    "atolye": "KAYNAK",
-    "tarih": "06.02.2026 11:06:45",
-    "durum": "AÇIK",
-    "onay": true,
-    "usta": "beeeen",
-    "baslangic": "11:21:48",
-    "bitis": true
-  },
-  {
     "İD": "151.01.2008",
     "reklam": "Pro Hareket Mili Kİsa KAYNAK",
     "adet": "1",
@@ -38,59 +26,6 @@
     "usta": "sait",
     "baslangic": "11:40:14",
     "bitis": true
-  },
-  {
-    "İD": "151.01.1601",
-    "reklam": "ESKİ TİP PLATFORM MONTAJİ",
-    "adet": "1",
-    "atolye": "KAYNAK",
-    "tarih": "06.02.2026 11:10:09",
-    "durum": "AÇIK",
-    "onay": true,
-    "usta": "beeeen",
-    "baslangic": "11:21:48",
-    "bitis": true
-  },
-  {
-    "İD": "151.01.1601",
-    "reklam": "ESKİ TİP PLATFORM MONTAJİ",
-    "adet": "1",
-    "atolye": "KAYNAK",
-    "tarih": "06.02.2026 11:10:12",
-    "durum": "AÇIK",
-    "onay": true,
-    "usta": "beeeen",
-    "baslangic": "11:21:48",
-    "bitis": true
-  },
-  {
-    "İD": "151.01.1601",
-    "reklam": "ESKİ TİP PLATFORM MONTAJİ",
-    "adet": "1",
-    "atolye": "KAYNAK",
-    "tarih": "06.02.2026 11:10:13",
-    "durum": "AÇIK",
-    "onay": true,
-    "usta": "beeeen",
-    "baslangic": "11:21:48",
-    "bitis": true
-  },
-  {
-    "İD": "151.01.1601",
-    "reklam": "ESKİ TİP PLATFORM MONTAJİ",
-    "adet": "1",
-    "atolye": "KAYNAK",
-    "sureler": {
-      "kaynak": "45",
-      "torna": "40",
-      "montaj": "60",
-      "sevkiyat": "60"
-    },
-    "tarih": "06.02.2026 11:18:00",
-    "bitis": true,
-    "onay": true,
-    "usta": "beeeen",
-    "baslangic": "11:21:48"
   },
   {
     "İD": "151.01.2220",
@@ -108,23 +43,6 @@
     "onay": true,
     "usta": "beeeen",
     "baslangic": "11:22:49"
-  },
-  {
-    "İD": "151.01.1601",
-    "reklam": "ESKİ TİP PLATFORM MONTAJİ",
-    "adet": "1",
-    "atolye": "KAYNAK",
-    "sureler": {
-      "kaynak": "45",
-      "torna": "40",
-      "montaj": "60",
-      "sevkiyat": "60"
-    },
-    "tarih": "06.02.2026 11:20:16",
-    "bitis": true,
-    "onay": true,
-    "usta": "beeeen",
-    "baslangic": "11:21:48"
   },
   {
     "İD": "1770366090568",
