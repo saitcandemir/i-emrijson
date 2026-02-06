@@ -42,9 +42,11 @@
     "torna": "140",
     "montaj": "601",
     "sevkiyat": "60",
-    "onay": false,
+    "onay": true,
     "bitis": false,
-    "tarih": "07.02.2026 00:50:01"
+    "tarih": "07.02.2026 00:50:01",
+    "usta": "SAİT",
+    "baslangic": "01:29:54"
   },
   {
     "İD": "151.01.1601",
