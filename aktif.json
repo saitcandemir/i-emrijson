@@ -97,10 +97,11 @@
     "montaj": "60",
     "sevkiyat": "60",
     "onay": true,
-    "bitis": false,
+    "bitis": true,
     "tarih": "07.02.2026 01:18:23",
     "usta": "SAİT",
-    "baslangic": "01:30:06"
+    "baslangic": "01:30:06",
+    "bitis_tar": "01:30:12"
   },
   {
     "İD": "151.01.2450_2",
