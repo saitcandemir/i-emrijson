@@ -93,7 +93,8 @@
     "durum": "AÇIK",
     "onay": true,
     "usta": "sait",
-    "baslangic": "11:40:14"
+    "baslangic": "11:40:14",
+    "bitis": true
   },
   {
     "İD": "151.01.1601",
@@ -216,7 +217,7 @@
     "montaj": "60",
     "sevkiyat": "60",
     "onay": true,
-    "bitis": false,
+    "bitis": true,
     "tarih": "06.02.2026 11:33:21",
     "usta": "sait",
     "baslangic": "11:40:14"
@@ -261,7 +262,7 @@
     "montaj": "60",
     "sevkiyat": "60",
     "onay": true,
-    "bitis": false,
+    "bitis": true,
     "tarih": "06.02.2026 11:36:37",
     "usta": "sait",
     "baslangic": "11:40:14"
