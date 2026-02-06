@@ -108,5 +108,19 @@
     "atolye": "KAYNAK",
     "tarih": "06.02.2026 11:10:13",
     "durum": "AÇIK"
+  },
+  {
+    "İD": "151.01.1601",
+    "reklam": "ESKİ TİP PLATFORM MONTAJİ",
+    "adet": "1",
+    "atolye": "KAYNAK",
+    "sureler": {
+      "kaynak": "45",
+      "torna": "40",
+      "montaj": "60",
+      "sevkiyat": "60"
+    },
+    "tarih": "06.02.2026 11:18:00",
+    "bitis": false
   }
 ]
