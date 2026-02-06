@@ -232,7 +232,7 @@
     "montaj": "60",
     "sevkiyat": "60",
     "onay": true,
-    "bitis": false,
+    "bitis": true,
     "tarih": "06.02.2026 11:34:46",
     "usta": "sait",
     "baslangic": "11:40:25"
@@ -247,7 +247,7 @@
     "montaj": "60",
     "sevkiyat": "60",
     "onay": true,
-    "bitis": false,
+    "bitis": true,
     "tarih": "06.02.2026 11:36:00",
     "usta": "sait",
     "baslangic": "11:40:25"
