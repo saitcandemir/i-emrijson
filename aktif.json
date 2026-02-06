@@ -16,18 +16,6 @@
     "bitis": false
   },
   {
-    "İD": "151.01.2008",
-    "reklam": "Pro Hareket Mili Kİsa KAYNAK",
-    "adet": "1",
-    "atolye": "KAYNAK",
-    "tarih": "06.02.2026 11:08:19",
-    "durum": "AÇIK",
-    "onay": true,
-    "usta": "sait",
-    "baslangic": "11:40:14",
-    "bitis": true
-  },
-  {
     "İD": "151.01.2220",
     "reklam": "Platform Altsacİ Baklava KAYNAK",
     "adet": "1",
@@ -72,21 +60,6 @@
     "baslangic": "11:22:49"
   },
   {
-    "İD": "151.01.2008",
-    "reklam": "Pro Hareket Mili Kİsa KAYNAK",
-    "adet": "1",
-    "atolye": "KAYNAK",
-    "kaynak": "20",
-    "torna": "40",
-    "montaj": "60",
-    "sevkiyat": "60",
-    "onay": true,
-    "bitis": true,
-    "tarih": "06.02.2026 11:33:21",
-    "usta": "sait",
-    "baslangic": "11:40:14"
-  },
-  {
     "İD": "151.01.2009",
     "reklam": "Pro Hareket Mili Uzun KAYNAK",
     "adet": "1",
@@ -115,21 +88,6 @@
     "tarih": "06.02.2026 11:36:00",
     "usta": "sait",
     "baslangic": "11:40:25"
-  },
-  {
-    "İD": "151.01.2008",
-    "reklam": "Pro Hareket Mili Kİsa KAYNAK",
-    "adet": "3333",
-    "atolye": "SEVKIYAT",
-    "kaynak": "20",
-    "torna": "40",
-    "montaj": "60",
-    "sevkiyat": "60",
-    "onay": true,
-    "bitis": true,
-    "tarih": "06.02.2026 11:36:37",
-    "usta": "sait",
-    "baslangic": "11:40:14"
   },
   {
     "İD": "152.02.202",
