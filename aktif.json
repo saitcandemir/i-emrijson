@@ -29,5 +29,18 @@
     "tarih": "06.02.2026 11:43:48",
     "usta": "beeeen",
     "baslangic": "11:45:58"
+  },
+  {
+    "İD": "151.01.2506",
+    "reklam": "KESİM UST SAC KAYNAK 182",
+    "adet": "3",
+    "atolye": "TORNA",
+    "kaynak": "120",
+    "torna": "140",
+    "montaj": "601",
+    "sevkiyat": "60",
+    "onay": false,
+    "bitis": false,
+    "tarih": "07.02.2026 00:50:01"
   }
 ]
