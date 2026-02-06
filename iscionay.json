@@ -55,5 +55,12 @@
     "brans": "MONTAJ",
     "aktif": true,
     "is_basi": false
+  },
+  {
+    "id": "1770416870242",
+    "ad": "SAIT",
+    "brans": "TORNA",
+    "aktif": false,
+    "is_basi": false
   }
 ]
