@@ -171,5 +171,17 @@
     "onay": false,
     "bitis": false,
     "tarih": "07.02.2026 10:47:54"
+  },
+  {
+    "İD": "151.01.1600",
+    "reklam": "STOP YAY LAMASİ KAYNAK",
+    "adet": "5",
+    "atolye": "SEVKIYAT",
+    "hedef_sure": "450",
+    "birim_sure": "90",
+    "usta": null,
+    "onay": false,
+    "bitis": false,
+    "tarih": "07.02.2026 10:53:11"
   }
 ]
