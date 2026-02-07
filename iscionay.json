@@ -8,5 +8,13 @@
     "cihaz": "ALS_vo6g83lz1",
     "aktif": true,
     "is_basi": false
+  },
+  {
+    "id": "1770444769408",
+    "ad": "SAIT2",
+    "kanalID": "SAIT2_4130",
+    "brans": "",
+    "aktif": false,
+    "foto": ""
   }
 ]
