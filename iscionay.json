@@ -9,5 +9,13 @@
     "aktif": true,
     "is_basi": false,
     "kayit_tarihi": "07.02.2026 08:29:18"
+  },
+  {
+    "id": "1770444496307",
+    "ad": "SAIT CANDEMIR2",
+    "kanalID": "SAITCANDEMIR2_4001",
+    "brans": "",
+    "aktif": false,
+    "foto": "https://via.placeholder.com/150"
   }
 ]
