@@ -60,9 +60,11 @@
     "torna": "40",
     "montaj": "60",
     "sevkiyat": "60",
-    "onay": false,
+    "onay": true,
     "bitis": false,
-    "tarih": "07.02.2026 01:05:56"
+    "tarih": "07.02.2026 01:05:56",
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.2008",
@@ -192,10 +194,11 @@
     "atolye": "MONTAJ",
     "hedef_sure": "60",
     "birim_sure": "60",
-    "usta": null,
-    "onay": false,
+    "usta": "saıt",
+    "onay": true,
     "bitis": false,
-    "tarih": "07.02.2026 10:53:44"
+    "tarih": "07.02.2026 10:53:44",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -204,10 +207,11 @@
     "atolye": "SEVKIYAT",
     "hedef_sure": "300",
     "birim_sure": "60",
-    "usta": null,
-    "onay": false,
+    "usta": "saıt",
+    "onay": true,
     "bitis": false,
-    "tarih": "07.02.2026 10:54:34"
+    "tarih": "07.02.2026 10:54:34",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -217,7 +221,10 @@
     "birim_sure": "45",
     "toplam_sure": "45",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 10:57:38"
+    "tarih": "07.02.2026 10:57:38",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -227,7 +234,10 @@
     "birim_sure": "45",
     "toplam_sure": "90",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 11:04:27"
+    "tarih": "07.02.2026 11:04:27",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -237,7 +247,10 @@
     "birim_sure": "99",
     "toplam_sure": "3267",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 11:05:04"
+    "tarih": "07.02.2026 11:05:04",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -247,7 +260,10 @@
     "birim_sure": "45",
     "toplam_sure": "135",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 11:09:23"
+    "tarih": "07.02.2026 11:09:23",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -257,7 +273,10 @@
     "birim_sure": "88",
     "toplam_sure": "264",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 11:11:25"
+    "tarih": "07.02.2026 11:11:25",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.2008",
@@ -273,7 +292,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "tarih": "07.02.2026 11:25:41",
-    "durum": "BEKLEMEDE"
+    "durum": "BEKLEMEDE",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -281,7 +303,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "tarih": "07.02.2026 11:31:45",
-    "durum": "BEKLEMEDE"
+    "durum": "BEKLEMEDE",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.2008",
@@ -299,7 +324,10 @@
     "adet": "3",
     "atolye": "TORNA",
     "tarih": "07.02.2026 11:50:21",
-    "durum": "BEKLEMEDE"
+    "durum": "BEKLEMEDE",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -307,7 +335,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "tarih": "07.02.2026 11:54:10",
-    "durum": "BEKLEMEDE"
+    "durum": "BEKLEMEDE",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -317,7 +348,10 @@
     "birim_sure": "60",
     "toplam_sure": "1320",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 11:57:57"
+    "tarih": "07.02.2026 11:57:57",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -325,7 +359,10 @@
     "adet": "55",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 12:01:59"
+    "tarih": "07.02.2026 12:01:59",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -333,7 +370,10 @@
     "adet": "55",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 12:02:23"
+    "tarih": "07.02.2026 12:02:23",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -341,7 +381,10 @@
     "adet": "55",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 12:03:55"
+    "tarih": "07.02.2026 12:03:55",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -349,7 +392,10 @@
     "adet": "55",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 12:04:14"
+    "tarih": "07.02.2026 12:04:14",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -357,7 +403,10 @@
     "adet": "55",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 12:04:34"
+    "tarih": "07.02.2026 12:04:34",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -365,7 +414,10 @@
     "adet": "55",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 12:04:46"
+    "tarih": "07.02.2026 12:04:46",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -373,7 +425,10 @@
     "adet": "55",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 12:05:14"
+    "tarih": "07.02.2026 12:05:14",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.2008",
@@ -389,7 +444,10 @@
     "adet": "1",
     "atolye": "SEVKIYAT",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 12:28:37"
+    "tarih": "07.02.2026 12:28:37",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -397,7 +455,10 @@
     "adet": "1",
     "atolye": "SEVKIYAT",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 12:33:41"
+    "tarih": "07.02.2026 12:33:41",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -405,7 +466,10 @@
     "adet": "5",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 12:38:43"
+    "tarih": "07.02.2026 12:38:43",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -413,7 +477,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 12:43:04"
+    "tarih": "07.02.2026 12:43:04",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.2008",
@@ -429,7 +496,10 @@
     "adet": "5",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:09:43"
+    "tarih": "07.02.2026 13:09:43",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -437,7 +507,10 @@
     "adet": "5",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:10:09"
+    "tarih": "07.02.2026 13:10:09",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -445,7 +518,10 @@
     "adet": "5",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:10:12"
+    "tarih": "07.02.2026 13:10:12",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -453,7 +529,10 @@
     "adet": "3",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:14:05"
+    "tarih": "07.02.2026 13:14:05",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -461,7 +540,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:15:32"
+    "tarih": "07.02.2026 13:15:32",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -469,7 +551,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:15:37"
+    "tarih": "07.02.2026 13:15:37",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -477,7 +562,10 @@
     "adet": "4",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:16:59"
+    "tarih": "07.02.2026 13:16:59",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -485,7 +573,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:19:00"
+    "tarih": "07.02.2026 13:19:00",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -493,7 +584,10 @@
     "adet": "5",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:20:46"
+    "tarih": "07.02.2026 13:20:46",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -501,7 +595,10 @@
     "adet": "5",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:20:52"
+    "tarih": "07.02.2026 13:20:52",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -509,7 +606,10 @@
     "adet": "4",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:23:20"
+    "tarih": "07.02.2026 13:23:20",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -517,7 +617,10 @@
     "adet": "4",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:23:39"
+    "tarih": "07.02.2026 13:23:39",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -525,7 +628,10 @@
     "adet": "4",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:24:23"
+    "tarih": "07.02.2026 13:24:23",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -533,7 +639,10 @@
     "adet": "4",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:24:40"
+    "tarih": "07.02.2026 13:24:40",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -541,7 +650,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:25:26"
+    "tarih": "07.02.2026 13:25:26",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -549,7 +661,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:25:37"
+    "tarih": "07.02.2026 13:25:37",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -557,7 +672,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:25:55"
+    "tarih": "07.02.2026 13:25:55",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -565,7 +683,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:26:28"
+    "tarih": "07.02.2026 13:26:28",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -573,7 +694,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:26:53"
+    "tarih": "07.02.2026 13:26:53",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -581,7 +705,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:27:01"
+    "tarih": "07.02.2026 13:27:01",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -589,7 +716,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:27:23"
+    "tarih": "07.02.2026 13:27:23",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -597,7 +727,10 @@
     "adet": "3",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:33:30"
+    "tarih": "07.02.2026 13:33:30",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -605,7 +738,10 @@
     "adet": "3",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:35:26"
+    "tarih": "07.02.2026 13:35:26",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -613,7 +749,10 @@
     "adet": "3",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:35:37"
+    "tarih": "07.02.2026 13:35:37",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.2454",
@@ -629,7 +768,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:46:11"
+    "tarih": "07.02.2026 13:46:11",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -637,7 +779,10 @@
     "adet": "3",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:50:31"
+    "tarih": "07.02.2026 13:50:31",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -645,7 +790,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:51:18"
+    "tarih": "07.02.2026 13:51:18",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -653,7 +801,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:51:40"
+    "tarih": "07.02.2026 13:51:40",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -661,7 +812,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:55:32"
+    "tarih": "07.02.2026 13:55:32",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -669,7 +823,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 14:00:39"
+    "tarih": "07.02.2026 14:00:39",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -677,7 +834,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 14:02:25"
+    "tarih": "07.02.2026 14:02:25",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -685,7 +845,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 14:02:39"
+    "tarih": "07.02.2026 14:02:39",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -693,7 +856,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 14:03:08"
+    "tarih": "07.02.2026 14:03:08",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -701,7 +867,10 @@
     "adet": "1",
     "atolye": "TORNA",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 14:03:29"
+    "tarih": "07.02.2026 14:03:29",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -709,7 +878,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 14:03:38"
+    "tarih": "07.02.2026 14:03:38",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -717,7 +889,10 @@
     "adet": "4",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 14:03:48"
+    "tarih": "07.02.2026 14:03:48",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -725,7 +900,10 @@
     "adet": "4",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 14:03:49"
+    "tarih": "07.02.2026 14:03:49",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -733,7 +911,10 @@
     "adet": "4",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 14:03:52"
+    "tarih": "07.02.2026 14:03:52",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -741,7 +922,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 14:05:52"
+    "tarih": "07.02.2026 14:05:52",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -749,7 +933,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 14:06:55"
+    "tarih": "07.02.2026 14:06:55",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -757,7 +944,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 14:17:12"
+    "tarih": "07.02.2026 14:17:12",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -765,7 +955,10 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 14:17:34"
+    "tarih": "07.02.2026 14:17:34",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   },
   {
     "İD": "151.01.1601",
@@ -773,6 +966,9 @@
     "adet": "1",
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 14:27:17"
+    "tarih": "07.02.2026 14:27:17",
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "14:55:31"
   }
 ]
