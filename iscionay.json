@@ -1,12 +1,5 @@
 [
   {
-    "id": "1001",
-    "ad": "ÖRNEK PERSONEL",
-    "tel": "555-000-0000",
-    "aktif": true,
-    "is_basi": false
-  },
-  {
     "id": "1770328331821",
     "ad": "saıt",
     "brans": "tasarım",
