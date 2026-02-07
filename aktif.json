@@ -76,9 +76,11 @@
     "torna": "4044",
     "montaj": "60",
     "sevkiyat": "60",
-    "onay": false,
+    "onay": true,
     "bitis": false,
-    "tarih": "07.02.2026 01:07:16"
+    "tarih": "07.02.2026 01:07:16",
+    "usta": "sait",
+    "baslangic": "14:56:00"
   },
   {
     "İD": "151.01.2009",
@@ -297,7 +299,10 @@
     "adet": "4",
     "atolye": "KAYNAK",
     "tarih": "07.02.2026 11:14:41",
-    "durum": "BEKLEMEDE"
+    "durum": "BEKLEMEDE",
+    "onay": true,
+    "usta": "sait",
+    "baslangic": "14:56:00"
   },
   {
     "İD": "151.01.1601",
@@ -333,7 +338,10 @@
     "birim_sure": "20",
     "toplam_sure": "100",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 11:43:57"
+    "tarih": "07.02.2026 11:43:57",
+    "onay": true,
+    "usta": "sait",
+    "baslangic": "14:56:00"
   },
   {
     "İD": "151.01.1601",
@@ -473,7 +481,10 @@
     "adet": "22",
     "atolye": "SEVKIYAT",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 12:06:35"
+    "tarih": "07.02.2026 12:06:35",
+    "onay": true,
+    "usta": "sait",
+    "baslangic": "14:56:00"
   },
   {
     "İD": "151.01.1601",
@@ -533,7 +544,10 @@
     "adet": "33",
     "atolye": "TORNA",
     "durum": "BEKLEMEDE",
-    "tarih": "07.02.2026 13:00:04"
+    "tarih": "07.02.2026 13:00:04",
+    "onay": true,
+    "usta": "sait",
+    "baslangic": "14:56:00"
   },
   {
     "İD": "151.01.1601",
