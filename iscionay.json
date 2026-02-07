@@ -16,5 +16,13 @@
     "brans": "KAYNAK, TORNA, MONTAJ, SEVK",
     "aktif": true,
     "foto": ""
+  },
+  {
+    "id": "1770463756032",
+    "ad": "HASAN",
+    "kanalID": "HASAN_2697",
+    "brans": "",
+    "aktif": false,
+    "foto": ""
   }
 ]
