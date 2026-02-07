@@ -140,9 +140,11 @@
     "torna": "40",
     "montaj": "60",
     "sevkiyat": "60",
-    "onay": false,
+    "onay": true,
     "bitis": false,
-    "tarih": "07.02.2026 02:22:23"
+    "tarih": "07.02.2026 02:22:23",
+    "usta": "sait",
+    "baslangic": "14:57:20"
   },
   {
     "İD": "151.01.2047",
@@ -183,10 +185,11 @@
     "atolye": "KAYNAK",
     "hedef_sure": "60",
     "birim_sure": "20",
-    "usta": null,
-    "onay": false,
+    "usta": "sait",
+    "onay": true,
     "bitis": false,
-    "tarih": "07.02.2026 10:47:54"
+    "tarih": "07.02.2026 10:47:54",
+    "baslangic": "14:57:20"
   },
   {
     "İD": "151.01.1600",
