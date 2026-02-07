@@ -76,7 +76,7 @@
     "ad": "MERTISAA",
     "brans": "KAYNAK",
     "tel": "333333333",
-    "aktif": false,
+    "aktif": true,
     "is_basi": false
   }
 ]
