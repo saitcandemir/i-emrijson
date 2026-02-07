@@ -15,9 +15,10 @@
     "toplam": "555555555",
     "atolye": "MONTAJ",
     "onay": true,
-    "bitis": false,
+    "bitis": true,
     "usta": "MEHMET",
-    "baslangic": "01:23:41"
+    "baslangic": "01:23:41",
+    "bitis_tar": "14:56:44"
   },
   {
     "İD": "152.02.202",
