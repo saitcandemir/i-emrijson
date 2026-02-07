@@ -61,10 +61,11 @@
     "montaj": "60",
     "sevkiyat": "60",
     "onay": true,
-    "bitis": false,
+    "bitis": true,
     "tarih": "07.02.2026 01:05:56",
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.2008",
@@ -196,9 +197,10 @@
     "birim_sure": "60",
     "usta": "saıt",
     "onay": true,
-    "bitis": false,
+    "bitis": true,
     "tarih": "07.02.2026 10:53:44",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -209,9 +211,10 @@
     "birim_sure": "60",
     "usta": "saıt",
     "onay": true,
-    "bitis": false,
+    "bitis": true,
     "tarih": "07.02.2026 10:54:34",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -224,7 +227,9 @@
     "tarih": "07.02.2026 10:57:38",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -237,7 +242,9 @@
     "tarih": "07.02.2026 11:04:27",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -250,7 +257,9 @@
     "tarih": "07.02.2026 11:05:04",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -263,7 +272,9 @@
     "tarih": "07.02.2026 11:09:23",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -276,7 +287,9 @@
     "tarih": "07.02.2026 11:11:25",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.2008",
@@ -295,7 +308,9 @@
     "durum": "BEKLEMEDE",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -306,7 +321,9 @@
     "durum": "BEKLEMEDE",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.2008",
@@ -327,7 +344,9 @@
     "durum": "BEKLEMEDE",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -338,7 +357,9 @@
     "durum": "BEKLEMEDE",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -351,7 +372,9 @@
     "tarih": "07.02.2026 11:57:57",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -362,7 +385,9 @@
     "tarih": "07.02.2026 12:01:59",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -373,7 +398,9 @@
     "tarih": "07.02.2026 12:02:23",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -384,7 +411,9 @@
     "tarih": "07.02.2026 12:03:55",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -395,7 +424,9 @@
     "tarih": "07.02.2026 12:04:14",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -406,7 +437,9 @@
     "tarih": "07.02.2026 12:04:34",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -417,7 +450,9 @@
     "tarih": "07.02.2026 12:04:46",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -428,7 +463,9 @@
     "tarih": "07.02.2026 12:05:14",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.2008",
@@ -447,7 +484,9 @@
     "tarih": "07.02.2026 12:28:37",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -458,7 +497,9 @@
     "tarih": "07.02.2026 12:33:41",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -469,7 +510,9 @@
     "tarih": "07.02.2026 12:38:43",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -480,7 +523,9 @@
     "tarih": "07.02.2026 12:43:04",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.2008",
@@ -499,7 +544,9 @@
     "tarih": "07.02.2026 13:09:43",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -510,7 +557,9 @@
     "tarih": "07.02.2026 13:10:09",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -521,7 +570,9 @@
     "tarih": "07.02.2026 13:10:12",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -532,7 +583,9 @@
     "tarih": "07.02.2026 13:14:05",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -543,7 +596,9 @@
     "tarih": "07.02.2026 13:15:32",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -554,7 +609,9 @@
     "tarih": "07.02.2026 13:15:37",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -565,7 +622,9 @@
     "tarih": "07.02.2026 13:16:59",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -576,7 +635,9 @@
     "tarih": "07.02.2026 13:19:00",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -587,7 +648,9 @@
     "tarih": "07.02.2026 13:20:46",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -598,7 +661,9 @@
     "tarih": "07.02.2026 13:20:52",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -609,7 +674,9 @@
     "tarih": "07.02.2026 13:23:20",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -620,7 +687,9 @@
     "tarih": "07.02.2026 13:23:39",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -631,7 +700,9 @@
     "tarih": "07.02.2026 13:24:23",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -642,7 +713,9 @@
     "tarih": "07.02.2026 13:24:40",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -653,7 +726,9 @@
     "tarih": "07.02.2026 13:25:26",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -664,7 +739,9 @@
     "tarih": "07.02.2026 13:25:37",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -675,7 +752,9 @@
     "tarih": "07.02.2026 13:25:55",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -686,7 +765,9 @@
     "tarih": "07.02.2026 13:26:28",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -697,7 +778,9 @@
     "tarih": "07.02.2026 13:26:53",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -708,7 +791,9 @@
     "tarih": "07.02.2026 13:27:01",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -719,7 +804,9 @@
     "tarih": "07.02.2026 13:27:23",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -730,7 +817,9 @@
     "tarih": "07.02.2026 13:33:30",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -741,7 +830,9 @@
     "tarih": "07.02.2026 13:35:26",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -752,7 +843,9 @@
     "tarih": "07.02.2026 13:35:37",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.2454",
@@ -771,7 +864,9 @@
     "tarih": "07.02.2026 13:46:11",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -782,7 +877,9 @@
     "tarih": "07.02.2026 13:50:31",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -793,7 +890,9 @@
     "tarih": "07.02.2026 13:51:18",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -804,7 +903,9 @@
     "tarih": "07.02.2026 13:51:40",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -815,7 +916,9 @@
     "tarih": "07.02.2026 13:55:32",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -826,7 +929,9 @@
     "tarih": "07.02.2026 14:00:39",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -837,7 +942,9 @@
     "tarih": "07.02.2026 14:02:25",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -848,7 +955,9 @@
     "tarih": "07.02.2026 14:02:39",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -859,7 +968,9 @@
     "tarih": "07.02.2026 14:03:08",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -870,7 +981,9 @@
     "tarih": "07.02.2026 14:03:29",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -881,7 +994,9 @@
     "tarih": "07.02.2026 14:03:38",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -892,7 +1007,9 @@
     "tarih": "07.02.2026 14:03:48",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -903,7 +1020,9 @@
     "tarih": "07.02.2026 14:03:49",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -914,7 +1033,9 @@
     "tarih": "07.02.2026 14:03:52",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -925,7 +1046,9 @@
     "tarih": "07.02.2026 14:05:52",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -936,7 +1059,9 @@
     "tarih": "07.02.2026 14:06:55",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -947,7 +1072,9 @@
     "tarih": "07.02.2026 14:17:12",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -958,7 +1085,9 @@
     "tarih": "07.02.2026 14:17:34",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   },
   {
     "İD": "151.01.1601",
@@ -969,6 +1098,8 @@
     "tarih": "07.02.2026 14:27:17",
     "onay": true,
     "usta": "saıt",
-    "baslangic": "14:55:31"
+    "baslangic": "14:55:31",
+    "bitis": true,
+    "bitis_tar": "14:55:34"
   }
 ]
