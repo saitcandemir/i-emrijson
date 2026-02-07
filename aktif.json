@@ -307,5 +307,15 @@
     "atolye": "KAYNAK",
     "tarih": "07.02.2026 11:54:10",
     "durum": "BEKLEMEDE"
+  },
+  {
+    "İD": "151.01.1601",
+    "reklam": "ESKİ TİP PLATFORM MONTAJİ",
+    "adet": "22",
+    "atolye": "SEVKIYAT",
+    "birim_sure": "60",
+    "toplam_sure": "1320",
+    "durum": "BEKLEMEDE",
+    "tarih": "07.02.2026 11:57:57"
   }
 ]
