@@ -110,7 +110,7 @@
     "tarih": "07.02.2026 01:18:23",
     "usta": "sait",
     "baslangic": "14:56:20",
-    "bitis_tar": "01:30:12"
+    "bitis_tar": "14:56:31"
   },
   {
     "İD": "151.01.2450_2",
@@ -166,10 +166,11 @@
     "montaj": "60",
     "sevkiyat": "60",
     "onay": true,
-    "bitis": false,
+    "bitis": true,
     "tarih": "07.02.2026 10:04:49",
     "usta": "sait",
-    "baslangic": "14:56:20"
+    "baslangic": "14:56:20",
+    "bitis_tar": "14:56:31"
   },
   {
     "İD": "151.01.2451",
