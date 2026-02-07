@@ -86,13 +86,5 @@
     "tel": "4444",
     "aktif": false,
     "is_basi": false
-  },
-  {
-    "id": "1770419941880",
-    "ad": "SELAMI",
-    "brans": "TORNA",
-    "tel": "33333333333",
-    "aktif": true,
-    "is_basi": false
   }
 ]
