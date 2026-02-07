@@ -27,7 +27,7 @@
     "tarih": "06.02.2026 11:43:48",
     "startTarihi": "07.02.2026 19:03:21",
     "durum": "CALISIYOR",
-    "gecenSaniye": 56,
+    "gecenSaniye": 96,
     "ozelSaniye": 0
   },
   {
@@ -49,7 +49,7 @@
     "tarih": "07.02.2026 01:05:56",
     "startTarihi": "07.02.2026 19:03:27",
     "durum": "CALISIYOR",
-    "gecenSaniye": 50,
+    "gecenSaniye": 90,
     "ozelSaniye": 0
   },
   {
@@ -115,7 +115,7 @@
     "tarih": "07.02.2026 08:13:48",
     "startTarihi": "07.02.2026 19:04:16",
     "durum": "CALISIYOR",
-    "gecenSaniye": 0,
+    "gecenSaniye": 40,
     "ozelSaniye": 0
   },
   {
@@ -718,9 +718,9 @@
     "reklam": "Klepe Mili KAYNAK 222",
     "usta": "USTA BELİRSİZ",
     "tarih": "07.02.2026 13:38:53",
-    "startTarihi": null,
-    "durum": "BEKLEMEDE",
-    "gecenSaniye": 0,
+    "startTarihi": "07.02.2026 19:04:56",
+    "durum": "CALISIYOR",
+    "gecenSaniye": 1,
     "ozelSaniye": 0
   },
   {
