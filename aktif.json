@@ -77,10 +77,11 @@
     "montaj": "60",
     "sevkiyat": "60",
     "onay": true,
-    "bitis": false,
+    "bitis": true,
     "tarih": "07.02.2026 01:07:16",
     "usta": "sait",
-    "baslangic": "14:56:00"
+    "baslangic": "14:56:00",
+    "bitis_tar": "14:56:14"
   },
   {
     "İD": "151.01.2009",
@@ -302,7 +303,9 @@
     "durum": "BEKLEMEDE",
     "onay": true,
     "usta": "sait",
-    "baslangic": "14:56:00"
+    "baslangic": "14:56:00",
+    "bitis": true,
+    "bitis_tar": "14:56:14"
   },
   {
     "İD": "151.01.1601",
@@ -341,7 +344,9 @@
     "tarih": "07.02.2026 11:43:57",
     "onay": true,
     "usta": "sait",
-    "baslangic": "14:56:00"
+    "baslangic": "14:56:00",
+    "bitis": true,
+    "bitis_tar": "14:56:14"
   },
   {
     "İD": "151.01.1601",
@@ -484,7 +489,9 @@
     "tarih": "07.02.2026 12:06:35",
     "onay": true,
     "usta": "sait",
-    "baslangic": "14:56:00"
+    "baslangic": "14:56:00",
+    "bitis": true,
+    "bitis_tar": "14:56:14"
   },
   {
     "İD": "151.01.1601",
@@ -547,7 +554,9 @@
     "tarih": "07.02.2026 13:00:04",
     "onay": true,
     "usta": "sait",
-    "baslangic": "14:56:00"
+    "baslangic": "14:56:00",
+    "bitis": true,
+    "bitis_tar": "14:56:14"
   },
   {
     "İD": "151.01.1601",
