@@ -108,8 +108,8 @@
     "onay": true,
     "bitis": true,
     "tarih": "07.02.2026 01:18:23",
-    "usta": "SAİT",
-    "baslangic": "01:30:06",
+    "usta": "sait",
+    "baslangic": "14:56:20",
     "bitis_tar": "01:30:12"
   },
   {
@@ -163,9 +163,11 @@
     "torna": "40",
     "montaj": "60",
     "sevkiyat": "60",
-    "onay": false,
+    "onay": true,
     "bitis": false,
-    "tarih": "07.02.2026 10:04:49"
+    "tarih": "07.02.2026 10:04:49",
+    "usta": "sait",
+    "baslangic": "14:56:20"
   },
   {
     "İD": "151.01.2451",
