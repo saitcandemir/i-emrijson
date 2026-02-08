@@ -72,17 +72,19 @@
     "toplamMolaSn": 596,
     "guncelMolaSn": 0,
     "usta": "TORNA USTA 2",
-    "durum": "BAŞLADI",
+    "durum": "MOLADA",
     "logs": [
       "İŞE DÖNÜLDÜ @ 15:21:49",
       "MOLA 1 BAŞLADI",
       "İŞE DÖNÜLDÜ @ 15:46:49",
       "MOLA 2 BAŞLADI",
       "İŞE DÖNÜLDÜ @ 16:52:53",
-      "USTA 2 KARTI KABUL ETTİ"
+      "USTA 2 KARTI KABUL ETTİ",
+      "MOLA BAŞLADI: VC"
     ],
     "molaSayisi": 2,
-    "ustaId": 2
+    "ustaId": 2,
+    "molaSebep": "VC"
   },
   {
     "no": "37696",
@@ -114,7 +116,7 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 15,
-    "gecenSn": 26,
+    "gecenSn": 34,
     "toplamMolaSn": 0,
     "durum": "BAŞLADI",
     "logs": [
