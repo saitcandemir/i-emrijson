@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "no": "00001",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "KAYNAK",
+    "adet": "1",
+    "toplamDk": 1,
+    "gecenSn": 0,
+    "molaSn": 0,
+    "usta": "",
+    "durum": "USTA BEKLİYOR",
+    "logs": [],
+    "molaHak": 5,
+    "sonGuncelleme": 1770561235367
+  }
+]
