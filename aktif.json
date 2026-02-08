@@ -29,13 +29,13 @@
         "no": 1,
         "usta": "USTA 1",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 224
+        "gecenSn": 242
       },
       {
         "no": 2,
         "usta": "USTA 2",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 208
+        "gecenSn": 226
       }
     ]
   },
@@ -51,7 +51,7 @@
         "no": 1,
         "usta": "KA-USTA1",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 183
+        "gecenSn": 201
       }
     ]
   },
@@ -80,9 +80,9 @@
       },
       {
         "no": 2,
-        "usta": "KA-USTA1",
+        "usta": "KA-USTA2",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 0
+        "gecenSn": 18
       },
       {
         "no": 3,
