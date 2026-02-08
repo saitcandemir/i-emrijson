@@ -1,24 +1,5 @@
 [
   {
-    "no": "00006",
-    "isim": "ESKİ TİP PLATFORM MONTAJİ",
-    "at": "KAYNAK",
-    "hedefDk": 2,
-    "gecenSn": 143,
-    "molaSn": 0,
-    "durum": "BİTTİ",
-    "usta": "KAYNAK USTA 1",
-    "logs": [
-      "EMİR OLUŞTURULDU",
-      "USTA: KAYNAK USTA 1",
-      "BAŞLADI @ 18:46:39",
-      "MOLA @ 18:47:45",
-      "BAŞLADI @ 18:48:39"
-    ],
-    "sonGuncelleme": 1770567372595,
-    "bitisZamani": "08.02.2026 18:49:59"
-  },
-  {
     "no": "00007",
     "isim": "",
     "at": "KAYNAK",
