@@ -44,5 +44,14 @@
     "birimDk": null,
     "atolye": "KAYNAK",
     "parcalar": []
+  },
+  {
+    "emirId": 1770588481701,
+    "isId": "151.01.1601",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "adet": null,
+    "birimDk": 155,
+    "atolye": "KAYNAK",
+    "parcalar": []
   }
 ]
