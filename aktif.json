@@ -5,14 +5,15 @@
     "at": "KAYNAK",
     "adet": "2",
     "toplamDk": 110,
-    "gecenSn": 0,
+    "gecenSn": 23,
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 1",
-    "durum": "BAŞLADI",
+    "durum": "MOLADA",
     "logs": [
-      "İŞE DÖNÜLDÜ @ 19:22:18"
+      "İŞE DÖNÜLDÜ @ 19:22:18",
+      "MOLA 1 BAŞLADI"
     ],
-    "molaSayisi": 0
+    "molaSayisi": 1
   }
 ]
