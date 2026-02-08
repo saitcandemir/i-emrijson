@@ -6,11 +6,12 @@
     "hedefDk": 3,
     "gecenSn": 0,
     "molaSn": 0,
-    "durum": "USTA BEKLİYOR",
-    "usta": "",
+    "durum": "HAZIR",
+    "usta": "KAYNAK USTA 2",
     "logs": [
-      "EMİR OLUŞTURULDU"
+      "EMİR OLUŞTURULDU",
+      "USTA: KAYNAK USTA 2"
     ],
-    "sonGuncelleme": 1770565422213
+    "sonGuncelleme": 1770565466109
   }
 ]
