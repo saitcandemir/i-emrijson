@@ -23,7 +23,7 @@
       "MOLA @ 14:18:10"
     ],
     "molaHak": 0,
-    "molaSn": 417
+    "molaSn": 434
   },
   {
     "no": "00005",
@@ -31,15 +31,16 @@
     "at": "MONTAJ",
     "adet": "2",
     "toplamDk": 88,
-    "gecenSn": 61,
+    "gecenSn": 76,
     "molaSn": 0,
     "usta": "MONTAJ USTA 2",
-    "durum": "BAŞLADI",
+    "durum": "MOLADA",
     "logs": [
       "USTA: MONTAJ USTA 2",
-      "BAŞLADI @ 14:20:59"
+      "BAŞLADI @ 14:20:59",
+      "MOLA @ 14:22:17"
     ],
-    "molaHak": 5
+    "molaHak": 4
   },
   {
     "no": "00006",
@@ -47,7 +48,7 @@
     "at": "TORNA",
     "adet": "2",
     "toplamDk": 888,
-    "gecenSn": 86,
+    "gecenSn": 102,
     "molaSn": 0,
     "usta": "TORNA USTA 2",
     "durum": "BAŞLADI",
