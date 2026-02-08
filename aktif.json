@@ -5,17 +5,18 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 3,
-    "gecenSn": 0,
+    "gecenSn": 29,
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 2",
-    "durum": "BAŞLADI",
+    "durum": "MOLADA",
     "logs": [
       "EMİR OLUŞTURULDU - 20:10:55",
       "USTA ATANDI: KAYNAK USTA 2",
-      "İŞE DÖNÜLDÜ @ 20:11:09"
+      "İŞE DÖNÜLDÜ @ 20:11:09",
+      "MOLA 1 BAŞLADI"
     ],
-    "molaSayisi": 0,
-    "sonZaman": 1770570669144
+    "molaSayisi": 1,
+    "sonZaman": 1770570699096
   }
 ]
