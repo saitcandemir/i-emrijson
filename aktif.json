@@ -23,7 +23,7 @@
       "MOLA @ 14:18:10"
     ],
     "molaHak": 0,
-    "molaSn": 296
+    "molaSn": 315
   },
   {
     "no": "00005",
@@ -44,6 +44,19 @@
     "at": "TORNA",
     "adet": "2",
     "toplamDk": 888,
+    "gecenSn": 0,
+    "molaSn": 0,
+    "usta": "",
+    "durum": "USTA BEKLİYOR",
+    "logs": [],
+    "molaHak": 5
+  },
+  {
+    "no": "00007",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "MONTAJ",
+    "adet": "2",
+    "toplamDk": 66,
     "gecenSn": 0,
     "molaSn": 0,
     "usta": "",
