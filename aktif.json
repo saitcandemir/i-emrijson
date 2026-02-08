@@ -10,12 +10,13 @@
     "guncelMolaSn": 0,
     "molaSayisi": 0,
     "usta": "KAYNAK USTA 1",
-    "durum": "BOŞTA",
+    "durum": "BAŞLADI",
     "pNo": "1",
     "logs": [
       "[08.02.2026 21:56:20] EMİR OLUŞTURULDU - 4 PARÇA",
-      "USTA ZİMMETİ: KAYNAK USTA 1 - PARÇA NO: 1"
+      "USTA ZİMMETİ: KAYNAK USTA 1 - PARÇA NO: 1",
+      "BAŞLADI @ 21:56:58"
     ],
-    "sonZaman": 1770577008537
+    "sonZaman": 1770577018770
   }
 ]
