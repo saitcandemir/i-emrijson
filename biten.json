@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "no": "00004",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "KAYNAK",
+    "adet": "1",
+    "toplamDk": 8,
+    "gecenSn": 144,
+    "toplamMolaSn": 73,
+    "guncelMolaSn": 0,
+    "molaSayisi": 1,
+    "usta": "KAYNAK USTA 1",
+    "durum": "BİTTİ",
+    "logs": [
+      "[20:48:15] USTA SEÇİLDİ: KAYNAK USTA 1",
+      "[08.02.2026 20:48:02] EMİR OLUŞTURULDU",
+      "[20:48:20] İŞ BAŞLATILDI",
+      "[20:48:50] MOLA 1 BAŞLADI: VC",
+      "[20:50:05] MOLA 1 BİTTİ (SÜRE: 1 DK 13 SN)",
+      "[20:50:05] İŞ BAŞLATILDI"
+    ],
+    "sonZaman": 1770573126142
+  }
+]
