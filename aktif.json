@@ -6,8 +6,8 @@
     "adet": "1",
     "toplamDk": 8,
     "gecenSn": 362,
-    "toplamMolaSn": 708,
-    "guncelMolaSn": 387,
+    "toplamMolaSn": 713,
+    "guncelMolaSn": 392,
     "molaSayisi": 2,
     "usta": "KAYNAK USTA 1",
     "durum": "MOLADA",
@@ -20,63 +20,7 @@
       "[08.02.2026 21:04:26] EMİR OLUŞTURULDU",
       "[21:04:51] İŞ BAŞLATILDI"
     ],
-    "sonZaman": 1770576256323
-  },
-  {
-    "no": "00015",
-    "isim": "ESKİ TİP PLATFORM MONTAJİ",
-    "at": "KAYNAK",
-    "adet": 5,
-    "birimDk": 10,
-    "parcalar": [
-      {
-        "pNo": 1,
-        "usta": "",
-        "durum": "BOŞTA",
-        "gecenSn": 0,
-        "tMolaSn": 0,
-        "gMolaSn": 0,
-        "logs": []
-      },
-      {
-        "pNo": 2,
-        "usta": "",
-        "durum": "BOŞTA",
-        "gecenSn": 0,
-        "tMolaSn": 0,
-        "gMolaSn": 0,
-        "logs": []
-      },
-      {
-        "pNo": 3,
-        "usta": "",
-        "durum": "BOŞTA",
-        "gecenSn": 0,
-        "tMolaSn": 0,
-        "gMolaSn": 0,
-        "logs": []
-      },
-      {
-        "pNo": 4,
-        "usta": "",
-        "durum": "BOŞTA",
-        "gecenSn": 0,
-        "tMolaSn": 0,
-        "gMolaSn": 0,
-        "logs": []
-      },
-      {
-        "pNo": 5,
-        "usta": "",
-        "durum": "BOŞTA",
-        "gecenSn": 0,
-        "tMolaSn": 0,
-        "gMolaSn": 0,
-        "logs": []
-      }
-    ],
-    "durum": "AÇIK",
-    "sonZaman": 1770576256323
+    "sonZaman": 1770576264283
   },
   {
     "no": "00016",
@@ -132,7 +76,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576256323
+    "sonZaman": 1770576264283
   },
   {
     "no": "00017",
@@ -188,7 +132,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576256323
+    "sonZaman": 1770576264283
   },
   {
     "no": "00018",
@@ -244,7 +188,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576256323
+    "sonZaman": 1770576264283
   },
   {
     "no": "00019",
@@ -300,7 +244,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576256323
+    "sonZaman": 1770576264283
   },
   {
     "no": "00020",
@@ -356,7 +300,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576256323
+    "sonZaman": 1770576264283
   },
   {
     "no": "00021",
@@ -412,7 +356,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576256323
+    "sonZaman": 1770576264283
   },
   {
     "no": "00022",
@@ -468,7 +412,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576256323
+    "sonZaman": 1770576264283
   },
   {
     "no": "00023",
@@ -524,6 +468,6 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576256323
+    "sonZaman": 1770576264283
   }
 ]
