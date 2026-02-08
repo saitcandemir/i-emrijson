@@ -1,38 +1,55 @@
 [
   {
-    "no": "00001",
+    "no": "00002",
     "isim": "ESKİ TİP PLATFORM MONTAJİ",
     "at": "KAYNAK",
     "adet": "1",
-    "toplamDk": 1,
-    "gecenSn": 282,
-    "molaSn": 0,
-    "usta": "KAYNAK USTA 2",
-    "durum": "BAŞLADI",
-    "logs": [
-      "USTA: KAYNAK USTA 2",
-      "BAŞLADI @ 17:34:51",
-      "BAŞLADI @ 17:35:37"
-    ],
-    "molaHak": 5,
-    "sonGuncelleme": 1770561511775
-  },
-  {
-    "no": "00002",
-    "isim": "",
-    "at": "KAYNAK",
-    "adet": "1",
-    "toplamDk": 22,
-    "gecenSn": 190,
+    "toplamDk": 5,
+    "gecenSn": 137,
     "molaSn": 0,
     "usta": "KAYNAK USTA 1",
-    "durum": "BAŞLADI",
+    "durum": "MOLADA",
     "logs": [
       "USTA: KAYNAK USTA 1",
-      "BAŞLADI @ 17:36:23",
-      "BAŞLADI @ 17:36:31"
+      "BAŞLADI @ 17:39:55",
+      "BAŞLADI @ 17:39:59",
+      "BAŞLADI @ 17:40:01",
+      "MOLA @ 17:42:13"
+    ],
+    "molaHak": 4,
+    "sonGuncelleme": 1770561733630
+  },
+  {
+    "no": "00003",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "TORNA",
+    "adet": "1",
+    "toplamDk": 5,
+    "gecenSn": 72,
+    "molaSn": 0,
+    "usta": "TORNA USTA 2",
+    "durum": "BAŞLADI",
+    "logs": [
+      "USTA: TORNA USTA 2",
+      "BAŞLADI @ 17:41:01"
     ],
     "molaHak": 5,
-    "sonGuncelleme": 1770561511775
+    "sonGuncelleme": 1770561733630
+  },
+  {
+    "no": "00004",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "MONTAJ",
+    "adet": "1",
+    "toplamDk": 5,
+    "gecenSn": 0,
+    "molaSn": 0,
+    "usta": "MONTAJ USTA 1",
+    "durum": "GİRİŞ YAPILDI",
+    "logs": [
+      "USTA: MONTAJ USTA 1"
+    ],
+    "molaHak": 5,
+    "sonGuncelleme": 1770561733630
   }
 ]
