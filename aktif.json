@@ -10,7 +10,7 @@
         "no": 1,
         "usta": "ALI",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 494,
+        "gecenSn": 541,
         "log": [
           {
             "t": "23:54:25",
@@ -23,7 +23,7 @@
         "no": 3,
         "usta": "VELI",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 458,
+        "gecenSn": 505,
         "log": [
           {
             "t": "23:55:01",
@@ -70,7 +70,7 @@
         "no": 2,
         "usta": "SAIT",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 62,
+        "gecenSn": 109,
         "log": [
           {
             "t": "00:02:34",
@@ -136,5 +136,36 @@
     "birimDk": null,
     "atolye": "KAYNAK",
     "parcalar": []
+  },
+  {
+    "emirId": 1770585837720,
+    "isId": "151.01.2008",
+    "isim": "Pro Hareket Mili Kİsa KAYNAK",
+    "adet": 3,
+    "birimDk": 20,
+    "atolye": "KAYNAK",
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0,
+        "log": []
+      },
+      {
+        "no": 2,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0,
+        "log": []
+      },
+      {
+        "no": 3,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0,
+        "log": []
+      }
+    ]
   }
 ]
