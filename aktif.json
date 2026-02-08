@@ -5,16 +5,15 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 1,
-    "gecenSn": 230,
+    "gecenSn": 157,
     "molaSn": 0,
     "usta": "KAYNAK USTA 1",
     "durum": "BAŞLADI",
     "logs": [
       "USTA: KAYNAK USTA 1",
-      "BAŞLADI @ 18:59:26",
-      "BAŞLADI @ 19:08:05"
+      "BAŞLADI @ 18:59:26"
     ],
     "molaHak": 5,
-    "sonGuncelleme": 1770566885717
+    "sonGuncelleme": 1770566888176
   }
 ]
