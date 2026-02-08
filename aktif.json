@@ -5,7 +5,7 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 5,
-    "gecenSn": 61,
+    "gecenSn": 64,
     "molaSn": 0,
     "usta": "KAYNAK USTA 1",
     "durum": "BAŞLADI",
@@ -16,7 +16,7 @@
       "BAŞLADI @ 17:40:01"
     ],
     "molaHak": 5,
-    "sonGuncelleme": 1770561657606
+    "sonGuncelleme": 1770561661110
   },
   {
     "no": "00003",
@@ -27,11 +27,12 @@
     "gecenSn": 0,
     "molaSn": 0,
     "usta": "TORNA USTA 2",
-    "durum": "GİRİŞ YAPILDI",
+    "durum": "BAŞLADI",
     "logs": [
-      "USTA: TORNA USTA 2"
+      "USTA: TORNA USTA 2",
+      "BAŞLADI @ 17:41:01"
     ],
     "molaHak": 5,
-    "sonGuncelleme": 1770561657606
+    "sonGuncelleme": 1770561661110
   }
 ]
