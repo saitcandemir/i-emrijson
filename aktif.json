@@ -9,11 +9,12 @@
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 2",
-    "durum": "İŞE HAZIR",
+    "durum": "BAŞLADI",
     "logs": [
-      "EMİR OLUŞTURULDU"
+      "EMİR OLUŞTURULDU",
+      "İŞE DÖNÜLDÜ @ 19:55:11"
     ],
     "molaSayisi": 0,
-    "sonZaman": 1770569705697
+    "sonZaman": 1770569711065
   }
 ]
