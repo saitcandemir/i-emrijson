@@ -15,7 +15,7 @@
     ],
     "molaSayisi": 0,
     "molaSebepleri": [],
-    "sonZaman": 1770572882982
+    "sonZaman": 1770572895933
   },
   {
     "no": "00004",
@@ -27,11 +27,12 @@
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
     "molaSayisi": 0,
-    "usta": "",
+    "usta": "KAYNAK USTA 1",
     "durum": "USTA BEKLİYOR",
     "logs": [
-      "[08.02.2026 20:48:02] EMİR OLUŞTURULDU"
+      "[08.02.2026 20:48:02] EMİR OLUŞTURULDU",
+      "[20:48:15] USTA SEÇİLDİ: KAYNAK USTA 1"
     ],
-    "sonZaman": 1770572882982
+    "sonZaman": 1770572895933
   }
 ]
