@@ -10,7 +10,7 @@
         "no": 1,
         "usta": "ALI",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 198,
+        "gecenSn": 237,
         "log": [
           {
             "t": "23:54:25",
@@ -23,7 +23,7 @@
         "no": 3,
         "usta": "VELI",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 162,
+        "gecenSn": 201,
         "log": [
           {
             "t": "23:55:01",
@@ -31,6 +31,36 @@
           }
         ],
         "baslangic": "08.02.2026 23:55:01"
+      }
+    ]
+  },
+  {
+    "emirId": 1770584355714,
+    "isId": "151.01.1601",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "adet": 3,
+    "birimDk": 155,
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0,
+        "log": []
+      },
+      {
+        "no": 2,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0,
+        "log": []
+      },
+      {
+        "no": 3,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0,
+        "log": []
       }
     ]
   }
