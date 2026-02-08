@@ -115,7 +115,9 @@
     "gecenSn": 0,
     "toplamMolaSn": 0,
     "durum": "BEKLEMEDE",
-    "logs": [],
-    "ustaId": null
+    "logs": [
+      "USTA 1 KARTI KABUL ETTİ"
+    ],
+    "ustaId": 1
   }
 ]
