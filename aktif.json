@@ -10,7 +10,7 @@
         "no": 1,
         "usta": "ALI",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 1,
+        "gecenSn": 21,
         "log": [
           {
             "t": "23:54:25",
@@ -21,10 +21,16 @@
       },
       {
         "no": 2,
-        "usta": null,
-        "durum": "BEKLEMEDE",
-        "gecenSn": 0,
-        "log": []
+        "usta": "SAIT",
+        "durum": "ÇALIŞIYOR",
+        "gecenSn": 1,
+        "log": [
+          {
+            "t": "23:54:45",
+            "m": "İŞE BAŞLANDI"
+          }
+        ],
+        "baslangic": "08.02.2026 23:54:45"
       },
       {
         "no": 3,
