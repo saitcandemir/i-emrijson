@@ -5,7 +5,7 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 8,
-    "gecenSn": 86,
+    "gecenSn": 99,
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 1",
@@ -16,7 +16,7 @@
     ],
     "molaSayisi": 0,
     "molaSebepleri": [],
-    "sonZaman": 1770571673679
+    "sonZaman": 1770571686422
   },
   {
     "no": "00003",
@@ -27,13 +27,13 @@
     "gecenSn": 0,
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
-    "usta": "",
-    "durum": "USTA BEKLİYOR",
+    "usta": "TORNA USTA 3",
+    "durum": "İŞE HAZIR",
     "logs": [
       "EMİR OLUŞTURULDU"
     ],
     "molaSayisi": 0,
     "molaSebepleri": [],
-    "sonZaman": 1770571673679
+    "sonZaman": 1770571686422
   }
 ]
