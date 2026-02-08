@@ -5,70 +5,30 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 55,
-    "gecenSn": 751,
+    "gecenSn": 586,
     "usta": "KAYNAK USTA 3",
-    "durum": "MOLADA",
-    "logs": [
-      "USTA GİRİŞ: KAYNAK USTA 3 @ 13:58:11",
-      "BAŞLATILDI @ 13:58:18",
-      "MOLA @ 14:11:08",
-      "BAŞLADI @ 14:11:26",
-      "MOLA @ 14:11:59",
-      "BAŞLADI @ 14:12:31",
-      "BAŞLADI @ 14:12:39",
-      "MOLA @ 14:12:44",
-      "BAŞLADI @ 14:14:05",
-      "MOLA @ 14:14:47",
-      "BAŞLADI @ 14:16:04",
-      "MOLA @ 14:18:10"
-    ],
-    "molaHak": 0,
-    "molaSn": 450
-  },
-  {
-    "no": "00005",
-    "isim": "PRO HAREKET MILI KİSA KAYNAK",
-    "at": "MONTAJ",
-    "adet": "2",
-    "toplamDk": 88,
-    "gecenSn": 76,
-    "molaSn": 16,
-    "usta": "MONTAJ USTA 2",
-    "durum": "MOLADA",
-    "logs": [
-      "USTA: MONTAJ USTA 2",
-      "BAŞLADI @ 14:20:59",
-      "MOLA @ 14:22:17"
-    ],
-    "molaHak": 4
-  },
-  {
-    "no": "00006",
-    "isim": "ESKİ TİP PLATFORM MONTAJİ",
-    "at": "TORNA",
-    "adet": "2",
-    "toplamDk": 888,
-    "gecenSn": 118,
-    "molaSn": 0,
-    "usta": "TORNA USTA 2",
     "durum": "BAŞLADI",
     "logs": [
-      "USTA: TORNA USTA 2",
-      "BAŞLADI @ 14:20:34"
+      "USTA GİRİŞ: KAYNAK USTA 3 @ 13:58:11",
+      "BAŞLATILDI @ 13:58:18"
     ],
     "molaHak": 5
   },
   {
-    "no": "00007",
-    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "no": "00002",
+    "isim": "PRO HAREKET MILI UZUN KAYNAK",
     "at": "MONTAJ",
-    "adet": "2",
-    "toplamDk": 66,
-    "gecenSn": 0,
-    "molaSn": 0,
-    "usta": "",
-    "durum": "USTA BEKLİYOR",
-    "logs": [],
-    "molaHak": 5
+    "adet": "3",
+    "toplamDk": 132,
+    "gecenSn": 442,
+    "usta": "MONTAJ USTA 2",
+    "durum": "BAŞLADI",
+    "logs": [
+      "USTA GİRİŞ: MONTAJ USTA 2 @ 14:00:11",
+      "BAŞLATILDI @ 14:00:17",
+      "MOLA VERİLDİ (KALAN:4) @ 14:00:41",
+      "BAŞLATILDI @ 14:01:06"
+    ],
+    "molaHak": 4
   }
 ]
