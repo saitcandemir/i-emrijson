@@ -9,8 +9,10 @@
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 1",
-    "durum": "GİRİŞ YAPILDI",
-    "logs": [],
+    "durum": "BAŞLADI",
+    "logs": [
+      "İŞE DÖNÜLDÜ @ 19:22:18"
+    ],
     "molaSayisi": 0
   }
 ]
