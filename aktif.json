@@ -29,7 +29,7 @@
     "molaSn": 663,
     "sonGuncelleme": 1770552122787,
     "molaSayisi": null,
-    "guncelMolaSn": 103,
+    "guncelMolaSn": 117,
     "toplamMolaSn": null
   },
   {
@@ -38,7 +38,7 @@
     "at": "MONTAJ",
     "adet": "3",
     "toplamDk": 132,
-    "gecenSn": 2040,
+    "gecenSn": 2055,
     "usta": "MONTAJ USTA 2",
     "durum": "BAŞLADI",
     "logs": [
@@ -56,14 +56,15 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 55,
-    "gecenSn": 0,
+    "gecenSn": 14,
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 2",
-    "durum": "BAŞLADI",
+    "durum": "MOLADA",
     "logs": [
-      "İŞE DÖNÜLDÜ @ 15:15:08"
+      "İŞE DÖNÜLDÜ @ 15:15:08",
+      "MOLA 1 BAŞLADI"
     ],
-    "molaSayisi": 0
+    "molaSayisi": 1
   }
 ]
