@@ -9,11 +9,12 @@
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 1",
-    "durum": "GİRİŞ YAPILDI",
+    "durum": "MOLADA",
     "logs": [
-      "EMİR OLUŞTURULDU"
+      "EMİR OLUŞTURULDU",
+      "MOLA 1 BAŞLADI"
     ],
-    "molaSayisi": 0,
-    "sonZaman": 1770569931552
+    "molaSayisi": 1,
+    "sonZaman": 1770569994448
   }
 ]
