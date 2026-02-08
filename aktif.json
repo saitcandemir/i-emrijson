@@ -29,21 +29,6 @@
     "tahmin": "--:--"
   },
   {
-    "no": "00007",
-    "id": "ESKİ TİP PLATFORM MONTAJİ",
-    "isim": "ESKİ TİP PLATFORM MONTAJİ",
-    "at": "KAYNAK",
-    "adet": 1,
-    "toplam": 1,
-    "gecenDk": 1,
-    "d_say": 0,
-    "usta": "KAYNAK USTA 2",
-    "calisiyor": true,
-    "basla": "--:--",
-    "tahmin": "--:--",
-    "durum": "BAŞLADI"
-  },
-  {
     "no": "00008",
     "id": "Klepe Mili KAYNAK 212",
     "isim": "Klepe Mili KAYNAK 212",
