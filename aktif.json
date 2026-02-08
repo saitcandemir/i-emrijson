@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "no": "00007",
+    "isim": "",
+    "at": "KAYNAK",
+    "adet": "1",
+    "toplamDk": null,
+    "gecenSn": 0,
+    "molaSn": 0,
+    "usta": "",
+    "durum": "USTA BEKLİYOR",
+    "logs": [],
+    "molaHak": 5,
+    "sonGuncelleme": 1770566342741
+  }
+]
