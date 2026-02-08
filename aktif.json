@@ -9,12 +9,13 @@
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 2",
-    "durum": "GİRİŞ YAPILDI",
+    "durum": "BAŞLADI",
     "logs": [
       "EMİR OLUŞTURULDU - 20:17:14",
-      "USTA ATANDI: KAYNAK USTA 2"
+      "USTA ATANDI: KAYNAK USTA 2",
+      "İŞE DÖNÜLDÜ @ 20:17:26"
     ],
     "molaSayisi": 0,
-    "sonZaman": 1770571043407
+    "sonZaman": 1770571046871
   }
 ]
