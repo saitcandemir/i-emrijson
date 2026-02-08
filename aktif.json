@@ -6,8 +6,8 @@
     "adet": "1",
     "toplamDk": 55,
     "gecenSn": 14,
-    "toplamMolaSn": 255,
-    "guncelMolaSn": 255,
+    "toplamMolaSn": 267,
+    "guncelMolaSn": 267,
     "usta": "KAYNAK USTA 2",
     "durum": "MOLADA",
     "logs": [
@@ -36,7 +36,7 @@
     "at": "TORNA",
     "adet": "1",
     "toplamDk": 55,
-    "gecenSn": 41,
+    "gecenSn": 53,
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
     "usta": "TORNA USTA 2",
@@ -55,8 +55,8 @@
     "gecenSn": 0,
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
-    "usta": "",
-    "durum": "USTA BEKLİYOR",
+    "usta": "TORNA USTA 2",
+    "durum": "GİRİŞ YAPILDI",
     "logs": [],
     "molaSayisi": 0
   }
