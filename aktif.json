@@ -15,7 +15,7 @@
     ],
     "molaSayisi": 0,
     "molaSebepleri": [],
-    "sonZaman": 1770573538574
+    "sonZaman": 1770573777036
   },
   {
     "no": "00005",
@@ -32,7 +32,7 @@
     "logs": [
       "[08.02.2026 20:54:33] EMİR OLUŞTURULDU"
     ],
-    "sonZaman": 1770573538574
+    "sonZaman": 1770573777036
   },
   {
     "no": "00006",
@@ -49,7 +49,7 @@
     "logs": [
       "[08.02.2026 20:54:42] EMİR OLUŞTURULDU"
     ],
-    "sonZaman": 1770573538574
+    "sonZaman": 1770573777036
   },
   {
     "no": "00007",
@@ -66,7 +66,7 @@
     "logs": [
       "[08.02.2026 20:54:46] EMİR OLUŞTURULDU"
     ],
-    "sonZaman": 1770573538574
+    "sonZaman": 1770573777036
   },
   {
     "no": "00008",
@@ -83,7 +83,7 @@
     "logs": [
       "[08.02.2026 20:54:46] EMİR OLUŞTURULDU"
     ],
-    "sonZaman": 1770573538574
+    "sonZaman": 1770573777036
   },
   {
     "no": "00009",
@@ -92,11 +92,11 @@
     "adet": "1",
     "toplamDk": 8,
     "gecenSn": 141,
-    "toplamMolaSn": 72,
+    "toplamMolaSn": 201,
     "guncelMolaSn": 0,
     "molaSayisi": 2,
     "usta": "KAYNAK USTA 2",
-    "durum": "MOLADA",
+    "durum": "BAŞLADI",
     "logs": [
       "[20:56:52] MOLA 1 BAŞLADI: ÖZEL MOLA",
       "[20:55:11] USTA SEÇİLDİ: KAYNAK USTA 2",
@@ -104,8 +104,10 @@
       "[20:55:14] İŞ BAŞLATILDI",
       "[20:58:05] MOLA 1 BİTTİ (SÜRE: 1 DK 12 SN)",
       "[20:58:05] İŞ BAŞLATILDI",
-      "[20:58:58] MOLA 2 BAŞLADI: VC"
+      "[20:58:58] MOLA 2 BAŞLADI: VC",
+      "[21:02:57] MOLA 2 BİTTİ (SÜRE: 2 DK 9 SN)",
+      "[21:02:57] İŞ BAŞLATILDI"
     ],
-    "sonZaman": 1770573538574
+    "sonZaman": 1770573777036
   }
 ]
