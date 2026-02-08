@@ -29,13 +29,13 @@
         "no": 1,
         "usta": "USTA 1",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 32
+        "gecenSn": 42
       },
       {
         "no": 2,
         "usta": "USTA 2",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 16
+        "gecenSn": 26
       }
     ]
   },
@@ -49,9 +49,9 @@
     "parcalar": [
       {
         "no": 1,
-        "usta": null,
-        "durum": "BEKLEMEDE",
-        "gecenSn": 0
+        "usta": "KA-USTA1",
+        "durum": "ÇALIŞIYOR",
+        "gecenSn": 1
       },
       {
         "no": 2,
