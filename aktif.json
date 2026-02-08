@@ -1,20 +1,172 @@
 [
   {
-    "no": "00006",
+    "no": "00003",
     "isim": "ESKİ TİP PLATFORM MONTAJİ",
     "at": "KAYNAK",
-    "hedefDk": 2,
-    "gecenSn": 76,
-    "molaSn": 0,
+    "adet": "1",
+    "toplamDk": 55,
+    "gecenSn": 4371,
+    "toplamMolaSn": 872,
+    "guncelMolaSn": 0,
+    "usta": "KAYNAK USTA 2",
     "durum": "BAŞLADI",
-    "usta": "KAYNAK USTA 1",
     "logs": [
-      "EMİR OLUŞTURULDU",
-      "USTA: KAYNAK USTA 1",
-      "BAŞLADI @ 18:46:39",
-      "MOLA @ 18:47:45",
-      "BAŞLADI @ 18:48:39"
+      "İŞE DÖNÜLDÜ @ 16:33:45",
+      "MOLA 3 BAŞLADI",
+      "İŞE DÖNÜLDÜ @ 15:50:13",
+      "MOLA 2 BAŞLADI",
+      "İŞE DÖNÜLDÜ @ 15:23:11",
+      "MOLA 1 BAŞLADI",
+      "İŞE DÖNÜLDÜ @ 15:15:08",
+      "İŞE DÖNÜLDÜ @ 17:53:31",
+      "İŞE DÖNÜLDÜ @ 17:54:06",
+      "İŞE DÖNÜLDÜ @ 17:54:07",
+      "İŞE DÖNÜLDÜ @ 17:54:09",
+      "İŞE DÖNÜLDÜ @ 17:54:09",
+      "İŞE DÖNÜLDÜ @ 17:54:10",
+      "İŞE DÖNÜLDÜ @ 17:54:44",
+      "İŞE DÖNÜLDÜ @ 17:54:56",
+      "İŞE DÖNÜLDÜ @ 17:54:57",
+      "İŞE DÖNÜLDÜ @ 17:57:26",
+      "İŞE DÖNÜLDÜ @ 17:57:27",
+      "MOLA 4 BAŞLADI",
+      "İŞE DÖNÜLDÜ @ 17:57:46"
     ],
-    "sonGuncelleme": 1770565730977
+    "molaSayisi": 4,
+    "sonGuncelleme": 1770565748176
+  },
+  {
+    "no": "00004",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "KAYNAK",
+    "adet": "1",
+    "toplamDk": 55,
+    "gecenSn": 4222,
+    "toplamMolaSn": 637,
+    "guncelMolaSn": 0,
+    "usta": "KAYNAK USTA 3",
+    "durum": "BAŞLADI",
+    "logs": [
+      "İŞE DÖNÜLDÜ @ 15:50:54",
+      "MOLA 1 BAŞLADI",
+      "İŞE DÖNÜLDÜ @ 15:23:33",
+      "İŞE DÖNÜLDÜ @ 17:54:50",
+      "MOLA 2 BAŞLADI",
+      "MOLA 3 BAŞLADI",
+      "İŞE DÖNÜLDÜ @ 17:57:57"
+    ],
+    "molaSayisi": 3,
+    "sonGuncelleme": 1770565748176
+  },
+  {
+    "no": "00006",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "TORNA",
+    "adet": "1",
+    "toplamDk": 2,
+    "gecenSn": 3849,
+    "toplamMolaSn": 1114,
+    "guncelMolaSn": 0,
+    "usta": "TORNA USTA 2",
+    "durum": "BAŞLADI",
+    "logs": [
+      "İŞE DÖNÜLDÜ @ 15:21:49",
+      "MOLA 1 BAŞLADI",
+      "İŞE DÖNÜLDÜ @ 15:46:49",
+      "MOLA 2 BAŞLADI",
+      "İŞE DÖNÜLDÜ @ 16:52:53",
+      "MOLA 3 BAŞLADI",
+      "MOLA 4 BAŞLADI",
+      "MOLA 5 BAŞLADI",
+      "İŞE DÖNÜLDÜ @ 17:58:45"
+    ],
+    "molaSayisi": 5,
+    "sonGuncelleme": 1770565748176,
+    "calisiyor": true
+  },
+  {
+    "no": "37696",
+    "isim": "KLEPE MILI KAYNAK 182",
+    "at": "KAYNAK",
+    "adet": "1",
+    "toplamDk": null,
+    "gecenSn": 3152,
+    "toplamMolaSn": 0,
+    "durum": "BAŞLADI",
+    "logs": [
+      "İŞE DÖNÜLDÜ @ 17:44:45"
+    ],
+    "molaSayisi": 0,
+    "usta": "KAYNAK USTA 1",
+    "guncelMolaSn": 0,
+    "sonGuncelleme": 1770565748176
+  },
+  {
+    "no": "37697",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "KAYNAK",
+    "adet": "1",
+    "toplamDk": 22,
+    "gecenSn": 2538,
+    "toplamMolaSn": 573,
+    "guncelMolaSn": 0,
+    "usta": "KAYNAK USTA 1",
+    "durum": "BAŞLADI",
+    "logs": [
+      "İŞE DÖNÜLDÜ @ 17:45:24",
+      "MOLA 1 BAŞLADI",
+      "MOLA 2 BAŞLADI",
+      "İŞE DÖNÜLDÜ @ 17:58:11"
+    ],
+    "molaSayisi": 2,
+    "sonGuncelleme": 1770565748176
+  },
+  {
+    "no": "37698",
+    "isim": "KESİM UST SAC KAYNAK 232",
+    "at": "KAYNAK",
+    "adet": "1",
+    "toplamDk": 222,
+    "gecenSn": 2265,
+    "molaSn": 0,
+    "usta": "KAYNAK USTA 1",
+    "durum": "BAŞLADI",
+    "logs": [
+      "USTA: KAYNAK USTA 1",
+      "BAŞLADI @ 18:03:16",
+      "BAŞLADI @ 18:03:20"
+    ],
+    "molaHak": 5,
+    "sonGuncelleme": 1770565748176
+  },
+  {
+    "no": "37699",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "KAYNAK",
+    "adet": "1",
+    "toplamDk": 111,
+    "gecenSn": 0,
+    "molaSn": 0,
+    "usta": "",
+    "durum": "USTA BEKLİYOR",
+    "logs": [],
+    "molaHak": 5,
+    "sonGuncelleme": 1770565748176
+  },
+  {
+    "no": "37700",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "TORNA",
+    "adet": "1",
+    "toplamDk": 111,
+    "gecenSn": 0,
+    "molaSn": 0,
+    "usta": "TORNA USTA 1",
+    "durum": "GİRİŞ YAPILDI",
+    "logs": [
+      "USTA: TORNA USTA 1"
+    ],
+    "molaHak": 5,
+    "sonGuncelleme": 1770565748176
   }
 ]
