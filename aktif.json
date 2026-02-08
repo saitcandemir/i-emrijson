@@ -18,9 +18,9 @@
     "parcalar": [
       {
         "no": 1,
-        "usta": "USTA 1",
+        "usta": "USTA 2",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 0
+        "gecenSn": 1
       },
       {
         "no": 2,
