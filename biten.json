@@ -19,6 +19,31 @@
       "[20:50:05] MOLA 1 BİTTİ (SÜRE: 1 DK 13 SN)",
       "[20:50:05] İŞ BAŞLATILDI"
     ],
-    "sonZaman": 1770573126142
+    "sonZaman": 1770573787357
+  },
+  {
+    "no": "00009",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "KAYNAK",
+    "adet": "1",
+    "toplamDk": 8,
+    "gecenSn": 149,
+    "toplamMolaSn": 201,
+    "guncelMolaSn": 0,
+    "molaSayisi": 2,
+    "usta": "KAYNAK USTA 2",
+    "durum": "BİTTİ",
+    "logs": [
+      "[21:02:57] İŞ BAŞLATILDI",
+      "[21:02:57] MOLA 2 BİTTİ (SÜRE: 2 DK 9 SN)",
+      "[20:58:58] MOLA 2 BAŞLADI: VC",
+      "[20:58:05] İŞ BAŞLATILDI",
+      "[20:58:05] MOLA 1 BİTTİ (SÜRE: 1 DK 12 SN)",
+      "[20:55:14] İŞ BAŞLATILDI",
+      "[08.02.2026 20:54:59] EMİR OLUŞTURULDU",
+      "[20:55:11] USTA SEÇİLDİ: KAYNAK USTA 2",
+      "[20:56:52] MOLA 1 BAŞLADI: ÖZEL MOLA"
+    ],
+    "sonZaman": 1770573787357
   }
 ]
