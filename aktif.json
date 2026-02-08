@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "no": "00005",
+    "id": "ESKİ TİP PLATFORM MONTAJİ",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "TORNA",
+    "adet": 1,
+    "toplam": 1,
+    "gecenDk": 4,
+    "d_say": 0,
+    "usta": "TORNA USTA 2",
+    "calisiyor": true,
+    "basla": "--:--",
+    "tahmin": "--:--"
+  },
+  {
+    "no": "00006",
+    "id": "ESKİ TİP PLATFORM MONTAJİ",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "MONTAJ",
+    "adet": 1,
+    "toplam": 1,
+    "gecenDk": 4,
+    "d_say": 0,
+    "usta": "MONTAJ USTA 2",
+    "calisiyor": true,
+    "basla": "--:--",
+    "tahmin": "--:--"
+  },
+  {
+    "no": "00007",
+    "id": "ESKİ TİP PLATFORM MONTAJİ",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "KAYNAK",
+    "adet": 1,
+    "toplam": 1,
+    "gecenDk": 1,
+    "d_say": 0,
+    "usta": "KAYNAK USTA 2",
+    "calisiyor": true,
+    "basla": "--:--",
+    "tahmin": "--:--",
+    "logs": [
+      {
+        "islem": "İŞ BAŞLATILDI",
+        "saat": "13:50:18"
+      }
+    ],
+    "durum": "ÇALIŞIYOR",
+    "gecenSn": 75
+  },
+  {
+    "no": "00008",
+    "id": "Klepe Mili KAYNAK 212",
+    "isim": "Klepe Mili KAYNAK 212",
+    "at": "MONTAJ",
+    "adet": 3,
+    "toplam": 3,
+    "gecenDk": 0,
+    "d_say": 0,
+    "usta": "MONTAJ USTA 2",
+    "calisiyor": true,
+    "basla": "--:--",
+    "tahmin": "--:--"
+  }
+]
