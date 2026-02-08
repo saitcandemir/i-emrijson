@@ -18,15 +18,15 @@
     "parcalar": [
       {
         "no": 1,
-        "usta": "USTA 2",
+        "usta": "USTA 3",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 13
+        "gecenSn": 1
       },
       {
         "no": 2,
         "usta": "USTA 3",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 0
+        "gecenSn": 9
       },
       {
         "no": 3,
