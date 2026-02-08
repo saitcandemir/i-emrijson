@@ -1,27 +1,5 @@
 [
   {
-    "no": "00008",
-    "isim": "ESKİ TİP PLATFORM MONTAJİ",
-    "at": "KAYNAK",
-    "adet": "1",
-    "toplamDk": 2,
-    "gecenSn": 92,
-    "toplamMolaSn": 17,
-    "guncelMolaSn": 0,
-    "usta": "KAYNAK USTA 1",
-    "durum": "BİTTİ",
-    "logs": [
-      "EMİR OLUŞTURULDU",
-      "İŞE DÖNÜLDÜ @ 19:14:18",
-      "MOLA 1 BAŞLADI",
-      "İŞE DÖNÜLDÜ @ 19:15:43"
-    ],
-    "molaSayisi": 1,
-    "sonGuncelleme": 1770567372595,
-    "bitisTarihi": "08.02.2026 19:16:12",
-    "sonZaman": 1770570611181
-  },
-  {
     "no": "00009",
     "isim": "ESKİ TİP PLATFORM MONTAJİ",
     "at": "KAYNAK",
@@ -40,7 +18,7 @@
     ],
     "guncelMolaSn": 31,
     "molaSayisi": null,
-    "sonZaman": 1770570611181
+    "sonZaman": 1770570626699
   },
   {
     "no": "00010",
@@ -60,7 +38,7 @@
       "İŞE DÖNÜLDÜ @ 19:42:46"
     ],
     "molaSayisi": 1,
-    "sonZaman": 1770570611181,
+    "sonZaman": 1770570626699,
     "bitisZamani": "08.02.2026 19:54:58"
   }
 ]
