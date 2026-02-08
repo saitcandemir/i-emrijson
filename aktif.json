@@ -20,7 +20,7 @@
     "at": "KAYNAK",
     "adet": 1,
     "toplam": 1,
-    "gecenDk": 0,
+    "gecenDk": 1,
     "d_say": 0,
     "usta": "KAYNAK USTA 1",
     "calisiyor": true,
@@ -38,6 +38,20 @@
     "d_say": 0,
     "usta": "TORNA USTA 2",
     "calisiyor": true,
+    "basla": "--:--",
+    "tahmin": "--:--"
+  },
+  {
+    "no": "00006",
+    "id": "ESKİ TİP PLATFORM MONTAJİ",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "MONTAJ",
+    "adet": 1,
+    "toplam": 1,
+    "gecenDk": 0,
+    "d_say": 0,
+    "usta": "",
+    "calisiyor": false,
     "basla": "--:--",
     "tahmin": "--:--"
   }
