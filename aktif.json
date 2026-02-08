@@ -12,5 +12,19 @@
     "usta": "",
     "gecenDk": 0,
     "calisiyor": false
+  },
+  {
+    "no": "00004",
+    "id": "ESKİ TİP PLATFORM MONTAJİ",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "KAYNAK",
+    "adet": 1,
+    "toplam": 1,
+    "gecenDk": 0,
+    "d_say": 0,
+    "usta": "",
+    "calisiyor": false,
+    "basla": "--:--",
+    "tahmin": "--:--"
   }
 ]
