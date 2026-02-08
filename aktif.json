@@ -10,7 +10,7 @@
     "basla": "13:07",
     "tahmin": "13:08",
     "usta": "USTA 3",
-    "gecenDk": 0,
+    "gecenDk": 2,
     "calisiyor": true
   },
   {
@@ -20,11 +20,11 @@
     "at": "TORNA",
     "adet": 2,
     "toplam": 2,
-    "d_say": 0,
+    "d_say": 1,
     "basla": "13:07",
     "tahmin": "13:09",
     "usta": "USTA 1",
-    "gecenDk": 0,
-    "calisiyor": true
+    "gecenDk": 1,
+    "calisiyor": false
   }
 ]
