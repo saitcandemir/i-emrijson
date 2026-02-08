@@ -10,7 +10,7 @@
         "no": 1,
         "usta": "ALI",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 641,
+        "gecenSn": 697,
         "log": [
           {
             "t": "23:54:25",
@@ -23,7 +23,7 @@
         "no": 3,
         "usta": "VELI",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 605,
+        "gecenSn": 661,
         "log": [
           {
             "t": "23:55:01",
@@ -70,7 +70,7 @@
         "no": 2,
         "usta": "SAIT",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 209,
+        "gecenSn": 265,
         "log": [
           {
             "t": "00:02:34",
@@ -236,6 +236,34 @@
     "isim": "ESKİ TİP PLATFORM MONTAJİ",
     "adet": 3,
     "birimDk": 5,
+    "atolye": "KAYNAK",
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      },
+      {
+        "no": 2,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      },
+      {
+        "no": 3,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      }
+    ]
+  },
+  {
+    "emirId": 1770587257678,
+    "isId": "152.01.192",
+    "isim": "APS1 PRO 192",
+    "adet": 3,
+    "birimDk": 22,
     "atolye": "KAYNAK",
     "parcalar": [
       {
