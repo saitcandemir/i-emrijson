@@ -78,9 +78,11 @@
       "MOLA 1 BAŞLADI",
       "İŞE DÖNÜLDÜ @ 15:46:49",
       "MOLA 2 BAŞLADI",
-      "İŞE DÖNÜLDÜ @ 16:52:53"
+      "İŞE DÖNÜLDÜ @ 16:52:53",
+      "USTA 2 KARTI KABUL ETTİ"
     ],
-    "molaSayisi": 2
+    "molaSayisi": 2,
+    "ustaId": 2
   },
   {
     "no": "37696",
@@ -112,7 +114,7 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 15,
-    "gecenSn": 0,
+    "gecenSn": 26,
     "toplamMolaSn": 0,
     "durum": "BAŞLADI",
     "logs": [
