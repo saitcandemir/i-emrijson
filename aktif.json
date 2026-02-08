@@ -5,24 +5,30 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 55,
-    "gecenSn": 751,
+    "gecenSn": 582,
     "usta": "KAYNAK USTA 3",
-    "durum": "MOLADA",
+    "durum": "BAŞLADI",
     "logs": [
       "USTA GİRİŞ: KAYNAK USTA 3 @ 13:58:11",
-      "BAŞLATILDI @ 13:58:18",
-      "MOLA @ 14:11:08",
-      "BAŞLADI @ 14:11:26",
-      "MOLA @ 14:11:59",
-      "BAŞLADI @ 14:12:31",
-      "BAŞLADI @ 14:12:39",
-      "MOLA @ 14:12:44",
-      "BAŞLADI @ 14:14:05",
-      "MOLA @ 14:14:47",
-      "BAŞLADI @ 14:16:04",
-      "MOLA @ 14:18:10"
+      "BAŞLATILDI @ 13:58:18"
     ],
-    "molaHak": 0,
-    "molaSn": 211
+    "molaHak": 5
+  },
+  {
+    "no": "00002",
+    "isim": "PRO HAREKET MILI UZUN KAYNAK",
+    "at": "MONTAJ",
+    "adet": "3",
+    "toplamDk": 132,
+    "gecenSn": 438,
+    "usta": "MONTAJ USTA 2",
+    "durum": "BAŞLADI",
+    "logs": [
+      "USTA GİRİŞ: MONTAJ USTA 2 @ 14:00:11",
+      "BAŞLATILDI @ 14:00:17",
+      "MOLA VERİLDİ (KALAN:4) @ 14:00:41",
+      "BAŞLATILDI @ 14:01:06"
+    ],
+    "molaHak": 4
   }
 ]
