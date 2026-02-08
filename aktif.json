@@ -8,10 +8,12 @@
     "toplamDk": 1,
     "gecenSn": 0,
     "molaSn": 0,
-    "usta": "",
-    "durum": "USTA BEKLİYOR",
-    "logs": [],
+    "usta": "KAYNAK USTA 1",
+    "durum": "GİRİŞ YAPILDI",
+    "logs": [
+      "USTA: KAYNAK USTA 1"
+    ],
     "molaHak": 5,
-    "sonGuncelleme": 1770565957468
+    "sonGuncelleme": 1770565966853
   }
 ]
