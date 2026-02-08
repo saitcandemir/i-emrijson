@@ -5,7 +5,7 @@
     "at": "TORNA",
     "adet": "1",
     "toplamDk": 55,
-    "gecenSn": 1590,
+    "gecenSn": 1593,
     "toplamMolaSn": 330,
     "guncelMolaSn": 160,
     "usta": "TORNA USTA 2",
@@ -21,7 +21,7 @@
       "MOLA 4 BİTTİ: undefined (NaN SN)"
     ],
     "molaSayisi": 4,
-    "sonGuncelleme": 1770561171201
+    "sonGuncelleme": 1770561179678
   },
   {
     "no": "00006",
@@ -46,28 +46,7 @@
     "molaSayisi": 2,
     "ustaId": 2,
     "molaSebep": "VC",
-    "molaSn": 62,
-    "sonGuncelleme": 1770561171201
-  },
-  {
-    "no": "84654",
-    "isim": "ESKİ TİP PLATFORM MONTAJİ",
-    "at": "KAYNAK",
-    "adet": "1",
-    "toplamDk": 15,
-    "gecenSn": 95,
-    "toplamMolaSn": 0,
-    "durum": "MOLADA",
-    "logs": [
-      "USTA 1 KARTI KABUL ETTİ",
-      "İŞE DEVAM EDİLİYOR",
-      "BAŞLADI @ 17:31:07",
-      "MOLA @ 17:32:19"
-    ],
-    "ustaId": 1,
-    "usta": "KAYNAK USTA 3",
-    "molaHak": null,
-    "sonGuncelleme": 1770561171201,
-    "molaSn": null
+    "molaSn": 65,
+    "sonGuncelleme": 1770561179678
   }
 ]
