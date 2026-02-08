@@ -114,9 +114,10 @@
     "toplamDk": 15,
     "gecenSn": 0,
     "toplamMolaSn": 0,
-    "durum": "BEKLEMEDE",
+    "durum": "BAŞLADI",
     "logs": [
-      "USTA 1 KARTI KABUL ETTİ"
+      "USTA 1 KARTI KABUL ETTİ",
+      "İŞE DEVAM EDİLİYOR"
     ],
     "ustaId": 1
   }
