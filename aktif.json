@@ -1,30 +1,11 @@
 [
   {
-    "no": "00004",
-    "isim": "ESKİ TİP PLATFORM MONTAJİ",
-    "at": "KAYNAK",
-    "adet": "1",
-    "toplamDk": 55,
-    "gecenSn": 1288,
-    "toplamMolaSn": 456,
-    "guncelMolaSn": 0,
-    "usta": "KAYNAK USTA 3",
-    "durum": "BAŞLADI",
-    "logs": [
-      "İŞE DÖNÜLDÜ @ 15:50:54",
-      "MOLA 1 BAŞLADI",
-      "İŞE DÖNÜLDÜ @ 15:23:33"
-    ],
-    "molaSayisi": 1,
-    "sonGuncelleme": 1770561139943
-  },
-  {
     "no": "00005",
     "isim": "ESKİ TİP PLATFORM MONTAJİ",
     "at": "TORNA",
     "adet": "1",
     "toplamDk": 55,
-    "gecenSn": 1572,
+    "gecenSn": 1582,
     "toplamMolaSn": 330,
     "guncelMolaSn": 160,
     "usta": "TORNA USTA 2",
@@ -40,7 +21,7 @@
       "MOLA 4 BİTTİ: undefined (NaN SN)"
     ],
     "molaSayisi": 4,
-    "sonGuncelleme": 1770561139943
+    "sonGuncelleme": 1770561156845
   },
   {
     "no": "00006",
@@ -65,8 +46,8 @@
     "molaSayisi": 2,
     "ustaId": 2,
     "molaSebep": "VC",
-    "molaSn": 44,
-    "sonGuncelleme": 1770561139943
+    "molaSn": 54,
+    "sonGuncelleme": 1770561156845
   },
   {
     "no": "37696",
@@ -79,7 +60,7 @@
     "durum": "BEKLEMEDE",
     "logs": [],
     "molaSayisi": 0,
-    "sonGuncelleme": 1770561139943
+    "sonGuncelleme": 1770561156845
   },
   {
     "no": "76759",
@@ -98,8 +79,8 @@
     "ustaId": null,
     "usta": "KAYNAK USTA 3",
     "molaHak": null,
-    "molaSn": null,
-    "sonGuncelleme": 1770561139943
+    "molaSn": 10,
+    "sonGuncelleme": 1770561156845
   },
   {
     "no": "84654",
@@ -119,6 +100,7 @@
     "ustaId": 1,
     "usta": "KAYNAK USTA 3",
     "molaHak": null,
-    "sonGuncelleme": 1770561139943
+    "sonGuncelleme": 1770561156845,
+    "molaSn": null
   }
 ]
