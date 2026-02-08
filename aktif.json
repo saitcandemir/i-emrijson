@@ -5,7 +5,7 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 55,
-    "gecenSn": 1364,
+    "gecenSn": 1689,
     "toplamMolaSn": 870,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 2",
@@ -19,8 +19,7 @@
       "MOLA 1 BAŞLADI",
       "İŞE DÖNÜLDÜ @ 15:15:08"
     ],
-    "molaSayisi": 3,
-    "sonGuncelleme": 1770562335775
+    "molaSayisi": 3
   },
   {
     "no": "00004",
@@ -28,7 +27,7 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 55,
-    "gecenSn": 1390,
+    "gecenSn": 1715,
     "toplamMolaSn": 456,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 3",
@@ -38,8 +37,7 @@
       "MOLA 1 BAŞLADI",
       "İŞE DÖNÜLDÜ @ 15:23:33"
     ],
-    "molaSayisi": 1,
-    "sonGuncelleme": 1770562335775
+    "molaSayisi": 1
   },
   {
     "no": "00005",
@@ -47,9 +45,9 @@
     "at": "TORNA",
     "adet": "1",
     "toplamDk": 55,
-    "gecenSn": 1674,
-    "toplamMolaSn": 330,
-    "guncelMolaSn": 160,
+    "gecenSn": 1813,
+    "toplamMolaSn": 514,
+    "guncelMolaSn": 0,
     "usta": "TORNA USTA 2",
     "durum": "BAŞLADI",
     "logs": [
@@ -60,10 +58,12 @@
       "MOLA 3 BAŞLADI",
       "İŞE DÖNÜLDÜ @ 16:33:10",
       "MOLA 4 BAŞLADI",
-      "MOLA 4 BİTTİ: undefined (NaN SN)"
+      "MOLA 4 BİTTİ: undefined (NaN SN)",
+      "MOLA 5 BAŞLADI",
+      "MOLA 6 BAŞLADI",
+      "İŞE DÖNÜLDÜ @ 17:52:25"
     ],
-    "molaSayisi": 4,
-    "sonGuncelleme": 1770562335775
+    "molaSayisi": 6
   },
   {
     "no": "00006",
@@ -71,20 +71,22 @@
     "at": "TORNA",
     "adet": "1",
     "toplamDk": 2,
-    "gecenSn": 1352,
-    "toplamMolaSn": 596,
-    "guncelMolaSn": 0,
+    "gecenSn": 1531,
+    "toplamMolaSn": 740,
+    "guncelMolaSn": 120,
     "usta": "TORNA USTA 2",
-    "durum": "BAŞLADI",
+    "durum": "MOLADA",
     "logs": [
       "İŞE DÖNÜLDÜ @ 15:21:49",
       "MOLA 1 BAŞLADI",
       "İŞE DÖNÜLDÜ @ 15:46:49",
       "MOLA 2 BAŞLADI",
-      "İŞE DÖNÜLDÜ @ 16:52:53"
+      "İŞE DÖNÜLDÜ @ 16:52:53",
+      "MOLA 3 BAŞLADI",
+      "MOLA 4 BAŞLADI",
+      "MOLA 5 BAŞLADI"
     ],
-    "molaSayisi": 2,
-    "sonGuncelleme": 1770562335775
+    "molaSayisi": 5
   },
   {
     "no": "37696",
@@ -92,7 +94,7 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": null,
-    "gecenSn": 119,
+    "gecenSn": 459,
     "toplamMolaSn": 0,
     "durum": "BAŞLADI",
     "logs": [
@@ -100,8 +102,7 @@
     ],
     "molaSayisi": 0,
     "usta": "KAYNAK USTA 1",
-    "guncelMolaSn": 0,
-    "sonGuncelleme": 1770562335775
+    "guncelMolaSn": 0
   },
   {
     "no": "37697",
@@ -109,15 +110,16 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 22,
-    "gecenSn": 80,
-    "toplamMolaSn": 0,
-    "guncelMolaSn": 0,
+    "gecenSn": 186,
+    "toplamMolaSn": 234,
+    "guncelMolaSn": 234,
     "usta": "KAYNAK USTA 1",
-    "durum": "BAŞLADI",
+    "durum": "MOLADA",
     "logs": [
-      "İŞE DÖNÜLDÜ @ 17:45:24"
+      "İŞE DÖNÜLDÜ @ 17:45:24",
+      "MOLA 1 BAŞLADI",
+      "MOLA 2 BAŞLADI"
     ],
-    "molaSayisi": 0,
-    "sonGuncelleme": 1770562335775
+    "molaSayisi": 2
   }
 ]
