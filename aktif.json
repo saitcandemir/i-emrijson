@@ -15,7 +15,7 @@
     ],
     "molaSayisi": 0,
     "molaSebepleri": [],
-    "sonZaman": 1770573273149
+    "sonZaman": 1770573282693
   },
   {
     "no": "00005",
@@ -32,6 +32,23 @@
     "logs": [
       "[08.02.2026 20:54:33] EMİR OLUŞTURULDU"
     ],
-    "sonZaman": 1770573273149
+    "sonZaman": 1770573282693
+  },
+  {
+    "no": "00006",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "MONTAJ",
+    "adet": "1",
+    "toplamDk": 60,
+    "gecenSn": 0,
+    "toplamMolaSn": 0,
+    "guncelMolaSn": 0,
+    "molaSayisi": 0,
+    "usta": "",
+    "durum": "USTA BEKLİYOR",
+    "logs": [
+      "[08.02.2026 20:54:42] EMİR OLUŞTURULDU"
+    ],
+    "sonZaman": 1770573282693
   }
 ]
