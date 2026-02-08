@@ -20,7 +20,7 @@
     "at": "TORNA",
     "adet": 1,
     "toplam": 1,
-    "gecenDk": 2,
+    "gecenDk": 3,
     "d_say": 0,
     "usta": "TORNA USTA 2",
     "calisiyor": true,
@@ -34,7 +34,7 @@
     "at": "MONTAJ",
     "adet": 1,
     "toplam": 1,
-    "gecenDk": 2,
+    "gecenDk": 3,
     "d_say": 0,
     "usta": "MONTAJ USTA 2",
     "calisiyor": true,
@@ -52,6 +52,20 @@
     "d_say": 0,
     "usta": "KAYNAK USTA 2",
     "calisiyor": true,
+    "basla": "--:--",
+    "tahmin": "--:--"
+  },
+  {
+    "no": "00008",
+    "id": "Klepe Mili KAYNAK 212",
+    "isim": "Klepe Mili KAYNAK 212",
+    "at": "MONTAJ",
+    "adet": 3,
+    "toplam": 3,
+    "gecenDk": 0,
+    "d_say": 0,
+    "usta": "",
+    "calisiyor": false,
     "basla": "--:--",
     "tahmin": "--:--"
   }
