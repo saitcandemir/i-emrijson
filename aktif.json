@@ -10,7 +10,7 @@
         "no": 1,
         "usta": "ALI",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 237,
+        "gecenSn": 339,
         "log": [
           {
             "t": "23:54:25",
@@ -23,7 +23,7 @@
         "no": 3,
         "usta": "VELI",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 201,
+        "gecenSn": 303,
         "log": [
           {
             "t": "23:55:01",
@@ -43,10 +43,16 @@
     "parcalar": [
       {
         "no": 1,
-        "usta": null,
-        "durum": "BEKLEMEDE",
+        "usta": "SAIT",
+        "durum": "ÇALIŞIYOR",
         "gecenSn": 0,
-        "log": []
+        "log": [
+          {
+            "t": "00:00:58",
+            "m": "İŞE BAŞLANDI"
+          }
+        ],
+        "baslangic": "09.02.2026 00:00:58"
       },
       {
         "no": 2,
