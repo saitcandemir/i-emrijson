@@ -5,14 +5,24 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 55,
-    "gecenSn": 579,
+    "gecenSn": 628,
     "usta": "KAYNAK USTA 3",
     "durum": "BAŞLADI",
     "logs": [
       "USTA GİRİŞ: KAYNAK USTA 3 @ 13:58:11",
-      "BAŞLATILDI @ 13:58:18"
+      "BAŞLATILDI @ 13:58:18",
+      "MOLA @ 14:11:08",
+      "BAŞLADI @ 14:11:26",
+      "MOLA @ 14:11:59",
+      "BAŞLADI @ 14:12:31",
+      "BAŞLADI @ 14:12:39",
+      "MOLA @ 14:12:44",
+      "BAŞLADI @ 14:14:05",
+      "MOLA @ 14:14:47",
+      "BAŞLADI @ 14:16:04"
     ],
-    "molaHak": 5
+    "molaHak": 1,
+    "molaSn": 188
   },
   {
     "no": "00002",
@@ -20,7 +30,7 @@
     "at": "MONTAJ",
     "adet": "3",
     "toplamDk": 132,
-    "gecenSn": 435,
+    "gecenSn": 696,
     "usta": "MONTAJ USTA 2",
     "durum": "BAŞLADI",
     "logs": [
