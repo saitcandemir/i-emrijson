@@ -1,97 +1,19 @@
 [
   {
-    "no": "00003",
+    "no": "00001",
     "isim": "ESKİ TİP PLATFORM MONTAJİ",
     "at": "KAYNAK",
     "adet": "1",
-    "toplamDk": 55,
-    "gecenSn": 1200,
-    "toplamMolaSn": 870,
-    "guncelMolaSn": 0,
+    "toplamDk": 1,
+    "gecenSn": 0,
+    "molaSn": 0,
     "usta": "KAYNAK USTA 2",
     "durum": "BAŞLADI",
     "logs": [
-      "İŞE DÖNÜLDÜ @ 16:33:45",
-      "MOLA 3 BAŞLADI",
-      "İŞE DÖNÜLDÜ @ 15:50:13",
-      "MOLA 2 BAŞLADI",
-      "İŞE DÖNÜLDÜ @ 15:23:11",
-      "MOLA 1 BAŞLADI",
-      "İŞE DÖNÜLDÜ @ 15:15:08"
+      "USTA: KAYNAK USTA 2",
+      "BAŞLADI @ 17:34:51"
     ],
-    "molaSayisi": 3
-  },
-  {
-    "no": "00004",
-    "isim": "ESKİ TİP PLATFORM MONTAJİ",
-    "at": "KAYNAK",
-    "adet": "1",
-    "toplamDk": 55,
-    "gecenSn": 1226,
-    "toplamMolaSn": 456,
-    "guncelMolaSn": 0,
-    "usta": "KAYNAK USTA 3",
-    "durum": "BAŞLADI",
-    "logs": [
-      "İŞE DÖNÜLDÜ @ 15:50:54",
-      "MOLA 1 BAŞLADI",
-      "İŞE DÖNÜLDÜ @ 15:23:33"
-    ],
-    "molaSayisi": 1
-  },
-  {
-    "no": "00005",
-    "isim": "ESKİ TİP PLATFORM MONTAJİ",
-    "at": "TORNA",
-    "adet": "1",
-    "toplamDk": 55,
-    "gecenSn": 1510,
-    "toplamMolaSn": 330,
-    "guncelMolaSn": 160,
-    "usta": "TORNA USTA 2",
-    "durum": "BAŞLADI",
-    "logs": [
-      "İŞE DÖNÜLDÜ @ 15:20:51",
-      "MOLA 1 BAŞLADI",
-      "MOLA 2 BAŞLADI",
-      "İŞE DÖNÜLDÜ @ 16:32:36",
-      "MOLA 3 BAŞLADI",
-      "İŞE DÖNÜLDÜ @ 16:33:10",
-      "MOLA 4 BAŞLADI",
-      "MOLA 4 BİTTİ: undefined (NaN SN)"
-    ],
-    "molaSayisi": 4
-  },
-  {
-    "no": "00006",
-    "isim": "ESKİ TİP PLATFORM MONTAJİ",
-    "at": "TORNA",
-    "adet": "1",
-    "toplamDk": 2,
-    "gecenSn": 1188,
-    "toplamMolaSn": 596,
-    "guncelMolaSn": 0,
-    "usta": "TORNA USTA 2",
-    "durum": "BAŞLADI",
-    "logs": [
-      "İŞE DÖNÜLDÜ @ 15:21:49",
-      "MOLA 1 BAŞLADI",
-      "İŞE DÖNÜLDÜ @ 15:46:49",
-      "MOLA 2 BAŞLADI",
-      "İŞE DÖNÜLDÜ @ 16:52:53"
-    ],
-    "molaSayisi": 2
-  },
-  {
-    "no": "37696",
-    "isim": "KLEPE MILI KAYNAK 182",
-    "at": "KAYNAK",
-    "adet": "1",
-    "toplamDk": null,
-    "gecenSn": 0,
-    "toplamMolaSn": 0,
-    "durum": "BEKLEMEDE",
-    "logs": [],
-    "molaSayisi": 0
+    "molaHak": 5,
+    "sonGuncelleme": 1770561291734
   }
 ]
