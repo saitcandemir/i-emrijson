@@ -5,7 +5,7 @@
     "at": "KAYNAK",
     "adet": "2",
     "toplamDk": 88,
-    "gecenSn": 52,
+    "gecenSn": 59,
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 2",
@@ -15,7 +15,7 @@
       "İŞE DÖNÜLDÜ @ 19:55:11"
     ],
     "molaSayisi": 0,
-    "sonZaman": 1770569865200
+    "sonZaman": 1770569871897
   },
   {
     "no": "00012",
@@ -27,11 +27,12 @@
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 2",
-    "durum": "GİRİŞ YAPILDI",
+    "durum": "BAŞLADI",
     "logs": [
-      "EMİR OLUŞTURULDU"
+      "EMİR OLUŞTURULDU",
+      "İŞE DÖNÜLDÜ @ 19:57:51"
     ],
     "molaSayisi": 0,
-    "sonZaman": 1770569865200
+    "sonZaman": 1770569871897
   }
 ]
