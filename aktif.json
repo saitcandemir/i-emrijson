@@ -21,10 +21,10 @@
     "adet": 1,
     "toplam": 1,
     "d_say": 0,
-    "basla": "--:--",
-    "tahmin": "--:--",
+    "basla": "13:13",
+    "tahmin": "13:14",
     "usta": "USTA 1",
     "gecenDk": 0,
-    "calisiyor": false
+    "calisiyor": true
   }
 ]
