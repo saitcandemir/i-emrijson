@@ -20,18 +20,18 @@
         "no": 1,
         "usta": "USTA 3",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 1
+        "gecenSn": 34
       },
       {
         "no": 2,
         "usta": "USTA 3",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 9
+        "gecenSn": 42
       },
       {
         "no": 3,
-        "usta": null,
-        "durum": "BEKLEMEDE",
+        "usta": "USTA 1",
+        "durum": "ÇALIŞIYOR",
         "gecenSn": 0
       },
       {
