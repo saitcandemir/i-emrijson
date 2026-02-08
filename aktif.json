@@ -5,16 +5,18 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 1,
-    "gecenSn": 38,
+    "gecenSn": 43,
     "toplamMolaSn": 0,
     "usta": "KAYNAK USTA 1",
-    "durum": "BAŞLADI",
+    "durum": "MOLADA",
     "logs": [
       "EMİR BASILDI",
       "İŞ BAŞI @ 19:37:29",
       "İŞ BAŞI @ 19:37:34",
-      "İŞ BAŞI @ 19:37:41"
+      "İŞ BAŞI @ 19:37:41",
+      "MOLA BAŞLADI"
     ],
-    "guncelMolaSn": 0
+    "guncelMolaSn": 0,
+    "molaSayisi": null
   }
 ]
