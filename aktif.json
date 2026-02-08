@@ -5,7 +5,7 @@
     "at": "KAYNAK",
     "adet": 4,
     "toplamDk": 40,
-    "gecenSn": 176,
+    "gecenSn": 209,
     "toplamMolaSn": 17,
     "guncelMolaSn": 17,
     "molaSayisi": 1,
@@ -56,5 +56,21 @@
       "[08.02.2026 22:00:47] EMİR OLUŞTURULDU - 5 PARÇA"
     ],
     "sonZaman": 1770577604521
+  },
+  {
+    "no": "00015",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "TORNA",
+    "adet": 3,
+    "toplamDk": 120,
+    "gecenSn": 0,
+    "toplamMolaSn": 0,
+    "guncelMolaSn": 0,
+    "usta": "",
+    "durum": "BEKLEMEDE",
+    "pNo": 0,
+    "logs": [
+      "İŞ OLUŞTURULDU: 3 PARÇA"
+    ]
   }
 ]
