@@ -6,8 +6,8 @@
     "adet": "1",
     "toplamDk": 8,
     "gecenSn": 362,
-    "toplamMolaSn": 509,
-    "guncelMolaSn": 188,
+    "toplamMolaSn": 667,
+    "guncelMolaSn": 346,
     "molaSayisi": 2,
     "usta": "KAYNAK USTA 1",
     "durum": "MOLADA",
@@ -20,7 +20,7 @@
       "[21:13:31] İŞ BAŞLATILDI",
       "[21:28:15] MOLA 2 BAŞLADI: VC"
     ],
-    "sonZaman": 1770576045258
+    "sonZaman": 1770576203778
   },
   {
     "no": "00011",
@@ -32,12 +32,13 @@
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
     "molaSayisi": 0,
-    "usta": "",
+    "usta": "KAYNAK USTA 2",
     "durum": "BOŞTA",
     "logs": [
+      "[21:43:23] USTA SEÇİLDİ: KAYNAK USTA 2",
       "[08.02.2026 21:33:01] EMİR OLUŞTURULDU"
     ],
-    "sonZaman": 1770576045258
+    "sonZaman": 1770576203778
   },
   {
     "no": "00012",
@@ -93,7 +94,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576045258
+    "sonZaman": 1770576203778
   },
   {
     "no": "00013",
@@ -149,7 +150,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576045258
+    "sonZaman": 1770576203778
   },
   {
     "no": "00014",
@@ -205,7 +206,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576045258
+    "sonZaman": 1770576203778
   },
   {
     "no": "00015",
@@ -261,7 +262,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576045258
+    "sonZaman": 1770576203778
   },
   {
     "no": "00016",
@@ -317,7 +318,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576045258
+    "sonZaman": 1770576203778
   },
   {
     "no": "00017",
@@ -373,7 +374,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576045258
+    "sonZaman": 1770576203778
   },
   {
     "no": "00018",
@@ -429,7 +430,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576045258
+    "sonZaman": 1770576203778
   },
   {
     "no": "00019",
@@ -485,7 +486,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576045258
+    "sonZaman": 1770576203778
   },
   {
     "no": "00020",
@@ -541,7 +542,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576045258
+    "sonZaman": 1770576203778
   },
   {
     "no": "00021",
@@ -597,7 +598,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576045258
+    "sonZaman": 1770576203778
   },
   {
     "no": "00022",
@@ -653,7 +654,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576045258
+    "sonZaman": 1770576203778
   },
   {
     "no": "00023",
@@ -709,6 +710,6 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576045258
+    "sonZaman": 1770576203778
   }
 ]
