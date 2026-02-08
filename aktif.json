@@ -5,7 +5,7 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 55,
-    "gecenSn": 118,
+    "gecenSn": 143,
     "usta": "KAYNAK USTA 3",
     "durum": "BAŞLADI",
     "logs": [
@@ -20,13 +20,14 @@
     "at": "MONTAJ",
     "adet": "3",
     "toplamDk": 132,
-    "gecenSn": 0,
+    "gecenSn": 24,
     "usta": "MONTAJ USTA 2",
-    "durum": "BAŞLADI",
+    "durum": "MOLADA",
     "logs": [
       "USTA GİRİŞ: MONTAJ USTA 2 @ 14:00:11",
-      "BAŞLATILDI @ 14:00:17"
+      "BAŞLATILDI @ 14:00:17",
+      "MOLA VERİLDİ (KALAN:4) @ 14:00:41"
     ],
-    "molaHak": 5
+    "molaHak": 4
   }
 ]
