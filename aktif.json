@@ -1,19 +1,5 @@
 [
   {
-    "no": "00006",
-    "id": "ESKİ TİP PLATFORM MONTAJİ",
-    "isim": "ESKİ TİP PLATFORM MONTAJİ",
-    "at": "MONTAJ",
-    "adet": 1,
-    "toplam": 1,
-    "gecenDk": 4,
-    "d_say": 0,
-    "usta": "MONTAJ USTA 2",
-    "calisiyor": true,
-    "basla": "--:--",
-    "tahmin": "--:--"
-  },
-  {
     "no": "00008",
     "id": "Klepe Mili KAYNAK 212",
     "isim": "Klepe Mili KAYNAK 212",
