@@ -39,7 +39,15 @@
     "usta": "KAYNAK USTA 2",
     "calisiyor": true,
     "basla": "--:--",
-    "tahmin": "--:--"
+    "tahmin": "--:--",
+    "logs": [
+      {
+        "islem": "İŞ BAŞLATILDI",
+        "saat": "13:50:18"
+      }
+    ],
+    "durum": "ÇALIŞIYOR",
+    "gecenSn": 73
   },
   {
     "no": "00008",
