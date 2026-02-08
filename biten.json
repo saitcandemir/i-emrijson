@@ -12,14 +12,14 @@
     "usta": "KAYNAK USTA 1",
     "durum": "BİTTİ",
     "logs": [
-      "[20:48:15] USTA SEÇİLDİ: KAYNAK USTA 1",
-      "[08.02.2026 20:48:02] EMİR OLUŞTURULDU",
-      "[20:48:20] İŞ BAŞLATILDI",
-      "[20:48:50] MOLA 1 BAŞLADI: VC",
+      "[20:50:05] İŞ BAŞLATILDI",
       "[20:50:05] MOLA 1 BİTTİ (SÜRE: 1 DK 13 SN)",
-      "[20:50:05] İŞ BAŞLATILDI"
+      "[20:48:50] MOLA 1 BAŞLADI: VC",
+      "[20:48:20] İŞ BAŞLATILDI",
+      "[08.02.2026 20:48:02] EMİR OLUŞTURULDU",
+      "[20:48:15] USTA SEÇİLDİ: KAYNAK USTA 1"
     ],
-    "sonZaman": 1770576393970
+    "sonZaman": 1770576585298
   },
   {
     "no": "00009",
@@ -34,16 +34,39 @@
     "usta": "KAYNAK USTA 2",
     "durum": "BİTTİ",
     "logs": [
-      "[21:02:57] İŞ BAŞLATILDI",
-      "[21:02:57] MOLA 2 BİTTİ (SÜRE: 2 DK 9 SN)",
-      "[20:58:58] MOLA 2 BAŞLADI: VC",
-      "[20:58:05] İŞ BAŞLATILDI",
-      "[20:58:05] MOLA 1 BİTTİ (SÜRE: 1 DK 12 SN)",
-      "[20:55:14] İŞ BAŞLATILDI",
-      "[08.02.2026 20:54:59] EMİR OLUŞTURULDU",
+      "[20:56:52] MOLA 1 BAŞLADI: ÖZEL MOLA",
       "[20:55:11] USTA SEÇİLDİ: KAYNAK USTA 2",
-      "[20:56:52] MOLA 1 BAŞLADI: ÖZEL MOLA"
+      "[08.02.2026 20:54:59] EMİR OLUŞTURULDU",
+      "[20:55:14] İŞ BAŞLATILDI",
+      "[20:58:05] MOLA 1 BİTTİ (SÜRE: 1 DK 12 SN)",
+      "[20:58:05] İŞ BAŞLATILDI",
+      "[20:58:58] MOLA 2 BAŞLADI: VC",
+      "[21:02:57] MOLA 2 BİTTİ (SÜRE: 2 DK 9 SN)",
+      "[21:02:57] İŞ BAŞLATILDI"
     ],
-    "sonZaman": 1770576393970
+    "sonZaman": 1770576585298
+  },
+  {
+    "no": "00010",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "KAYNAK",
+    "adet": "1",
+    "toplamDk": 8,
+    "gecenSn": 362,
+    "toplamMolaSn": 1002,
+    "guncelMolaSn": 681,
+    "molaSayisi": 2,
+    "usta": "KAYNAK USTA 1",
+    "durum": "BİTTİ",
+    "logs": [
+      "[21:04:51] İŞ BAŞLATILDI",
+      "[08.02.2026 21:04:26] EMİR OLUŞTURULDU",
+      "[21:04:34] USTA SEÇİLDİ: KAYNAK USTA 1",
+      "[21:06:19] MOLA 1 BAŞLADI: VC",
+      "[21:13:31] MOLA 1 BİTTİ (SÜRE: 5 DK 21 SN)",
+      "[21:13:31] İŞ BAŞLATILDI",
+      "[21:28:15] MOLA 2 BAŞLADI: VC"
+    ],
+    "sonZaman": 1770576585298
   }
 ]
