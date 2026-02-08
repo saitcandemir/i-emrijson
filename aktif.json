@@ -6,8 +6,8 @@
     "adet": "1",
     "toplamDk": 8,
     "gecenSn": 362,
-    "toplamMolaSn": 484,
-    "guncelMolaSn": 163,
+    "toplamMolaSn": 509,
+    "guncelMolaSn": 188,
     "molaSayisi": 2,
     "usta": "KAYNAK USTA 1",
     "durum": "MOLADA",
@@ -20,6 +20,23 @@
       "[21:13:31] İŞ BAŞLATILDI",
       "[21:28:15] MOLA 2 BAŞLADI: VC"
     ],
-    "sonZaman": 1770575544388
+    "sonZaman": 1770575581747
+  },
+  {
+    "no": "00011",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "KAYNAK",
+    "adet": "5",
+    "toplamDk": 50,
+    "gecenSn": 0,
+    "toplamMolaSn": 0,
+    "guncelMolaSn": 0,
+    "molaSayisi": 0,
+    "usta": "",
+    "durum": "BOŞTA",
+    "logs": [
+      "[08.02.2026 21:33:01] EMİR OLUŞTURULDU"
+    ],
+    "sonZaman": 1770575581747
   }
 ]
