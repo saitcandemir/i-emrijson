@@ -6,21 +6,21 @@
     "adet": "1",
     "toplamDk": 8,
     "gecenSn": 362,
-    "toplamMolaSn": 672,
-    "guncelMolaSn": 351,
+    "toplamMolaSn": 684,
+    "guncelMolaSn": 363,
     "molaSayisi": 2,
     "usta": "KAYNAK USTA 1",
     "durum": "MOLADA",
     "logs": [
-      "[21:04:51] İŞ BAŞLATILDI",
-      "[08.02.2026 21:04:26] EMİR OLUŞTURULDU",
-      "[21:04:34] USTA SEÇİLDİ: KAYNAK USTA 1",
-      "[21:06:19] MOLA 1 BAŞLADI: VC",
-      "[21:13:31] MOLA 1 BİTTİ (SÜRE: 5 DK 21 SN)",
+      "[21:28:15] MOLA 2 BAŞLADI: VC",
       "[21:13:31] İŞ BAŞLATILDI",
-      "[21:28:15] MOLA 2 BAŞLADI: VC"
+      "[21:13:31] MOLA 1 BİTTİ (SÜRE: 5 DK 21 SN)",
+      "[21:06:19] MOLA 1 BAŞLADI: VC",
+      "[21:04:34] USTA SEÇİLDİ: KAYNAK USTA 1",
+      "[08.02.2026 21:04:26] EMİR OLUŞTURULDU",
+      "[21:04:51] İŞ BAŞLATILDI"
     ],
-    "sonZaman": 1770576209338
+    "sonZaman": 1770576224947
   },
   {
     "no": "00011",
@@ -28,74 +28,18 @@
     "at": "KAYNAK",
     "adet": "5",
     "toplamDk": 50,
-    "gecenSn": 0,
+    "gecenSn": 12,
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
     "molaSayisi": 0,
     "usta": "KAYNAK USTA 2",
     "durum": "BAŞLADI",
     "logs": [
-      "[21:43:23] USTA SEÇİLDİ: KAYNAK USTA 2",
+      "[21:43:29] İŞ BAŞLATILDI",
       "[08.02.2026 21:33:01] EMİR OLUŞTURULDU",
-      "[21:43:29] İŞ BAŞLATILDI"
+      "[21:43:23] USTA SEÇİLDİ: KAYNAK USTA 2"
     ],
-    "sonZaman": 1770576209338
-  },
-  {
-    "no": "00012",
-    "isim": "ESKİ TİP PLATFORM MONTAJİ",
-    "at": "KAYNAK",
-    "adet": 5,
-    "birimDk": 10,
-    "parcalar": [
-      {
-        "pNo": 1,
-        "usta": "",
-        "durum": "BOŞTA",
-        "gecenSn": 0,
-        "tMolaSn": 0,
-        "gMolaSn": 0,
-        "logs": []
-      },
-      {
-        "pNo": 2,
-        "usta": "",
-        "durum": "BOŞTA",
-        "gecenSn": 0,
-        "tMolaSn": 0,
-        "gMolaSn": 0,
-        "logs": []
-      },
-      {
-        "pNo": 3,
-        "usta": "",
-        "durum": "BOŞTA",
-        "gecenSn": 0,
-        "tMolaSn": 0,
-        "gMolaSn": 0,
-        "logs": []
-      },
-      {
-        "pNo": 4,
-        "usta": "",
-        "durum": "BOŞTA",
-        "gecenSn": 0,
-        "tMolaSn": 0,
-        "gMolaSn": 0,
-        "logs": []
-      },
-      {
-        "pNo": 5,
-        "usta": "",
-        "durum": "BOŞTA",
-        "gecenSn": 0,
-        "tMolaSn": 0,
-        "gMolaSn": 0,
-        "logs": []
-      }
-    ],
-    "durum": "AÇIK",
-    "sonZaman": 1770576209338
+    "sonZaman": 1770576224947
   },
   {
     "no": "00013",
@@ -151,7 +95,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576209338
+    "sonZaman": 1770576224947
   },
   {
     "no": "00014",
@@ -207,7 +151,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576209338
+    "sonZaman": 1770576224947
   },
   {
     "no": "00015",
@@ -263,7 +207,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576209338
+    "sonZaman": 1770576224947
   },
   {
     "no": "00016",
@@ -319,7 +263,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576209338
+    "sonZaman": 1770576224947
   },
   {
     "no": "00017",
@@ -375,7 +319,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576209338
+    "sonZaman": 1770576224947
   },
   {
     "no": "00018",
@@ -431,7 +375,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576209338
+    "sonZaman": 1770576224947
   },
   {
     "no": "00019",
@@ -487,7 +431,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576209338
+    "sonZaman": 1770576224947
   },
   {
     "no": "00020",
@@ -543,7 +487,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576209338
+    "sonZaman": 1770576224947
   },
   {
     "no": "00021",
@@ -599,7 +543,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576209338
+    "sonZaman": 1770576224947
   },
   {
     "no": "00022",
@@ -655,7 +599,7 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576209338
+    "sonZaman": 1770576224947
   },
   {
     "no": "00023",
@@ -711,6 +655,6 @@
       }
     ],
     "durum": "AÇIK",
-    "sonZaman": 1770576209338
+    "sonZaman": 1770576224947
   }
 ]
