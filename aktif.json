@@ -14,24 +14,7 @@
     "logs": [
       "[08.02.2026 20:54:42] EMİR OLUŞTURULDU"
     ],
-    "sonZaman": 1770575515786
-  },
-  {
-    "no": "00007",
-    "isim": "ESKİ TİP PLATFORM MONTAJİ",
-    "at": "MONTAJ",
-    "adet": "1",
-    "toplamDk": 60,
-    "gecenSn": 0,
-    "toplamMolaSn": 0,
-    "guncelMolaSn": 0,
-    "molaSayisi": 0,
-    "usta": "",
-    "durum": "USTA BEKLİYOR",
-    "logs": [
-      "[08.02.2026 20:54:46] EMİR OLUŞTURULDU"
-    ],
-    "sonZaman": 1770575515787
+    "sonZaman": 1770575526620
   },
   {
     "no": "00008",
@@ -48,7 +31,7 @@
     "logs": [
       "[08.02.2026 20:54:46] EMİR OLUŞTURULDU"
     ],
-    "sonZaman": 1770575515787
+    "sonZaman": 1770575526620
   },
   {
     "no": "00010",
@@ -57,8 +40,8 @@
     "adet": "1",
     "toplamDk": 8,
     "gecenSn": 362,
-    "toplamMolaSn": 465,
-    "guncelMolaSn": 144,
+    "toplamMolaSn": 473,
+    "guncelMolaSn": 152,
     "molaSayisi": 2,
     "usta": "KAYNAK USTA 1",
     "durum": "MOLADA",
@@ -71,6 +54,6 @@
       "[21:13:31] İŞ BAŞLATILDI",
       "[21:28:15] MOLA 2 BAŞLADI: VC"
     ],
-    "sonZaman": 1770575515787
+    "sonZaman": 1770575526620
   }
 ]
