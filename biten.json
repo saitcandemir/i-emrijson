@@ -23,6 +23,26 @@
       "MOLA 6 BAŞLADI",
       "İŞE DÖNÜLDÜ @ 17:52:25"
     ],
-    "molaSayisi": 6
+    "molaSayisi": 6,
+    "sonGuncelleme": 1770565799078
+  },
+  {
+    "no": "00006",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "KAYNAK",
+    "hedefDk": 2,
+    "gecenSn": 143,
+    "molaSn": 0,
+    "durum": "BİTTİ",
+    "usta": "KAYNAK USTA 1",
+    "logs": [
+      "EMİR OLUŞTURULDU",
+      "USTA: KAYNAK USTA 1",
+      "BAŞLADI @ 18:46:39",
+      "MOLA @ 18:47:45",
+      "BAŞLADI @ 18:48:39"
+    ],
+    "sonGuncelleme": 1770565799078,
+    "bitisZamani": "08.02.2026 18:49:59"
   }
 ]
