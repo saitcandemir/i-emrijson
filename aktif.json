@@ -14,8 +14,8 @@
       "MOLA @ 14:36:31"
     ],
     "molaHak": 4,
-    "molaSn": null,
-    "sonGuncelleme": 1770550599260
+    "molaSn": 75,
+    "sonGuncelleme": 1770550675908
   },
   {
     "no": "00002",
@@ -23,7 +23,7 @@
     "at": "MONTAJ",
     "adet": "3",
     "toplamDk": 132,
-    "gecenSn": 609,
+    "gecenSn": 684,
     "usta": "MONTAJ USTA 2",
     "durum": "BAŞLADI",
     "logs": [
@@ -33,6 +33,6 @@
       "BAŞLATILDI @ 14:01:06"
     ],
     "molaHak": 4,
-    "sonGuncelleme": 1770550599260
+    "sonGuncelleme": 1770550675908
   }
 ]
