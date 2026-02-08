@@ -10,7 +10,7 @@
     "basla": "13:13",
     "tahmin": "13:15",
     "usta": "USTA 1",
-    "gecenDk": 0,
+    "gecenDk": 1,
     "calisiyor": true
   },
   {
@@ -24,21 +24,7 @@
     "basla": "13:13",
     "tahmin": "13:14",
     "usta": "USTA 1",
-    "gecenDk": 0,
-    "calisiyor": true
-  },
-  {
-    "no": "00003",
-    "id": "151.01.1601",
-    "isim": "ESKİ TİP PLATFORM MONTAJİ",
-    "at": "MONTAJ",
-    "adet": 1,
-    "toplam": 1,
-    "d_say": 0,
-    "basla": "13:14",
-    "tahmin": "13:15",
-    "usta": "USTA 2",
-    "gecenDk": 0,
+    "gecenDk": 1,
     "calisiyor": true
   }
 ]
