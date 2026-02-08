@@ -7,21 +7,5 @@
     "birimDk": 33,
     "atolye": "KAYNAK",
     "parcalar": []
-  },
-  {
-    "emirId": 1770590405340,
-    "isId": "151.01.1601",
-    "isim": "ESKİ TİP PLATFORM MONTAJİ",
-    "adet": 4,
-    "birimDk": 5,
-    "atolye": "KAYNAK",
-    "parcalar": [
-      {
-        "no": 3,
-        "usta": "USTA 1",
-        "durum": "ÇALIŞIYOR",
-        "gecenSn": 48
-      }
-    ]
   }
 ]
