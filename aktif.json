@@ -1,17 +1,1 @@
-[
-  {
-    "no": "00008",
-    "id": "Klepe Mili KAYNAK 212",
-    "isim": "Klepe Mili KAYNAK 212",
-    "at": "MONTAJ",
-    "adet": 3,
-    "toplam": 3,
-    "gecenDk": 0,
-    "d_say": 0,
-    "usta": "MONTAJ USTA 2",
-    "calisiyor": true,
-    "basla": "--:--",
-    "tahmin": "--:--",
-    "durum": "BAŞLADI"
-  }
-]
+[]
