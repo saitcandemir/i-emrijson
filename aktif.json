@@ -9,12 +9,13 @@
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 1",
-    "durum": "İŞE HAZIR",
+    "durum": "BAŞLADI",
     "logs": [
-      "EMİR OLUŞTURULDU"
+      "EMİR OLUŞTURULDU",
+      "İŞ BAŞLADI @ 20:26:27"
     ],
     "molaSayisi": 0,
     "molaSebepleri": [],
-    "sonZaman": 1770571581655
+    "sonZaman": 1770571587575
   }
 ]
