@@ -1,21 +1,5 @@
 [
   {
-    "emirId": 1770588592686,
-    "isId": "151.01.1601",
-    "isim": "ESKİ TİP PLATFORM MONTAJİ",
-    "adet": 3,
-    "birimDk": 44,
-    "atolye": "KAYNAK",
-    "parcalar": [
-      {
-        "no": 2,
-        "usta": "USTA 2",
-        "durum": "ÇALIŞIYOR",
-        "gecenSn": 113
-      }
-    ]
-  },
-  {
     "emirId": 1770589299677,
     "isId": "151.01.2008",
     "isim": "Pro Hareket Mili Kİsa KAYNAK",
