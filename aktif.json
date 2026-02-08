@@ -5,7 +5,7 @@
     "at": "KAYNAK",
     "adet": 4,
     "toplamDk": 40,
-    "gecenSn": 46,
+    "gecenSn": 67,
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
     "molaSayisi": 0,
@@ -17,7 +17,7 @@
       "USTA ZİMMETİ: KAYNAK USTA 1 - PARÇA NO: 1",
       "BAŞLADI @ 21:56:58"
     ],
-    "sonZaman": 1770577064529
+    "sonZaman": 1770577247369
   },
   {
     "no": "00013",
@@ -35,6 +35,24 @@
     "logs": [
       "[08.02.2026 21:57:44] EMİR OLUŞTURULDU - 4 PARÇA"
     ],
-    "sonZaman": 1770577064529
+    "sonZaman": 1770577247369
+  },
+  {
+    "no": "00014",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "TORNA",
+    "adet": 5,
+    "toplamDk": 200,
+    "gecenSn": 0,
+    "toplamMolaSn": 0,
+    "guncelMolaSn": 0,
+    "molaSayisi": 0,
+    "usta": "",
+    "durum": "BOŞTA",
+    "pNo": 0,
+    "logs": [
+      "[08.02.2026 22:00:47] EMİR OLUŞTURULDU - 5 PARÇA"
+    ],
+    "sonZaman": 1770577247369
   }
 ]
