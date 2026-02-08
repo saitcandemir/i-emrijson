@@ -9,12 +9,13 @@
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
     "molaSayisi": 0,
-    "usta": "",
+    "usta": "KAYNAK USTA 1",
     "durum": "BOŞTA",
-    "pNo": 0,
+    "pNo": "1",
     "logs": [
-      "[08.02.2026 21:55:16] EMİR OLUŞTURULDU - 1 PARÇA"
+      "[08.02.2026 21:55:16] EMİR OLUŞTURULDU - 1 PARÇA",
+      "USTA ZİMMETİ: KAYNAK USTA 1 - PARÇA NO: 1"
     ],
-    "sonZaman": 1770576916586
+    "sonZaman": 1770576950330
   }
 ]
