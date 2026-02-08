@@ -15,7 +15,7 @@
     ],
     "molaSayisi": 0,
     "molaSebepleri": [],
-    "sonZaman": 1770573311933
+    "sonZaman": 1770573314949
   },
   {
     "no": "00005",
@@ -32,7 +32,7 @@
     "logs": [
       "[08.02.2026 20:54:33] EMİR OLUŞTURULDU"
     ],
-    "sonZaman": 1770573311933
+    "sonZaman": 1770573314949
   },
   {
     "no": "00006",
@@ -49,7 +49,7 @@
     "logs": [
       "[08.02.2026 20:54:42] EMİR OLUŞTURULDU"
     ],
-    "sonZaman": 1770573311933
+    "sonZaman": 1770573314949
   },
   {
     "no": "00007",
@@ -66,7 +66,7 @@
     "logs": [
       "[08.02.2026 20:54:46] EMİR OLUŞTURULDU"
     ],
-    "sonZaman": 1770573311933
+    "sonZaman": 1770573314949
   },
   {
     "no": "00008",
@@ -83,7 +83,7 @@
     "logs": [
       "[08.02.2026 20:54:46] EMİR OLUŞTURULDU"
     ],
-    "sonZaman": 1770573311933
+    "sonZaman": 1770573314949
   },
   {
     "no": "00009",
@@ -96,11 +96,12 @@
     "guncelMolaSn": 0,
     "molaSayisi": 0,
     "usta": "KAYNAK USTA 2",
-    "durum": "USTA BEKLİYOR",
+    "durum": "BAŞLADI",
     "logs": [
+      "[20:55:11] USTA SEÇİLDİ: KAYNAK USTA 2",
       "[08.02.2026 20:54:59] EMİR OLUŞTURULDU",
-      "[20:55:11] USTA SEÇİLDİ: KAYNAK USTA 2"
+      "[20:55:14] İŞ BAŞLATILDI"
     ],
-    "sonZaman": 1770573311933
+    "sonZaman": 1770573314949
   }
 ]
