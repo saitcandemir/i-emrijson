@@ -105,5 +105,17 @@
     "durum": "BEKLEMEDE",
     "logs": [],
     "ustaId": null
+  },
+  {
+    "no": "84654",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "KAYNAK",
+    "adet": "1",
+    "toplamDk": 15,
+    "gecenSn": 0,
+    "toplamMolaSn": 0,
+    "durum": "BEKLEMEDE",
+    "logs": [],
+    "ustaId": null
   }
 ]
