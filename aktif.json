@@ -5,7 +5,7 @@
     "at": "KAYNAK",
     "adet": 4,
     "toplamDk": 40,
-    "gecenSn": 650,
+    "gecenSn": 654,
     "toplamMolaSn": 17,
     "guncelMolaSn": 17,
     "molaSayisi": 1,
@@ -27,7 +27,7 @@
     "at": "TORNA",
     "adet": 4,
     "toplamDk": 160,
-    "gecenSn": 375,
+    "gecenSn": 379,
     "toplamMolaSn": 13,
     "guncelMolaSn": 13,
     "molaSayisi": 0,
@@ -49,7 +49,7 @@
     "at": "TORNA",
     "adet": 5,
     "toplamDk": 200,
-    "gecenSn": 313,
+    "gecenSn": 317,
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
     "molaSayisi": 0,
@@ -89,9 +89,9 @@
     "pNo": 1,
     "toplamP": 2,
     "hedefDk": 40,
-    "gecenSn": 4,
+    "gecenSn": 8,
     "usta": "ALI",
-    "durum": "BAŞLADI"
+    "durum": "MOLADA"
   },
   {
     "uid": 35761,
