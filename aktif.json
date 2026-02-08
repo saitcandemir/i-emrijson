@@ -7,11 +7,11 @@
     "adet": 2,
     "toplam": 2,
     "d_say": 1,
-    "basla": "13:12",
-    "tahmin": "13:14",
+    "basla": "13:13",
+    "tahmin": "13:15",
     "usta": "USTA 1",
     "gecenDk": 0,
-    "calisiyor": false
+    "calisiyor": true
   },
   {
     "no": "00002",
