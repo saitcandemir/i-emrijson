@@ -1,33 +1,66 @@
 [
   {
-    "no": "00001",
+    "no": "00005",
+    "id": "ESKİ TİP PLATFORM MONTAJİ",
     "isim": "ESKİ TİP PLATFORM MONTAJİ",
-    "at": "KAYNAK",
-    "adet": "1",
-    "toplamDk": 55,
-    "gecenSn": 143,
-    "usta": "KAYNAK USTA 3",
-    "durum": "BAŞLADI",
-    "logs": [
-      "USTA GİRİŞ: KAYNAK USTA 3 @ 13:58:11",
-      "BAŞLATILDI @ 13:58:18"
-    ],
-    "molaHak": 5
+    "at": "TORNA",
+    "adet": 1,
+    "toplam": 1,
+    "gecenDk": 4,
+    "d_say": 0,
+    "usta": "TORNA USTA 2",
+    "calisiyor": true,
+    "basla": "--:--",
+    "tahmin": "--:--"
   },
   {
-    "no": "00002",
-    "isim": "PRO HAREKET MILI UZUN KAYNAK",
+    "no": "00006",
+    "id": "ESKİ TİP PLATFORM MONTAJİ",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
     "at": "MONTAJ",
-    "adet": "3",
-    "toplamDk": 132,
-    "gecenSn": 24,
+    "adet": 1,
+    "toplam": 1,
+    "gecenDk": 4,
+    "d_say": 0,
     "usta": "MONTAJ USTA 2",
-    "durum": "MOLADA",
+    "calisiyor": true,
+    "basla": "--:--",
+    "tahmin": "--:--"
+  },
+  {
+    "no": "00007",
+    "id": "ESKİ TİP PLATFORM MONTAJİ",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "KAYNAK",
+    "adet": 1,
+    "toplam": 1,
+    "gecenDk": 1,
+    "d_say": 0,
+    "usta": "KAYNAK USTA 2",
+    "calisiyor": true,
+    "basla": "--:--",
+    "tahmin": "--:--",
     "logs": [
-      "USTA GİRİŞ: MONTAJ USTA 2 @ 14:00:11",
-      "BAŞLATILDI @ 14:00:17",
-      "MOLA VERİLDİ (KALAN:4) @ 14:00:41"
+      {
+        "islem": "İŞ BAŞLATILDI",
+        "saat": "13:50:18"
+      }
     ],
-    "molaHak": 4
+    "durum": "ÇALIŞIYOR",
+    "gecenSn": 79
+  },
+  {
+    "no": "00008",
+    "id": "Klepe Mili KAYNAK 212",
+    "isim": "Klepe Mili KAYNAK 212",
+    "at": "MONTAJ",
+    "adet": 3,
+    "toplam": 3,
+    "gecenDk": 0,
+    "d_say": 0,
+    "usta": "MONTAJ USTA 2",
+    "calisiyor": true,
+    "basla": "--:--",
+    "tahmin": "--:--"
   }
 ]
