@@ -13,5 +13,20 @@
     "gecenDk": 2,
     "calisiyor": true,
     "bitis": "08.02.2026 13:10:30"
+  },
+  {
+    "no": "00002",
+    "id": "151.01.1601",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "TORNA",
+    "adet": 2,
+    "toplam": 2,
+    "d_say": 3,
+    "basla": "13:11",
+    "tahmin": "13:12",
+    "usta": "USTA 1",
+    "gecenDk": 1,
+    "calisiyor": false,
+    "bitis": "08.02.2026 13:11:59"
   }
 ]
