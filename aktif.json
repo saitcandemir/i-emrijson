@@ -29,13 +29,13 @@
         "no": 1,
         "usta": "USTA 1",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 1
+        "gecenSn": 17
       },
       {
         "no": 2,
-        "usta": null,
-        "durum": "BEKLEMEDE",
-        "gecenSn": 0
+        "usta": "USTA 2",
+        "durum": "ÇALIŞIYOR",
+        "gecenSn": 1
       }
     ]
   }
