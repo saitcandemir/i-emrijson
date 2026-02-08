@@ -6,12 +6,12 @@
     "at": "KAYNAK",
     "adet": 1,
     "toplam": 1,
-    "d_say": 3,
+    "d_say": 4,
     "basla": "13:07",
     "tahmin": "13:08",
     "usta": "USTA 3",
     "gecenDk": 2,
-    "calisiyor": true
+    "calisiyor": false
   },
   {
     "no": "00002",
