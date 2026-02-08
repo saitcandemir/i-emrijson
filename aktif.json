@@ -10,7 +10,7 @@
         "no": 1,
         "usta": "ALI",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 471,
+        "gecenSn": 490,
         "log": [
           {
             "t": "23:54:25",
@@ -23,7 +23,7 @@
         "no": 3,
         "usta": "VELI",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 435,
+        "gecenSn": 454,
         "log": [
           {
             "t": "23:55:01",
@@ -70,7 +70,7 @@
         "no": 2,
         "usta": "SAIT",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 39,
+        "gecenSn": 58,
         "log": [
           {
             "t": "00:02:34",
@@ -96,5 +96,36 @@
     "birimDk": 155,
     "atolye": "KAYNAK",
     "parcalar": []
+  },
+  {
+    "emirId": 1770585347553,
+    "isId": "151.01.1601",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "adet": 3,
+    "birimDk": 155,
+    "atolye": "KAYNAK",
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0,
+        "log": []
+      },
+      {
+        "no": 2,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0,
+        "log": []
+      },
+      {
+        "no": 3,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0,
+        "log": []
+      }
+    ]
   }
 ]
