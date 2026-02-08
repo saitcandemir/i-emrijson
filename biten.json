@@ -13,5 +13,20 @@
     "basla": "--:--",
     "tahmin": "--:--",
     "bitis": "08.02.2026 13:38:40"
+  },
+  {
+    "no": "00002",
+    "id": "151.01.1601",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "MONTAJ",
+    "adet": 1,
+    "toplam": 1,
+    "d_say": 0,
+    "basla": "--:--",
+    "tahmin": "--:--",
+    "usta": "MONTAJ USTA 1",
+    "gecenDk": 1,
+    "calisiyor": false,
+    "bitis": "08.02.2026 13:40:56"
   }
 ]
