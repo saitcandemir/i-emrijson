@@ -5,19 +5,20 @@
     "at": "KAYNAK",
     "adet": 4,
     "toplamDk": 40,
-    "gecenSn": 67,
+    "gecenSn": 176,
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
-    "molaSayisi": 0,
+    "molaSayisi": 1,
     "usta": "KAYNAK USTA 1",
-    "durum": "BAŞLADI",
+    "durum": "MOLADA",
     "pNo": "1",
     "logs": [
       "[08.02.2026 21:56:20] EMİR OLUŞTURULDU - 4 PARÇA",
       "USTA ZİMMETİ: KAYNAK USTA 1 - PARÇA NO: 1",
-      "BAŞLADI @ 21:56:58"
+      "BAŞLADI @ 21:56:58",
+      "MOLA 1 (VC) @ 22:06:26"
     ],
-    "sonZaman": 1770577247369
+    "sonZaman": 1770577586675
   },
   {
     "no": "00013",
@@ -35,7 +36,7 @@
     "logs": [
       "[08.02.2026 21:57:44] EMİR OLUŞTURULDU - 4 PARÇA"
     ],
-    "sonZaman": 1770577247369
+    "sonZaman": 1770577586675
   },
   {
     "no": "00014",
@@ -53,6 +54,6 @@
     "logs": [
       "[08.02.2026 22:00:47] EMİR OLUŞTURULDU - 5 PARÇA"
     ],
-    "sonZaman": 1770577247369
+    "sonZaman": 1770577586675
   }
 ]
