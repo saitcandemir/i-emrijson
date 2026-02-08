@@ -5,7 +5,7 @@
     "at": "KAYNAK",
     "adet": 4,
     "toplamDk": 40,
-    "gecenSn": 329,
+    "gecenSn": 337,
     "toplamMolaSn": 17,
     "guncelMolaSn": 17,
     "molaSayisi": 1,
@@ -27,7 +27,7 @@
     "at": "TORNA",
     "adet": 4,
     "toplamDk": 160,
-    "gecenSn": 67,
+    "gecenSn": 75,
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
     "molaSayisi": 0,
@@ -52,11 +52,12 @@
     "guncelMolaSn": 0,
     "molaSayisi": 0,
     "usta": "TORNA USTA 2",
-    "durum": "BOŞTA",
+    "durum": "BAŞLADI",
     "pNo": "3",
     "logs": [
       "[08.02.2026 22:00:47] EMİR OLUŞTURULDU - 5 PARÇA",
-      "[22:23:43] TORNA USTA 2 PARÇA 3 ALDI"
+      "[22:23:43] TORNA USTA 2 PARÇA 3 ALDI",
+      "[22:23:51] BAŞLADI"
     ],
     "sonZaman": 1770577604521
   },
