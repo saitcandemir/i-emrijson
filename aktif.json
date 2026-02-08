@@ -5,7 +5,7 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 55,
-    "gecenSn": 1751,
+    "gecenSn": 1786,
     "toplamMolaSn": 870,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 2",
@@ -18,7 +18,9 @@
       "İŞE DÖNÜLDÜ @ 15:23:11",
       "MOLA 1 BAŞLADI",
       "İŞE DÖNÜLDÜ @ 15:15:08",
-      "İŞE DÖNÜLDÜ @ 17:53:31"
+      "İŞE DÖNÜLDÜ @ 17:53:31",
+      "İŞE DÖNÜLDÜ @ 17:54:06",
+      "İŞE DÖNÜLDÜ @ 17:54:07"
     ],
     "molaSayisi": 3
   },
@@ -28,7 +30,7 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 55,
-    "gecenSn": 1777,
+    "gecenSn": 1813,
     "toplamMolaSn": 456,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 3",
@@ -47,8 +49,8 @@
     "adet": "1",
     "toplamDk": 2,
     "gecenSn": 1531,
-    "toplamMolaSn": 803,
-    "guncelMolaSn": 183,
+    "toplamMolaSn": 839,
+    "guncelMolaSn": 219,
     "usta": "TORNA USTA 2",
     "durum": "MOLADA",
     "logs": [
@@ -69,7 +71,7 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": null,
-    "gecenSn": 523,
+    "gecenSn": 558,
     "toplamMolaSn": 0,
     "durum": "BAŞLADI",
     "logs": [
@@ -86,8 +88,8 @@
     "adet": "1",
     "toplamDk": 22,
     "gecenSn": 186,
-    "toplamMolaSn": 297,
-    "guncelMolaSn": 297,
+    "toplamMolaSn": 332,
+    "guncelMolaSn": 332,
     "usta": "KAYNAK USTA 1",
     "durum": "MOLADA",
     "logs": [
