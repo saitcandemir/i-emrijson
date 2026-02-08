@@ -92,5 +92,19 @@
     "usta": "",
     "gecenDk": 0,
     "calisiyor": false
+  },
+  {
+    "no": "00001",
+    "id": "151.01.1601",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "KAYNAK",
+    "adet": 1,
+    "toplam": 1,
+    "d_say": 0,
+    "basla": "--:--",
+    "tahmin": "--:--",
+    "usta": "",
+    "gecenDk": 0,
+    "calisiyor": false
   }
 ]
