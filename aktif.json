@@ -1,21 +1,19 @@
 [
   {
-    "no": "00002",
+    "no": "00001",
     "isim": "ESKİ TİP PLATFORM MONTAJİ",
     "at": "KAYNAK",
     "adet": "1",
-    "toplamDk": 5,
-    "gecenSn": 5,
+    "toplamDk": 1,
+    "gecenSn": 93,
     "molaSn": 0,
-    "usta": "KAYNAK USTA 1",
+    "usta": "KAYNAK USTA 2",
     "durum": "BAŞLADI",
     "logs": [
-      "USTA: KAYNAK USTA 1",
-      "BAŞLADI @ 17:39:55",
-      "BAŞLADI @ 17:39:59",
-      "BAŞLADI @ 17:40:01"
+      "USTA: KAYNAK USTA 2",
+      "BAŞLADI @ 17:34:51"
     ],
     "molaHak": 5,
-    "sonGuncelleme": 1770561601270
+    "sonGuncelleme": 1770561611803
   }
 ]
