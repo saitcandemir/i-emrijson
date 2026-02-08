@@ -6,8 +6,8 @@
     "adet": "1",
     "toplamDk": 55,
     "gecenSn": 14,
-    "toplamMolaSn": 187,
-    "guncelMolaSn": 187,
+    "toplamMolaSn": 190,
+    "guncelMolaSn": 190,
     "usta": "KAYNAK USTA 2",
     "durum": "MOLADA",
     "logs": [
@@ -32,6 +32,20 @@
   },
   {
     "no": "00005",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "TORNA",
+    "adet": "1",
+    "toplamDk": 55,
+    "gecenSn": 0,
+    "toplamMolaSn": 0,
+    "guncelMolaSn": 0,
+    "usta": "",
+    "durum": "USTA BEKLİYOR",
+    "logs": [],
+    "molaSayisi": 0
+  },
+  {
+    "no": "00006",
     "isim": "ESKİ TİP PLATFORM MONTAJİ",
     "at": "TORNA",
     "adet": "1",
