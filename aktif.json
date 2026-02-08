@@ -10,7 +10,7 @@
         "no": 1,
         "usta": "ALI",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 339,
+        "gecenSn": 344,
         "log": [
           {
             "t": "23:54:25",
@@ -23,7 +23,7 @@
         "no": 3,
         "usta": "VELI",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 303,
+        "gecenSn": 308,
         "log": [
           {
             "t": "23:55:01",
@@ -45,11 +45,15 @@
         "no": 1,
         "usta": "SAIT",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 0,
+        "gecenSn": 5,
         "log": [
           {
             "t": "00:00:58",
             "m": "İŞE BAŞLANDI"
+          },
+          {
+            "t": "00:01:03",
+            "m": "DEVAM EDİYOR"
           }
         ],
         "baslangic": "09.02.2026 00:00:58"
