@@ -10,7 +10,7 @@
         "no": 1,
         "usta": "ALI",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 490,
+        "gecenSn": 494,
         "log": [
           {
             "t": "23:54:25",
@@ -23,7 +23,7 @@
         "no": 3,
         "usta": "VELI",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 454,
+        "gecenSn": 458,
         "log": [
           {
             "t": "23:55:01",
@@ -70,7 +70,7 @@
         "no": 2,
         "usta": "SAIT",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 58,
+        "gecenSn": 62,
         "log": [
           {
             "t": "00:02:34",
@@ -127,5 +127,14 @@
         "log": []
       }
     ]
+  },
+  {
+    "emirId": 1770585788705,
+    "isId": "",
+    "isim": "",
+    "adet": null,
+    "birimDk": null,
+    "atolye": "KAYNAK",
+    "parcalar": []
   }
 ]
