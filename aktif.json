@@ -6,12 +6,12 @@
     "at": "TORNA",
     "adet": 2,
     "toplam": 2,
-    "d_say": 0,
+    "d_say": 1,
     "basla": "13:12",
     "tahmin": "13:14",
     "usta": "USTA 1",
     "gecenDk": 0,
-    "calisiyor": true
+    "calisiyor": false
   },
   {
     "no": "00002",
