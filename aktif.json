@@ -29,7 +29,7 @@
     "molaSn": 663,
     "sonGuncelleme": 1770552122787,
     "molaSayisi": null,
-    "guncelMolaSn": 95,
+    "guncelMolaSn": 103,
     "toplamMolaSn": null
   },
   {
@@ -38,7 +38,7 @@
     "at": "MONTAJ",
     "adet": "3",
     "toplamDk": 132,
-    "gecenSn": 2032,
+    "gecenSn": 2040,
     "usta": "MONTAJ USTA 2",
     "durum": "BAŞLADI",
     "logs": [
@@ -60,8 +60,10 @@
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 2",
-    "durum": "GİRİŞ YAPILDI",
-    "logs": [],
+    "durum": "BAŞLADI",
+    "logs": [
+      "İŞE DÖNÜLDÜ @ 15:15:08"
+    ],
     "molaSayisi": 0
   }
 ]
