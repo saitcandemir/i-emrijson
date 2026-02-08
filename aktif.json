@@ -15,7 +15,7 @@
     ],
     "molaSayisi": 0,
     "molaSebepleri": [],
-    "sonZaman": 1770572900686
+    "sonZaman": 1770572930422
   },
   {
     "no": "00004",
@@ -23,17 +23,18 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 8,
-    "gecenSn": 0,
+    "gecenSn": 25,
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
-    "molaSayisi": 0,
+    "molaSayisi": 1,
     "usta": "KAYNAK USTA 1",
-    "durum": "BAŞLADI",
+    "durum": "MOLADA",
     "logs": [
       "[20:48:15] USTA SEÇİLDİ: KAYNAK USTA 1",
       "[08.02.2026 20:48:02] EMİR OLUŞTURULDU",
-      "[20:48:20] İŞ BAŞLATILDI"
+      "[20:48:20] İŞ BAŞLATILDI",
+      "[20:48:50] MOLA 1 BAŞLADI: VC"
     ],
-    "sonZaman": 1770572900686
+    "sonZaman": 1770572930422
   }
 ]
