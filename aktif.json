@@ -5,7 +5,7 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 55,
-    "gecenSn": 4407,
+    "gecenSn": 4410,
     "toplamMolaSn": 872,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 2",
@@ -33,7 +33,7 @@
       "İŞE DÖNÜLDÜ @ 17:57:46"
     ],
     "molaSayisi": 4,
-    "sonGuncelleme": 1770565520446
+    "sonGuncelleme": 1770565523614
   },
   {
     "no": "00004",
@@ -41,7 +41,7 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 55,
-    "gecenSn": 4258,
+    "gecenSn": 4261,
     "toplamMolaSn": 637,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 3",
@@ -56,7 +56,7 @@
       "İŞE DÖNÜLDÜ @ 17:57:57"
     ],
     "molaSayisi": 3,
-    "sonGuncelleme": 1770565520446
+    "sonGuncelleme": 1770565523614
   },
   {
     "no": "00006",
@@ -64,7 +64,7 @@
     "at": "TORNA",
     "adet": "1",
     "toplamDk": 2,
-    "gecenSn": 3885,
+    "gecenSn": 3888,
     "toplamMolaSn": 1114,
     "guncelMolaSn": 0,
     "usta": "TORNA USTA 2",
@@ -81,26 +81,8 @@
       "İŞE DÖNÜLDÜ @ 17:58:45"
     ],
     "molaSayisi": 5,
-    "sonGuncelleme": 1770565520446,
+    "sonGuncelleme": 1770565523614,
     "calisiyor": true
-  },
-  {
-    "no": "37698",
-    "isim": "KESİM UST SAC KAYNAK 232",
-    "at": "KAYNAK",
-    "adet": "1",
-    "toplamDk": 222,
-    "gecenSn": 2301,
-    "molaSn": 0,
-    "usta": "KAYNAK USTA 1",
-    "durum": "BAŞLADI",
-    "logs": [
-      "USTA: KAYNAK USTA 1",
-      "BAŞLADI @ 18:03:16",
-      "BAŞLADI @ 18:03:20"
-    ],
-    "molaHak": 5,
-    "sonGuncelleme": 1770565520446
   },
   {
     "no": "37699",
@@ -114,7 +96,7 @@
     "durum": "USTA BEKLİYOR",
     "logs": [],
     "molaHak": 5,
-    "sonGuncelleme": 1770565520446
+    "sonGuncelleme": 1770565523614
   },
   {
     "no": "37700",
@@ -130,6 +112,6 @@
       "USTA: TORNA USTA 1"
     ],
     "molaHak": 5,
-    "sonGuncelleme": 1770565520446
+    "sonGuncelleme": 1770565523614
   }
 ]
