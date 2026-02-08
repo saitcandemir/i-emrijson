@@ -6,14 +6,15 @@
     "adet": "3",
     "toplamDk": 3,
     "gecenSn": 25,
-    "toplamMolaSn": 0,
+    "toplamMolaSn": 10,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 1",
-    "durum": "MOLADA",
+    "durum": "BAŞLADI",
     "logs": [
       "EMİR OLUŞTURULDU",
       "İŞ BAŞI @ 19:39:28",
-      "MOLA BAŞLADI"
+      "MOLA BAŞLADI",
+      "İŞE DÖNÜLDÜ @ 19:42:46"
     ],
     "molaSayisi": 1
   }
