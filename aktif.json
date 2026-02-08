@@ -7,7 +7,7 @@
     "toplamDk": 55,
     "gecenSn": 1362,
     "usta": "KAYNAK USTA 3",
-    "durum": "MOLADA",
+    "durum": "BAŞLADI",
     "logs": [
       "USTA GİRİŞ: KAYNAK USTA 3 @ 13:58:11",
       "BAŞLATILDI @ 13:58:18",
@@ -20,13 +20,16 @@
       "BAŞLADI @ 15:03:52",
       "MOLA @ 15:04:49",
       "BAŞLADI @ 15:08:56",
-      "MOLA NaN BAŞLADI"
+      "MOLA NaN BAŞLADI",
+      "İŞE DÖNÜLDÜ @ 15:13:02",
+      "İŞE DÖNÜLDÜ @ 15:13:02"
     ],
     "molaHak": 1,
     "molaSn": 663,
     "sonGuncelleme": 1770552122787,
     "molaSayisi": null,
-    "guncelMolaSn": 0
+    "guncelMolaSn": 0,
+    "toplamMolaSn": null
   },
   {
     "no": "00002",
@@ -34,7 +37,7 @@
     "at": "MONTAJ",
     "adet": "3",
     "toplamDk": 132,
-    "gecenSn": 1894,
+    "gecenSn": 1914,
     "usta": "MONTAJ USTA 2",
     "durum": "BAŞLADI",
     "logs": [
