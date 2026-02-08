@@ -18,8 +18,8 @@
     "parcalar": [
       {
         "no": 1,
-        "usta": null,
-        "durum": "BEKLEMEDE",
+        "usta": "USTA 1",
+        "durum": "ÇALIŞIYOR",
         "gecenSn": 0
       },
       {
