@@ -7,10 +7,10 @@
     "pNo": 1,
     "toplamP": 1,
     "hedefDk": 155,
-    "gecenSn": 86,
+    "gecenSn": 90,
     "usta": "ALI",
-    "durum": "BAŞLADI",
-    "molaSebebi": ""
+    "durum": "MOLADA",
+    "molaSebebi": "VC"
   },
   {
     "uid": 1770582374056,
@@ -20,7 +20,7 @@
     "pNo": 1,
     "toplamP": 3,
     "hedefDk": 155,
-    "gecenSn": 0,
+    "gecenSn": 5,
     "usta": "SAIT",
     "durum": "BAŞLADI",
     "molaSebebi": ""
