@@ -6,9 +6,11 @@
     "adet": "1",
     "toplamDk": 55,
     "gecenSn": 0,
-    "usta": "",
-    "durum": "USTA BEKLİYOR",
-    "logs": [],
+    "usta": "KAYNAK USTA 3",
+    "durum": "GİRİŞ YAPILDI",
+    "logs": [
+      "USTA GİRİŞ: KAYNAK USTA 3 @ 13:58:11"
+    ],
     "molaHak": 5
   }
 ]
