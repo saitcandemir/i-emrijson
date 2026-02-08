@@ -9,11 +9,12 @@
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 1",
-    "durum": "GİRİŞ YAPILDI",
+    "durum": "BAŞLADI",
     "logs": [
-      "EMİR OLUŞTURULDU"
+      "EMİR OLUŞTURULDU",
+      "İŞE DÖNÜLDÜ @ 19:14:18"
     ],
     "molaSayisi": 0,
-    "sonGuncelleme": 1770567254792
+    "sonGuncelleme": 1770567258832
   }
 ]
