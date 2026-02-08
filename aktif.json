@@ -51,7 +51,7 @@
     "gecenDk": 0,
     "d_say": 0,
     "usta": "KAYNAK USTA 2",
-    "calisiyor": false,
+    "calisiyor": true,
     "basla": "--:--",
     "tahmin": "--:--"
   }
