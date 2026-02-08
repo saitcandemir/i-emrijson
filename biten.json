@@ -24,7 +24,7 @@
       "İŞE DÖNÜLDÜ @ 17:52:25"
     ],
     "molaSayisi": 6,
-    "sonGuncelleme": 1770565799078
+    "sonGuncelleme": 1770567179844
   },
   {
     "no": "00006",
@@ -42,7 +42,32 @@
       "MOLA @ 18:47:45",
       "BAŞLADI @ 18:48:39"
     ],
-    "sonGuncelleme": 1770565799078,
+    "sonGuncelleme": 1770567179844,
     "bitisZamani": "08.02.2026 18:49:59"
+  },
+  {
+    "no": "00007",
+    "isim": "",
+    "at": "KAYNAK",
+    "adet": "1",
+    "toplamDk": 1,
+    "gecenSn": 414,
+    "molaSn": 0,
+    "usta": "KAYNAK USTA 1",
+    "durum": "BİTTİ",
+    "logs": [
+      "USTA: KAYNAK USTA 1",
+      "BAŞLADI @ 18:59:26",
+      "İŞE DÖNÜLDÜ @ 19:12:25",
+      "MOLA NaN BAŞLADI",
+      "MOLA NaN BAŞLADI",
+      "MOLA NaN BAŞLADI"
+    ],
+    "molaHak": 5,
+    "sonGuncelleme": 1770567179844,
+    "guncelMolaSn": 29,
+    "molaSayisi": null,
+    "toplamMolaSn": null,
+    "bitisTarihi": "08.02.2026 19:12:59"
   }
 ]
