@@ -5,18 +5,19 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 10,
-    "gecenSn": 159,
+    "gecenSn": 164,
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
-    "molaSayisi": 0,
+    "molaSayisi": 1,
     "usta": "KAYNAK USTA 2",
-    "durum": "BAŞLADI",
+    "durum": "MOLADA",
     "logs": [
       "[21:47:04] İŞ BAŞLATILDI",
       "[21:47:03] İŞ BAŞLATILDI",
       "[21:46:48] USTA SEÇİLDİ: KAYNAK USTA 2",
-      "[08.02.2026 21:46:41] EMİR OLUŞTURULDU"
+      "[08.02.2026 21:46:41] EMİR OLUŞTURULDU",
+      "MOLA 1 (VC) @ 21:52:39"
     ],
-    "sonZaman": 1770576586477
+    "sonZaman": 1770576759467
   }
 ]
