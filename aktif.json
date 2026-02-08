@@ -7,9 +7,48 @@
     "pNo": 1,
     "toplamP": 1,
     "hedefDk": 155,
-    "gecenSn": 18,
+    "gecenSn": 52,
     "usta": "ALI",
     "durum": "BAŞLADI",
+    "molaSebebi": ""
+  },
+  {
+    "uid": 1770582374056,
+    "isId": "151.01.1601",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "atolye": "KAYNAK",
+    "pNo": 1,
+    "toplamP": 3,
+    "hedefDk": 155,
+    "gecenSn": 0,
+    "usta": null,
+    "durum": "BEKLEMEDE",
+    "molaSebebi": ""
+  },
+  {
+    "uid": 1770582374143,
+    "isId": "151.01.1601",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "atolye": "KAYNAK",
+    "pNo": 2,
+    "toplamP": 3,
+    "hedefDk": 155,
+    "gecenSn": 0,
+    "usta": null,
+    "durum": "BEKLEMEDE",
+    "molaSebebi": ""
+  },
+  {
+    "uid": 1770582374032,
+    "isId": "151.01.1601",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "atolye": "KAYNAK",
+    "pNo": 3,
+    "toplamP": 3,
+    "hedefDk": 155,
+    "gecenSn": 0,
+    "usta": null,
+    "durum": "BEKLEMEDE",
     "molaSebebi": ""
   }
 ]
