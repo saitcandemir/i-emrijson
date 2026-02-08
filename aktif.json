@@ -1,33 +1,11 @@
 [
   {
-    "no": "00003",
-    "isim": "ESKİ TİP PLATFORM MONTAJİ",
-    "at": "KAYNAK",
-    "adet": "1",
-    "toplamDk": 55,
-    "gecenSn": 1218,
-    "toplamMolaSn": 870,
-    "guncelMolaSn": 0,
-    "usta": "KAYNAK USTA 2",
-    "durum": "BAŞLADI",
-    "logs": [
-      "İŞE DÖNÜLDÜ @ 16:33:45",
-      "MOLA 3 BAŞLADI",
-      "İŞE DÖNÜLDÜ @ 15:50:13",
-      "MOLA 2 BAŞLADI",
-      "İŞE DÖNÜLDÜ @ 15:23:11",
-      "MOLA 1 BAŞLADI",
-      "İŞE DÖNÜLDÜ @ 15:15:08"
-    ],
-    "molaSayisi": 3
-  },
-  {
     "no": "00004",
     "isim": "ESKİ TİP PLATFORM MONTAJİ",
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 55,
-    "gecenSn": 1244,
+    "gecenSn": 1254,
     "toplamMolaSn": 456,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 3",
@@ -37,7 +15,8 @@
       "MOLA 1 BAŞLADI",
       "İŞE DÖNÜLDÜ @ 15:23:33"
     ],
-    "molaSayisi": 1
+    "molaSayisi": 1,
+    "sonGuncelleme": 1770561106883
   },
   {
     "no": "00005",
@@ -45,7 +24,7 @@
     "at": "TORNA",
     "adet": "1",
     "toplamDk": 55,
-    "gecenSn": 1528,
+    "gecenSn": 1538,
     "toplamMolaSn": 330,
     "guncelMolaSn": 160,
     "usta": "TORNA USTA 2",
@@ -60,7 +39,8 @@
       "MOLA 4 BAŞLADI",
       "MOLA 4 BİTTİ: undefined (NaN SN)"
     ],
-    "molaSayisi": 4
+    "molaSayisi": 4,
+    "sonGuncelleme": 1770561106883
   },
   {
     "no": "00006",
@@ -85,7 +65,8 @@
     "molaSayisi": 2,
     "ustaId": 2,
     "molaSebep": "VC",
-    "molaSn": null
+    "molaSn": 10,
+    "sonGuncelleme": 1770561106883
   },
   {
     "no": "37696",
@@ -97,7 +78,8 @@
     "toplamMolaSn": 0,
     "durum": "BEKLEMEDE",
     "logs": [],
-    "molaSayisi": 0
+    "molaSayisi": 0,
+    "sonGuncelleme": 1770561106883
   },
   {
     "no": "76759",
@@ -109,7 +91,8 @@
     "toplamMolaSn": 0,
     "durum": "BEKLEMEDE",
     "logs": [],
-    "ustaId": null
+    "ustaId": null,
+    "sonGuncelleme": 1770561106883
   },
   {
     "no": "84654",
@@ -117,7 +100,7 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 15,
-    "gecenSn": 51,
+    "gecenSn": 61,
     "toplamMolaSn": 0,
     "durum": "BAŞLADI",
     "logs": [
@@ -126,6 +109,7 @@
       "BAŞLADI @ 17:31:07"
     ],
     "ustaId": 1,
-    "usta": "KAYNAK USTA 3"
+    "usta": "KAYNAK USTA 3",
+    "sonGuncelleme": 1770561106883
   }
 ]
