@@ -6,8 +6,8 @@
     "adet": "1",
     "toplamDk": 55,
     "gecenSn": 14,
-    "toplamMolaSn": 203,
-    "guncelMolaSn": 203,
+    "toplamMolaSn": 214,
+    "guncelMolaSn": 214,
     "usta": "KAYNAK USTA 2",
     "durum": "MOLADA",
     "logs": [
@@ -40,8 +40,10 @@
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
     "usta": "TORNA USTA 2",
-    "durum": "GİRİŞ YAPILDI",
-    "logs": [],
+    "durum": "BAŞLADI",
+    "logs": [
+      "İŞE DÖNÜLDÜ @ 15:20:51"
+    ],
     "molaSayisi": 0
   }
 ]
