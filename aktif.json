@@ -8,11 +8,12 @@
     "gecenSn": 0,
     "molaSn": 0,
     "usta": "KAYNAK USTA 1",
-    "durum": "GİRİŞ YAPILDI",
+    "durum": "BAŞLADI",
     "logs": [
-      "USTA: KAYNAK USTA 1"
+      "USTA: KAYNAK USTA 1",
+      "BAŞLADI @ 18:59:26"
     ],
     "molaHak": 5,
-    "sonGuncelleme": 1770566363532
+    "sonGuncelleme": 1770566366500
   }
 ]
