@@ -5,7 +5,7 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 55,
-    "gecenSn": 301,
+    "gecenSn": 340,
     "toplamMolaSn": 792,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 2",
@@ -25,7 +25,7 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 55,
-    "gecenSn": 249,
+    "gecenSn": 288,
     "toplamMolaSn": 456,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 3",
@@ -43,15 +43,16 @@
     "at": "TORNA",
     "adet": "1",
     "toplamDk": 55,
-    "gecenSn": 867,
+    "gecenSn": 906,
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
     "usta": "TORNA USTA 2",
-    "durum": "BAŞLADI",
+    "durum": "MOLADA",
     "logs": [
-      "İŞE DÖNÜLDÜ @ 15:20:51"
+      "İŞE DÖNÜLDÜ @ 15:20:51",
+      "MOLA 1 BAŞLADI"
     ],
-    "molaSayisi": 0
+    "molaSayisi": 1
   },
   {
     "no": "00006",
@@ -60,8 +61,8 @@
     "adet": "1",
     "toplamDk": 2,
     "gecenSn": 580,
-    "toplamMolaSn": 227,
-    "guncelMolaSn": 0,
+    "toplamMolaSn": 266,
+    "guncelMolaSn": 39,
     "usta": "TORNA USTA 2",
     "durum": "MOLADA",
     "logs": [
