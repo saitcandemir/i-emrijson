@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "no": "00009",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "KAYNAK",
+    "adet": "1",
+    "toplamDk": 1,
+    "gecenSn": 0,
+    "toplamMolaSn": 0,
+    "usta": "",
+    "durum": "USTA BEKLİYOR",
+    "logs": [
+      "EMİR BASILDI"
+    ]
+  }
+]
