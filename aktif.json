@@ -29,7 +29,7 @@
     "molaSn": 663,
     "sonGuncelleme": 1770552122787,
     "molaSayisi": null,
-    "guncelMolaSn": 0,
+    "guncelMolaSn": 85,
     "toplamMolaSn": null
   },
   {
@@ -38,7 +38,7 @@
     "at": "MONTAJ",
     "adet": "3",
     "toplamDk": 132,
-    "gecenSn": 1937,
+    "gecenSn": 2022,
     "usta": "MONTAJ USTA 2",
     "durum": "BAŞLADI",
     "logs": [
@@ -49,5 +49,19 @@
     ],
     "molaHak": 4,
     "sonGuncelleme": 1770552122787
+  },
+  {
+    "no": "00003",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "KAYNAK",
+    "adet": "1",
+    "toplamDk": 55,
+    "gecenSn": 0,
+    "toplamMolaSn": 0,
+    "guncelMolaSn": 0,
+    "usta": "",
+    "durum": "USTA BEKLİYOR",
+    "logs": [],
+    "molaSayisi": 0
   }
 ]
