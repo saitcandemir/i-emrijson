@@ -5,7 +5,7 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 55,
-    "gecenSn": 1253,
+    "gecenSn": 1256,
     "usta": "KAYNAK USTA 3",
     "durum": "BAŞLADI",
     "logs": [
@@ -19,7 +19,7 @@
     ],
     "molaHak": 3,
     "molaSn": 208,
-    "sonGuncelleme": 1770551652789
+    "sonGuncelleme": 1770551673447
   },
   {
     "no": "00002",
@@ -27,7 +27,7 @@
     "at": "MONTAJ",
     "adet": "3",
     "toplamDk": 132,
-    "gecenSn": 1326,
+    "gecenSn": 1330,
     "usta": "MONTAJ USTA 2",
     "durum": "BAŞLADI",
     "logs": [
@@ -37,6 +37,6 @@
       "BAŞLATILDI @ 14:01:06"
     ],
     "molaHak": 4,
-    "sonGuncelleme": 1770551652789
+    "sonGuncelleme": 1770551673447
   }
 ]
