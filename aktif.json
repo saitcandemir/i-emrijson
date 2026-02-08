@@ -5,15 +5,30 @@
     "at": "KAYNAK",
     "adet": "1",
     "toplamDk": 1,
-    "gecenSn": 78,
+    "gecenSn": 80,
     "molaSn": 0,
     "usta": "KAYNAK USTA 2",
     "durum": "BAŞLADI",
     "logs": [
       "USTA: KAYNAK USTA 2",
-      "BAŞLADI @ 17:34:51"
+      "BAŞLADI @ 17:34:51",
+      "BAŞLADI @ 17:35:37"
     ],
     "molaHak": 5,
-    "sonGuncelleme": 1770561371783
+    "sonGuncelleme": 1770561373199
+  },
+  {
+    "no": "00002",
+    "isim": "",
+    "at": "KAYNAK",
+    "adet": "1",
+    "toplamDk": 22,
+    "gecenSn": 0,
+    "molaSn": 0,
+    "usta": "",
+    "durum": "USTA BEKLİYOR",
+    "logs": [],
+    "molaHak": 5,
+    "sonGuncelleme": 1770561373199
   }
 ]
