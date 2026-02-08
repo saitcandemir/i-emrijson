@@ -6,20 +6,21 @@
     "adet": "1",
     "toplamDk": 8,
     "gecenSn": 134,
-    "toplamMolaSn": 0,
+    "toplamMolaSn": 67,
     "guncelMolaSn": 0,
     "usta": "KAYNAK USTA 1",
-    "durum": "MOLADA",
+    "durum": "BAŞLADI",
     "logs": [
       "EMİR OLUŞTURULDU",
       "İŞ BAŞLADI @ 20:26:27",
-      "MOLA 1: VC"
+      "MOLA 1: VC",
+      "İŞ BAŞLADI @ 20:29:55"
     ],
     "molaSayisi": 1,
     "molaSebepleri": [
       "VC"
     ],
-    "sonZaman": 1770571727095
+    "sonZaman": 1770571795015
   },
   {
     "no": "00003",
@@ -37,6 +38,6 @@
     ],
     "molaSayisi": 0,
     "molaSebepleri": [],
-    "sonZaman": 1770571727095
+    "sonZaman": 1770571795015
   }
 ]
