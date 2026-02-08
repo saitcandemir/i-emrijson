@@ -8,12 +8,12 @@
     "gecenSn": 0,
     "toplamMolaSn": 0,
     "guncelMolaSn": 0,
-    "usta": "",
-    "durum": "USTA BEKLİYOR",
+    "usta": "KAYNAK USTA 1",
+    "durum": "GİRİŞ YAPILDI",
     "logs": [
       "EMİR OLUŞTURULDU"
     ],
     "molaSayisi": 0,
-    "sonZaman": 1770569917576
+    "sonZaman": 1770569931552
   }
 ]
