@@ -8,22 +8,16 @@
     "atolye": "KAYNAK",
     "parcalar": [
       {
-        "no": 1,
-        "usta": "USTA 1",
-        "durum": "ÇALIŞIYOR",
-        "gecenSn": 73
-      },
-      {
         "no": 2,
         "usta": "USTA 2",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 59
+        "gecenSn": 108
       },
       {
         "no": 3,
         "usta": "USTA 2",
         "durum": "ÇALIŞIYOR",
-        "gecenSn": 1
+        "gecenSn": 50
       }
     ]
   },
