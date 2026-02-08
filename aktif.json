@@ -23,7 +23,7 @@
       "MOLA @ 14:18:10"
     ],
     "molaHak": 0,
-    "molaSn": 315
+    "molaSn": 328
   },
   {
     "no": "00005",
@@ -46,9 +46,11 @@
     "toplamDk": 888,
     "gecenSn": 0,
     "molaSn": 0,
-    "usta": "",
-    "durum": "USTA BEKLİYOR",
-    "logs": [],
+    "usta": "TORNA USTA 2",
+    "durum": "GİRİŞ YAPILDI",
+    "logs": [
+      "USTA: TORNA USTA 2"
+    ],
     "molaHak": 5
   },
   {
