@@ -1,31 +1,5 @@
 [
   {
-    "no": "00006",
-    "isim": "ESKİ TİP PLATFORM MONTAJİ",
-    "at": "TORNA",
-    "adet": "1",
-    "toplamDk": 2,
-    "gecenSn": 3948,
-    "toplamMolaSn": 1114,
-    "guncelMolaSn": 0,
-    "usta": "TORNA USTA 2",
-    "durum": "BAŞLADI",
-    "logs": [
-      "İŞE DÖNÜLDÜ @ 15:21:49",
-      "MOLA 1 BAŞLADI",
-      "İŞE DÖNÜLDÜ @ 15:46:49",
-      "MOLA 2 BAŞLADI",
-      "İŞE DÖNÜLDÜ @ 16:52:53",
-      "MOLA 3 BAŞLADI",
-      "MOLA 4 BAŞLADI",
-      "MOLA 5 BAŞLADI",
-      "İŞE DÖNÜLDÜ @ 17:58:45"
-    ],
-    "molaSayisi": 5,
-    "sonGuncelleme": 1770565371134,
-    "calisiyor": true
-  },
-  {
     "no": "37700",
     "isim": "ESKİ TİP PLATFORM MONTAJİ",
     "at": "TORNA",
@@ -39,6 +13,6 @@
       "USTA: TORNA USTA 1"
     ],
     "molaHak": 5,
-    "sonGuncelleme": 1770565371134
+    "sonGuncelleme": 1770565376246
   }
 ]
