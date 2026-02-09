@@ -10,7 +10,7 @@
         "no": 1,
         "usta": "KA-1",
         "durum": "CALISIYOR",
-        "netSn": 841,
+        "netSn": 846,
         "molaSn": 0
       },
       {
@@ -18,20 +18,20 @@
         "usta": "KA-2",
         "durum": "MOLADA",
         "netSn": 718,
-        "molaSn": 55
+        "molaSn": 60
       },
       {
         "no": 4,
         "usta": "KA-2",
         "durum": "MOLADA",
         "netSn": 9,
-        "molaSn": 752
+        "molaSn": 757
       },
       {
         "no": 5,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 747,
+        "netSn": 752,
         "molaSn": 0
       }
     ]
@@ -47,28 +47,28 @@
         "no": 1,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 22,
+        "netSn": 27,
         "molaSn": 0
       },
       {
         "no": 2,
         "usta": "TO-2",
         "durum": "CALISIYOR",
-        "netSn": 15,
+        "netSn": 20,
         "molaSn": 0
       },
       {
         "no": 3,
         "usta": "TO-3",
         "durum": "CALISIYOR",
-        "netSn": 9,
+        "netSn": 14,
         "molaSn": 0
       },
       {
         "no": 4,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 0,
+        "netSn": 5,
         "molaSn": 0
       }
     ]
@@ -103,6 +103,22 @@
       },
       {
         "no": 4,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "netSn": 0,
+        "molaSn": 0
+      }
+    ]
+  },
+  {
+    "emirId": 1770632774204,
+    "isId": "151.01.2220",
+    "isim": "Platform Altsacİ Baklava KAYNAK",
+    "atolye": "KAYNAK",
+    "hedefDk": "20",
+    "parcalar": [
+      {
+        "no": 1,
         "usta": null,
         "durum": "BEKLEMEDE",
         "netSn": 0,
