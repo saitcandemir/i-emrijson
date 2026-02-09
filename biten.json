@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "no": 1,
+    "usta": "USTA 1",
+    "durum": "ÇALIŞIYOR",
+    "gecenSn": 5,
+    "bitis": "09.02.2026 09:42:31",
+    "fark": "NaN",
+    "isId": "151.01.1601",
+    "atolye": "TORNA"
+  }
+]
