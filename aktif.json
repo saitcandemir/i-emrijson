@@ -50,7 +50,7 @@
     "calisiyor": false,
     "basla": "--:--",
     "tahmin": "--:--",
-    "durum": "MOLADA",
+    "durum": "BAŞLADI",
     "logs": [
       {
         "islem": "USTA GİRİŞİ",
@@ -79,7 +79,8 @@
       {
         "islem": "MOLA VERİLDİ",
         "saat": "09:22:40"
-      }
+      },
+      "BAŞLATILDI @ 09:22:50"
     ],
     "gecenSn": null
   }
