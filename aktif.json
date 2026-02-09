@@ -34,7 +34,10 @@
         "netSn": 919,
         "molaSn": 8
       }
-    ]
+    ],
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "13:36:47"
   },
   {
     "emirId": 1770632654148,
@@ -71,7 +74,10 @@
         "netSn": 180,
         "molaSn": 0
       }
-    ]
+    ],
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "13:36:47"
   },
   {
     "emirId": 1770632668564,
@@ -108,7 +114,10 @@
         "netSn": 0,
         "molaSn": 0
       }
-    ]
+    ],
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "13:36:47"
   },
   {
     "emirId": 1770632774204,
@@ -124,7 +133,10 @@
         "netSn": 159,
         "molaSn": 0
       }
-    ]
+    ],
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "13:36:47"
   },
   {
     "emirId": 1770632789420,
@@ -175,6 +187,9 @@
         "netSn": 0,
         "molaSn": 0
       }
-    ]
+    ],
+    "onay": true,
+    "usta": "saıt",
+    "baslangic": "13:36:47"
   }
 ]
