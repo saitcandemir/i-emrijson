@@ -11,24 +11,24 @@
         "usta": "KA-1",
         "durum": "MOLADA",
         "netSn": 33,
-        "molaSn": 222,
-        "toplamSn": 255
+        "molaSn": 226,
+        "toplamSn": 259
       },
       {
         "no": 2,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 249,
+        "netSn": 253,
         "molaSn": 0,
-        "toplamSn": 249
+        "toplamSn": 253
       },
       {
         "no": 3,
         "usta": "KA-3",
         "durum": "CALISIYOR",
-        "netSn": 244,
+        "netSn": 248,
         "molaSn": 0,
-        "toplamSn": 244
+        "toplamSn": 248
       }
     ]
   },
@@ -43,9 +43,9 @@
         "no": 1,
         "usta": null,
         "durum": "CALISIYOR",
-        "netSn": 5,
+        "netSn": 9,
         "molaSn": 0,
-        "toplamSn": 5,
+        "toplamSn": 9,
         "loglar": [
           {
             "saat": "11:24:37",
@@ -57,9 +57,9 @@
         "no": 2,
         "usta": null,
         "durum": "CALISIYOR",
-        "netSn": 0,
+        "netSn": 4,
         "molaSn": 0,
-        "toplamSn": 0,
+        "toplamSn": 4,
         "loglar": [
           {
             "saat": "11:24:42",
@@ -70,10 +70,16 @@
       {
         "no": 3,
         "usta": null,
-        "durum": "BEKLEMEDE",
+        "durum": "CALISIYOR",
         "netSn": 0,
         "molaSn": 0,
-        "toplamSn": 0
+        "toplamSn": 0,
+        "loglar": [
+          {
+            "saat": "11:24:45",
+            "msg": "İŞE DEVAM EDİLDİ"
+          }
+        ]
       }
     ]
   },
@@ -88,25 +94,25 @@
         "no": 1,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 26,
+        "netSn": 30,
         "molaSn": 0,
-        "toplamSn": 26
+        "toplamSn": 30
       },
       {
         "no": 2,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 17,
+        "netSn": 21,
         "molaSn": 0,
-        "toplamSn": 17
+        "toplamSn": 21
       },
       {
         "no": 3,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 11,
+        "netSn": 15,
         "molaSn": 0,
-        "toplamSn": 11
+        "toplamSn": 15
       }
     ]
   }
