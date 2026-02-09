@@ -1,20 +1,5 @@
 [
   {
-    "emirId": 1770609221924,
-    "isId": "151.01.2008",
-    "atolye": "KAYNAK",
-    "adet": 1,
-    "durum": "BEKLEMEDE",
-    "parcalar": [
-      {
-        "no": 1,
-        "usta": null,
-        "durum": "BEKLEMEDE",
-        "gecenSn": 0
-      }
-    ]
-  },
-  {
     "emirId": 1770609235147,
     "isId": "151.01.2008",
     "atolye": "KAYNAK",
