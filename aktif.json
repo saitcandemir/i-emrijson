@@ -44,5 +44,29 @@
         "gecenSn": 0
       }
     ]
+  },
+  {
+    "emirId": 1770602847551,
+    "isId": "151.01.1601",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "adet": "3",
+    "atolye": "TORNA",
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE"
+      },
+      {
+        "no": 2,
+        "usta": null,
+        "durum": "BEKLEMEDE"
+      },
+      {
+        "no": 3,
+        "usta": null,
+        "durum": "BEKLEMEDE"
+      }
+    ]
   }
 ]
