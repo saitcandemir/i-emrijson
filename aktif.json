@@ -378,5 +378,81 @@
         "gecenSn": 0
       }
     ]
+  },
+  {
+    "emirId": 1770595580343,
+    "isId": "151.01.2009",
+    "isim": "Pro Hareket Mili Uzun KAYNAK",
+    "adet": 11,
+    "birimDk": 20,
+    "atolye": "KAYNAK",
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      },
+      {
+        "no": 2,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      },
+      {
+        "no": 3,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      },
+      {
+        "no": 4,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      },
+      {
+        "no": 5,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      },
+      {
+        "no": 6,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      },
+      {
+        "no": 7,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      },
+      {
+        "no": 8,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      },
+      {
+        "no": 9,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      },
+      {
+        "no": 10,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      },
+      {
+        "no": 11,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      }
+    ]
   }
 ]
