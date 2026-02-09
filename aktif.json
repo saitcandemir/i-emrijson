@@ -11,24 +11,24 @@
         "usta": "KA-1",
         "durum": "MOLADA",
         "netSn": 33,
-        "molaSn": 205,
-        "toplamSn": 238
+        "molaSn": 211,
+        "toplamSn": 244
       },
       {
         "no": 2,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 232,
+        "netSn": 238,
         "molaSn": 0,
-        "toplamSn": 232
+        "toplamSn": 238
       },
       {
         "no": 3,
         "usta": "KA-3",
         "durum": "CALISIYOR",
-        "netSn": 227,
+        "netSn": 233,
         "molaSn": 0,
-        "toplamSn": 227
+        "toplamSn": 233
       }
     ]
   },
@@ -76,22 +76,22 @@
         "no": 1,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 9,
+        "netSn": 15,
         "molaSn": 0,
-        "toplamSn": 9
+        "toplamSn": 15
       },
       {
         "no": 2,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 0,
+        "netSn": 6,
         "molaSn": 0,
-        "toplamSn": 0
+        "toplamSn": 6
       },
       {
         "no": 3,
-        "usta": null,
-        "durum": "BEKLEMEDE",
+        "usta": "TO-1",
+        "durum": "CALISIYOR",
         "netSn": 0,
         "molaSn": 0,
         "toplamSn": 0
