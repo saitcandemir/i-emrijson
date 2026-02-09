@@ -11,24 +11,24 @@
         "usta": "KA-1",
         "durum": "MOLADA",
         "netSn": 26,
-        "molaSn": 0,
-        "toplamSn": 26
+        "molaSn": 124,
+        "toplamSn": 150
       },
       {
         "no": 2,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 20,
+        "netSn": 144,
         "molaSn": 0,
-        "toplamSn": 20
+        "toplamSn": 144
       },
       {
         "no": 3,
         "usta": "KA-3",
         "durum": "CALISIYOR",
-        "netSn": 15,
+        "netSn": 139,
         "molaSn": 0,
-        "toplamSn": 15
+        "toplamSn": 139
       }
     ]
   },
@@ -38,6 +38,39 @@
     "isim": "Pro Hareket Mili Uzun KAYNAK",
     "atolye": "KAYNAK",
     "hedefDk": "45",
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "netSn": 0,
+        "molaSn": 0,
+        "toplamSn": 0
+      },
+      {
+        "no": 2,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "netSn": 0,
+        "molaSn": 0,
+        "toplamSn": 0
+      },
+      {
+        "no": 3,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "netSn": 0,
+        "molaSn": 0,
+        "toplamSn": 0
+      }
+    ]
+  },
+  {
+    "emirId": 1770624499937,
+    "isId": "151.01.2009",
+    "isim": "Pro Hareket Mili Uzun KAYNAK",
+    "atolye": "TORNA",
+    "hedefDk": "20",
     "parcalar": [
       {
         "no": 1,
