@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "emirId": 1770631584292,
+    "isId": "151.01.2008",
+    "isim": "Pro Hareket Mili Kİsa KAYNAK",
+    "atolye": "KAYNAK",
+    "hedefDk": "20",
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "netSn": 0,
+        "molaSn": 0
+      },
+      {
+        "no": 2,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "netSn": 0,
+        "molaSn": 0
+      },
+      {
+        "no": 3,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "netSn": 0,
+        "molaSn": 0
+      },
+      {
+        "no": 4,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "netSn": 0,
+        "molaSn": 0
+      },
+      {
+        "no": 5,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "netSn": 0,
+        "molaSn": 0
+      }
+    ]
+  }
+]
