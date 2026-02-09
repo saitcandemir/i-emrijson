@@ -10,34 +10,31 @@
         "no": 1,
         "usta": "KA-1",
         "durum": "CALISIYOR",
-        "netSn": 1021,
+        "netSn": 1022,
         "molaSn": 0
       },
       {
         "no": 3,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 836,
+        "netSn": 837,
         "molaSn": 117
       },
       {
         "no": 4,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 124,
+        "netSn": 125,
         "molaSn": 817
       },
       {
         "no": 5,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 919,
+        "netSn": 920,
         "molaSn": 8
       }
-    ],
-    "onay": true,
-    "usta": "saıt",
-    "baslangic": "13:36:47"
+    ]
   },
   {
     "emirId": 1770632654148,
@@ -50,34 +47,31 @@
         "no": 1,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 202,
+        "netSn": 203,
         "molaSn": 0
       },
       {
         "no": 2,
         "usta": "TO-2",
         "durum": "CALISIYOR",
-        "netSn": 195,
+        "netSn": 196,
         "molaSn": 0
       },
       {
         "no": 3,
         "usta": "TO-3",
         "durum": "CALISIYOR",
-        "netSn": 189,
+        "netSn": 190,
         "molaSn": 0
       },
       {
         "no": 4,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 180,
+        "netSn": 181,
         "molaSn": 0
       }
-    ],
-    "onay": true,
-    "usta": "saıt",
-    "baslangic": "13:36:47"
+    ]
   },
   {
     "emirId": 1770632668564,
@@ -114,10 +108,7 @@
         "netSn": 0,
         "molaSn": 0
       }
-    ],
-    "onay": true,
-    "usta": "saıt",
-    "baslangic": "13:36:47"
+    ]
   },
   {
     "emirId": 1770632774204,
@@ -130,13 +121,10 @@
         "no": 1,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 159,
+        "netSn": 160,
         "molaSn": 0
       }
-    ],
-    "onay": true,
-    "usta": "saıt",
-    "baslangic": "13:36:47"
+    ]
   },
   {
     "emirId": 1770632789420,
@@ -187,9 +175,6 @@
         "netSn": 0,
         "molaSn": 0
       }
-    ],
-    "onay": true,
-    "usta": "saıt",
-    "baslangic": "13:36:47"
+    ]
   }
 ]
