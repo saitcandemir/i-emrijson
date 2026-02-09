@@ -50,12 +50,17 @@
     "calisiyor": false,
     "basla": "--:--",
     "tahmin": "--:--",
-    "durum": "GİRİŞ YAPILDI",
+    "durum": "ÇALIŞIYOR",
     "logs": [
       {
         "islem": "USTA GİRİŞİ",
         "saat": "09:22:00"
+      },
+      {
+        "islem": "İŞ BAŞLATILDI",
+        "saat": "09:22:03"
       }
-    ]
+    ],
+    "gecenSn": null
   }
 ]
