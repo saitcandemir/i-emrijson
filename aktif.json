@@ -11,24 +11,24 @@
         "usta": "KA-1",
         "durum": "MOLADA",
         "netSn": 33,
-        "molaSn": 218,
-        "toplamSn": 251
+        "molaSn": 222,
+        "toplamSn": 255
       },
       {
         "no": 2,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 245,
+        "netSn": 249,
         "molaSn": 0,
-        "toplamSn": 245
+        "toplamSn": 249
       },
       {
         "no": 3,
         "usta": "KA-3",
         "durum": "CALISIYOR",
-        "netSn": 240,
+        "netSn": 244,
         "molaSn": 0,
-        "toplamSn": 240
+        "toplamSn": 244
       }
     ]
   },
@@ -43,9 +43,9 @@
         "no": 1,
         "usta": null,
         "durum": "CALISIYOR",
-        "netSn": 1,
+        "netSn": 5,
         "molaSn": 0,
-        "toplamSn": 1,
+        "toplamSn": 5,
         "loglar": [
           {
             "saat": "11:24:37",
@@ -56,10 +56,16 @@
       {
         "no": 2,
         "usta": null,
-        "durum": "BEKLEMEDE",
+        "durum": "CALISIYOR",
         "netSn": 0,
         "molaSn": 0,
-        "toplamSn": 0
+        "toplamSn": 0,
+        "loglar": [
+          {
+            "saat": "11:24:42",
+            "msg": "İŞE DEVAM EDİLDİ"
+          }
+        ]
       },
       {
         "no": 3,
@@ -82,25 +88,25 @@
         "no": 1,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 22,
+        "netSn": 26,
         "molaSn": 0,
-        "toplamSn": 22
+        "toplamSn": 26
       },
       {
         "no": 2,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 13,
+        "netSn": 17,
         "molaSn": 0,
-        "toplamSn": 13
+        "toplamSn": 17
       },
       {
         "no": 3,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 7,
+        "netSn": 11,
         "molaSn": 0,
-        "toplamSn": 7
+        "toplamSn": 11
       }
     ]
   }
