@@ -7,14 +7,6 @@
     "hedefDk": "44",
     "parcalar": [
       {
-        "no": 1,
-        "usta": "KA-1",
-        "durum": "MOLADA",
-        "netSn": 33,
-        "molaSn": 829,
-        "toplamSn": 862
-      },
-      {
         "no": 2,
         "usta": "KA-2",
         "durum": "CALISIYOR",
