@@ -223,5 +223,21 @@
         "molaSn": 0
       }
     ]
+  },
+  {
+    "emirId": 1770631155218,
+    "isId": "151.01.2009",
+    "isim": "Pro Hareket Mili Uzun KAYNAK",
+    "atolye": "MONTAJ",
+    "hedefDk": "20",
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "netSn": 0,
+        "molaSn": 0
+      }
+    ]
   }
 ]
