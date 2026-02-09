@@ -1,1 +1,45 @@
-[]
+[
+  {
+    "id": 1770599241335,
+    "ad": "SAIT",
+    "brans": "KAYNAK",
+    "kanalID": "sait_1234",
+    "aktif": true
+  },
+  {
+    "ad": "SAIT2",
+    "kanalID": "sait_1234",
+    "brans": "KAYNAK",
+    "aktif": true
+  },
+  {
+    "ad": "SAIT2",
+    "kanalID": "sait_1234",
+    "brans": "KAYNAK",
+    "aktif": true
+  },
+  {
+    "ad": "sattorna",
+    "kanalID": "sait_12342",
+    "brans": "TORNA",
+    "aktif": true
+  },
+  {
+    "ad": "sat montaj",
+    "kanalID": "sait_1234",
+    "brans": "MONTAJ",
+    "aktif": true
+  },
+  {
+    "ad": "sat montaj",
+    "kanalID": "sait_1234",
+    "brans": "MONTAJ",
+    "aktif": true
+  },
+  {
+    "ad": "sait_1234",
+    "kanalID": "sait_1234",
+    "brans": "KAYNAK",
+    "aktif": true
+  }
+]
