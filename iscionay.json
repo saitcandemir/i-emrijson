@@ -11,5 +11,11 @@
     "kanalID": "sait_1234",
     "brans": "KAYNAK",
     "aktif": true
+  },
+  {
+    "ad": "SAIT2",
+    "kanalID": "sait_1234",
+    "brans": "KAYNAK",
+    "aktif": true
   }
 ]
