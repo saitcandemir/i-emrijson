@@ -46,9 +46,16 @@
     "toplam": 22,
     "gecenDk": 0,
     "d_say": 0,
-    "usta": "",
+    "usta": "KAYNAK USTA 2",
     "calisiyor": false,
     "basla": "--:--",
-    "tahmin": "--:--"
+    "tahmin": "--:--",
+    "durum": "GİRİŞ YAPILDI",
+    "logs": [
+      {
+        "islem": "USTA GİRİŞİ",
+        "saat": "09:22:00"
+      }
+    ]
   }
 ]
