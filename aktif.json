@@ -11,24 +11,24 @@
         "usta": "KA-1",
         "durum": "MOLADA",
         "netSn": 33,
-        "molaSn": 239,
-        "toplamSn": 272
+        "molaSn": 244,
+        "toplamSn": 277
       },
       {
         "no": 2,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 266,
+        "netSn": 271,
         "molaSn": 0,
-        "toplamSn": 266
+        "toplamSn": 271
       },
       {
         "no": 3,
         "usta": "KA-3",
         "durum": "CALISIYOR",
-        "netSn": 261,
+        "netSn": 266,
         "molaSn": 0,
-        "toplamSn": 261
+        "toplamSn": 266
       }
     ]
   },
@@ -44,8 +44,8 @@
         "usta": null,
         "durum": "MOLADA",
         "netSn": 15,
-        "molaSn": 7,
-        "toplamSn": 22,
+        "molaSn": 12,
+        "toplamSn": 27,
         "loglar": [
           {
             "saat": "11:35:23",
@@ -60,11 +60,15 @@
       {
         "no": 2,
         "usta": null,
-        "durum": "CALISIYOR",
-        "netSn": 15,
-        "molaSn": 2,
-        "toplamSn": 17,
+        "durum": "MOLADA",
+        "netSn": 19,
+        "molaSn": 3,
+        "toplamSn": 22,
         "loglar": [
+          {
+            "saat": "11:35:34",
+            "msg": "MOLA: YEMEK/ÇAY MOLASI"
+          },
           {
             "saat": "11:35:29",
             "msg": "İŞE DEVAM EDİLDİ"
@@ -83,9 +87,9 @@
         "no": 3,
         "usta": null,
         "durum": "CALISIYOR",
-        "netSn": 13,
+        "netSn": 18,
         "molaSn": 0,
-        "toplamSn": 13,
+        "toplamSn": 18,
         "loglar": [
           {
             "saat": "11:24:45",
@@ -106,25 +110,25 @@
         "no": 1,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 43,
+        "netSn": 48,
         "molaSn": 0,
-        "toplamSn": 43
+        "toplamSn": 48
       },
       {
         "no": 2,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 34,
+        "netSn": 39,
         "molaSn": 0,
-        "toplamSn": 34
+        "toplamSn": 39
       },
       {
         "no": 3,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 28,
+        "netSn": 33,
         "molaSn": 0,
-        "toplamSn": 28
+        "toplamSn": 33
       }
     ]
   }
