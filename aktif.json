@@ -8,11 +8,11 @@
     "parcalar": [
       {
         "no": 1,
-        "usta": null,
-        "durum": "BEKLEMEDE",
-        "netSn": 0,
+        "usta": "KA-1",
+        "durum": "CALISIYOR",
+        "netSn": 1,
         "molaSn": 0,
-        "toplamSn": 0
+        "toplamSn": 1
       },
       {
         "no": 2,
