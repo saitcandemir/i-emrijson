@@ -11,24 +11,24 @@
         "usta": "KA-1",
         "durum": "MOLADA",
         "netSn": 33,
-        "molaSn": 264,
-        "toplamSn": 297
+        "molaSn": 267,
+        "toplamSn": 300
       },
       {
         "no": 2,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 291,
+        "netSn": 294,
         "molaSn": 0,
-        "toplamSn": 291
+        "toplamSn": 294
       },
       {
         "no": 3,
         "usta": "KA-3",
         "durum": "CALISIYOR",
-        "netSn": 286,
+        "netSn": 289,
         "molaSn": 0,
-        "toplamSn": 286
+        "toplamSn": 289
       }
     ]
   },
@@ -42,11 +42,15 @@
       {
         "no": 1,
         "usta": null,
-        "durum": "MOLADA",
-        "netSn": 15,
-        "molaSn": 32,
-        "toplamSn": 47,
+        "durum": "CALISIYOR",
+        "netSn": 16,
+        "molaSn": 34,
+        "toplamSn": 50,
         "loglar": [
+          {
+            "saat": "11:36:13",
+            "msg": "İŞE DEVAM EDİLDİ"
+          },
           {
             "saat": "11:35:23",
             "msg": "MOLA: YEMEK/ÇAY MOLASI"
@@ -62,8 +66,8 @@
         "usta": null,
         "durum": "MOLADA",
         "netSn": 19,
-        "molaSn": 23,
-        "toplamSn": 42,
+        "molaSn": 26,
+        "toplamSn": 45,
         "loglar": [
           {
             "saat": "11:35:34",
@@ -87,9 +91,9 @@
         "no": 3,
         "usta": null,
         "durum": "CALISIYOR",
-        "netSn": 28,
+        "netSn": 31,
         "molaSn": 10,
-        "toplamSn": 38,
+        "toplamSn": 41,
         "loglar": [
           {
             "saat": "11:36:10",
@@ -118,17 +122,17 @@
         "no": 1,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 68,
+        "netSn": 71,
         "molaSn": 0,
-        "toplamSn": 68
+        "toplamSn": 71
       },
       {
         "no": 2,
         "usta": "TO-1",
         "durum": "MOLADA",
         "netSn": 42,
-        "molaSn": 17,
-        "toplamSn": 59,
+        "molaSn": 20,
+        "toplamSn": 62,
         "loglar": [
           {
             "saat": "11:35:43",
@@ -140,9 +144,9 @@
         "no": 3,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 53,
+        "netSn": 56,
         "molaSn": 0,
-        "toplamSn": 53
+        "toplamSn": 56
       }
     ]
   }
