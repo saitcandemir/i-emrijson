@@ -10,14 +10,14 @@
         "no": 1,
         "usta": "KA-1",
         "durum": "CALISIYOR",
-        "netSn": 24,
+        "netSn": 36,
         "molaSn": 0
       },
       {
         "no": 2,
         "usta": "KA-2",
-        "durum": "CALISIYOR",
-        "netSn": 8,
+        "durum": "MOLADA",
+        "netSn": 20,
         "molaSn": 10
       },
       {
