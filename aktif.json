@@ -254,5 +254,21 @@
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
     "tarih": "09.02.2026 04:24:57"
+  },
+  {
+    "emirId": 1770600431474,
+    "isId": "151.01.2008",
+    "isim": "Pro Hareket Mili Kİsa KAYNAK",
+    "adet": 1,
+    "birimDk": 20,
+    "atolye": "KAYNAK",
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      }
+    ]
   }
 ]
