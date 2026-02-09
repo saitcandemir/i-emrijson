@@ -10,7 +10,7 @@
         "no": 1,
         "usta": "KA-1",
         "durum": "CALISIYOR",
-        "netSn": 813,
+        "netSn": 820,
         "molaSn": 0
       },
       {
@@ -18,20 +18,20 @@
         "usta": "KA-2",
         "durum": "MOLADA",
         "netSn": 718,
-        "molaSn": 27
+        "molaSn": 34
       },
       {
         "no": 4,
         "usta": "KA-2",
         "durum": "MOLADA",
         "netSn": 9,
-        "molaSn": 724
+        "molaSn": 731
       },
       {
         "no": 5,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 719,
+        "netSn": 726,
         "molaSn": 0
       }
     ]
@@ -45,9 +45,9 @@
     "parcalar": [
       {
         "no": 1,
-        "usta": null,
-        "durum": "BEKLEMEDE",
-        "netSn": 0,
+        "usta": "TO-1",
+        "durum": "CALISIYOR",
+        "netSn": 1,
         "molaSn": 0
       },
       {
