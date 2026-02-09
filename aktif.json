@@ -36,5 +36,19 @@
         "gecenSn": 0
       }
     ]
+  },
+  {
+    "no": "00001",
+    "id": "ESKİ TİP PLATFORM MONTAJİ",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "at": "KAYNAK",
+    "adet": 1,
+    "toplam": 22,
+    "gecenDk": 0,
+    "d_say": 0,
+    "usta": "",
+    "calisiyor": false,
+    "basla": "--:--",
+    "tahmin": "--:--"
   }
 ]
