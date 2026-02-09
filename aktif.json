@@ -50,7 +50,7 @@
     "calisiyor": false,
     "basla": "--:--",
     "tahmin": "--:--",
-    "durum": "ÇALIŞIYOR",
+    "durum": "MOLADA",
     "logs": [
       {
         "islem": "USTA GİRİŞİ",
@@ -75,6 +75,10 @@
       {
         "islem": "İŞ BAŞLATILDI",
         "saat": "09:22:37"
+      },
+      {
+        "islem": "MOLA VERİLDİ",
+        "saat": "09:22:40"
       }
     ],
     "gecenSn": null
