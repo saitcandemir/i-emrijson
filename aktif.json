@@ -128,5 +128,36 @@
         "gecenSn": 0
       }
     ]
+  },
+  {
+    "emirId": 1770609747660,
+    "isId": "151.01.2047",
+    "İD": "151.01.2047",
+    "isim": "KARE VİDA BORUSU KAYNAK",
+    "reklam": "KARE VİDA BORUSU KAYNAK",
+    "adet": 3,
+    "atolye": "KAYNAK",
+    "durum": "BEKLEMEDE",
+    "tarih": "09.02.2026 07:02:27",
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      },
+      {
+        "no": 2,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      },
+      {
+        "no": 3,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      }
+    ]
   }
 ]
