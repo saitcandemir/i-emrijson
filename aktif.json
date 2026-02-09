@@ -109,5 +109,24 @@
         "gecenSn": 0
       }
     ]
+  },
+  {
+    "emirId": 1770609608092,
+    "isId": "151.01.2220",
+    "İD": "151.01.2220",
+    "isim": "Platform Altsacİ Baklava KAYNAK",
+    "reklam": "Platform Altsacİ Baklava KAYNAK",
+    "adet": 1,
+    "atolye": "KAYNAK",
+    "durum": "BEKLEMEDE",
+    "tarih": "09.02.2026 07:00:08",
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      }
+    ]
   }
 ]
