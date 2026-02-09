@@ -27,5 +27,34 @@
         "gecenSn": 0
       }
     ]
+  },
+  {
+    "emirId": 1770598495433,
+    "isId": "151.01.1601",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "adet": 3,
+    "birimDk": 22,
+    "atolye": "KAYNAK",
+    "tarih": "09.02.2026 03:54:55",
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      },
+      {
+        "no": 2,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      },
+      {
+        "no": 3,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      }
+    ]
   }
 ]
