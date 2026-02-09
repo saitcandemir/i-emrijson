@@ -85,5 +85,20 @@
         "gecenSn": 0
       }
     ]
+  },
+  {
+    "emirId": 1770608149478,
+    "isId": "151.01.1601",
+    "atolye": "MONTAJ",
+    "adet": 1,
+    "durum": "BEKLEMEDE",
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      }
+    ]
   }
 ]
