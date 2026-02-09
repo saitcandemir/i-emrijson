@@ -12,8 +12,8 @@
     "parcalar": [
       {
         "no": 1,
-        "usta": null,
-        "durum": "BEKLEMEDE",
+        "usta": "KA-USTA1",
+        "durum": "ÇALIŞIYOR",
         "gecenSn": 0
       }
     ]
