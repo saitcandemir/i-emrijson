@@ -181,5 +181,22 @@
         "gecenSn": 0
       }
     ]
+  },
+  {
+    "emirId": 1770599693224,
+    "isId": "151.01.2009",
+    "isim": "Pro Hareket Mili Uzun KAYNAK",
+    "adet": 1,
+    "birimDk": 20,
+    "atolye": "KAYNAK",
+    "tarih": "09.02.2026 04:14:53",
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      }
+    ]
   }
 ]
