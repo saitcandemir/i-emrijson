@@ -10,7 +10,7 @@
         "no": 1,
         "usta": "KA-1",
         "durum": "CALISIYOR",
-        "netSn": 801,
+        "netSn": 813,
         "molaSn": 0
       },
       {
@@ -18,20 +18,20 @@
         "usta": "KA-2",
         "durum": "MOLADA",
         "netSn": 718,
-        "molaSn": 15
+        "molaSn": 27
       },
       {
         "no": 4,
         "usta": "KA-2",
         "durum": "MOLADA",
         "netSn": 9,
-        "molaSn": 712
+        "molaSn": 724
       },
       {
         "no": 5,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 707,
+        "netSn": 719,
         "molaSn": 0
       }
     ]
@@ -41,6 +41,43 @@
     "isId": "151.01.2009",
     "isim": "Pro Hareket Mili Uzun KAYNAK",
     "atolye": "TORNA",
+    "hedefDk": "20",
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "netSn": 0,
+        "molaSn": 0
+      },
+      {
+        "no": 2,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "netSn": 0,
+        "molaSn": 0
+      },
+      {
+        "no": 3,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "netSn": 0,
+        "molaSn": 0
+      },
+      {
+        "no": 4,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "netSn": 0,
+        "molaSn": 0
+      }
+    ]
+  },
+  {
+    "emirId": 1770632668564,
+    "isId": "151.01.2511",
+    "isim": "KESİM UST SAC KAYNAK 232",
+    "atolye": "MONTAJ",
     "hedefDk": "20",
     "parcalar": [
       {
