@@ -11,24 +11,24 @@
         "usta": "KA-1",
         "durum": "MOLADA",
         "netSn": 33,
-        "molaSn": 247,
-        "toplamSn": 280
+        "molaSn": 254,
+        "toplamSn": 287
       },
       {
         "no": 2,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 274,
+        "netSn": 281,
         "molaSn": 0,
-        "toplamSn": 274
+        "toplamSn": 281
       },
       {
         "no": 3,
         "usta": "KA-3",
         "durum": "CALISIYOR",
-        "netSn": 269,
+        "netSn": 276,
         "molaSn": 0,
-        "toplamSn": 269
+        "toplamSn": 276
       }
     ]
   },
@@ -44,8 +44,8 @@
         "usta": null,
         "durum": "MOLADA",
         "netSn": 15,
-        "molaSn": 15,
-        "toplamSn": 30,
+        "molaSn": 22,
+        "toplamSn": 37,
         "loglar": [
           {
             "saat": "11:35:23",
@@ -62,8 +62,8 @@
         "usta": null,
         "durum": "MOLADA",
         "netSn": 19,
-        "molaSn": 6,
-        "toplamSn": 25,
+        "molaSn": 13,
+        "toplamSn": 32,
         "loglar": [
           {
             "saat": "11:35:34",
@@ -86,11 +86,15 @@
       {
         "no": 3,
         "usta": null,
-        "durum": "CALISIYOR",
-        "netSn": 21,
+        "durum": "MOLADA",
+        "netSn": 28,
         "molaSn": 0,
-        "toplamSn": 21,
+        "toplamSn": 28,
         "loglar": [
+          {
+            "saat": "11:36:00",
+            "msg": "MOLA: YEMEK/ÇAY MOLASI"
+          },
           {
             "saat": "11:24:45",
             "msg": "İŞE DEVAM EDİLDİ"
@@ -110,17 +114,17 @@
         "no": 1,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 51,
+        "netSn": 58,
         "molaSn": 0,
-        "toplamSn": 51
+        "toplamSn": 58
       },
       {
         "no": 2,
         "usta": "TO-1",
         "durum": "MOLADA",
         "netSn": 42,
-        "molaSn": 0,
-        "toplamSn": 42,
+        "molaSn": 7,
+        "toplamSn": 49,
         "loglar": [
           {
             "saat": "11:35:43",
@@ -132,9 +136,9 @@
         "no": 3,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 36,
+        "netSn": 43,
         "molaSn": 0,
-        "toplamSn": 36
+        "toplamSn": 43
       }
     ]
   }
