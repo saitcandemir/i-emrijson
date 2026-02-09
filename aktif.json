@@ -1,26 +1,5 @@
 [
   {
-    "emirId": 1770609060764,
-    "isId": "151.01.2008",
-    "atolye": "TORNA",
-    "adet": 2,
-    "durum": "BEKLEMEDE",
-    "parcalar": [
-      {
-        "no": 1,
-        "usta": null,
-        "durum": "BEKLEMEDE",
-        "gecenSn": 0
-      },
-      {
-        "no": 2,
-        "usta": null,
-        "durum": "BEKLEMEDE",
-        "gecenSn": 0
-      }
-    ]
-  },
-  {
     "emirId": 1770609204972,
     "isId": "151.01.2008",
     "atolye": "KAYNAK",
