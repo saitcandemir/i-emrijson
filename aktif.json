@@ -11,24 +11,24 @@
         "usta": "KA-1",
         "durum": "MOLADA",
         "netSn": 33,
-        "molaSn": 830,
-        "toplamSn": 863
+        "molaSn": 808,
+        "toplamSn": 841
       },
       {
         "no": 2,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 857,
+        "netSn": 835,
         "molaSn": 0,
-        "toplamSn": 857
+        "toplamSn": 835
       },
       {
         "no": 3,
         "usta": "KA-3",
         "durum": "CALISIYOR",
-        "netSn": 852,
+        "netSn": 830,
         "molaSn": 0,
-        "toplamSn": 852
+        "toplamSn": 830
       }
     ]
   },
@@ -44,8 +44,8 @@
         "usta": null,
         "durum": "MOLADA",
         "netSn": 247,
-        "molaSn": 366,
-        "toplamSn": 613,
+        "molaSn": 344,
+        "toplamSn": 591,
         "loglar": [
           {
             "saat": "11:36:13",
@@ -65,9 +65,9 @@
         "no": 2,
         "usta": null,
         "durum": "CALISIYOR",
-        "netSn": 200,
+        "netSn": 178,
         "molaSn": 408,
-        "toplamSn": 608,
+        "toplamSn": 586,
         "loglar": [
           {
             "saat": "11:35:34",
@@ -91,9 +91,9 @@
         "no": 3,
         "usta": null,
         "durum": "CALISIYOR",
-        "netSn": 594,
+        "netSn": 572,
         "molaSn": 10,
-        "toplamSn": 604,
+        "toplamSn": 582,
         "loglar": [
           {
             "saat": "11:36:10",
@@ -123,8 +123,8 @@
         "usta": "TO-1",
         "durum": "MOLADA",
         "netSn": 75,
-        "molaSn": 559,
-        "toplamSn": 634,
+        "molaSn": 537,
+        "toplamSn": 612,
         "loglar": [
           {
             "saat": "11:36:22",
@@ -136,9 +136,9 @@
         "no": 2,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 600,
+        "netSn": 578,
         "molaSn": 25,
-        "toplamSn": 625,
+        "toplamSn": 603,
         "loglar": [
           {
             "saat": "11:36:23",
@@ -154,9 +154,9 @@
         "no": 3,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 619,
+        "netSn": 597,
         "molaSn": 0,
-        "toplamSn": 619
+        "toplamSn": 597
       }
     ]
   }
