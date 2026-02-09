@@ -223,5 +223,33 @@
         "gecenSn": 0
       }
     ]
+  },
+  {
+    "emirId": 1770623162554,
+    "isId": "151.01.2220",
+    "isim": "",
+    "adet": 3,
+    "birimDk": 5,
+    "atolye": "KAYNAK",
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      },
+      {
+        "no": 2,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      },
+      {
+        "no": 3,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      }
+    ]
   }
 ]
