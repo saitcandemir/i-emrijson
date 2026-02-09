@@ -10,29 +10,29 @@
         "no": 1,
         "usta": "KA-1",
         "durum": "CALISIYOR",
-        "netSn": 900,
+        "netSn": 904,
         "molaSn": 0
       },
       {
         "no": 3,
         "usta": "KA-2",
-        "durum": "MOLADA",
-        "netSn": 718,
-        "molaSn": 114
+        "durum": "CALISIYOR",
+        "netSn": 719,
+        "molaSn": 117
       },
       {
         "no": 4,
         "usta": "KA-2",
         "durum": "MOLADA",
         "netSn": 9,
-        "molaSn": 811
+        "molaSn": 815
       },
       {
         "no": 5,
         "usta": "KA-2",
         "durum": "MOLADA",
         "netSn": 806,
-        "molaSn": 0
+        "molaSn": 4
       }
     ]
   },
@@ -47,28 +47,28 @@
         "no": 1,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 81,
+        "netSn": 85,
         "molaSn": 0
       },
       {
         "no": 2,
         "usta": "TO-2",
         "durum": "CALISIYOR",
-        "netSn": 74,
+        "netSn": 78,
         "molaSn": 0
       },
       {
         "no": 3,
         "usta": "TO-3",
         "durum": "CALISIYOR",
-        "netSn": 68,
+        "netSn": 72,
         "molaSn": 0
       },
       {
         "no": 4,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 59,
+        "netSn": 63,
         "molaSn": 0
       }
     ]
@@ -121,7 +121,7 @@
         "no": 1,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 38,
+        "netSn": 42,
         "molaSn": 0
       }
     ]
