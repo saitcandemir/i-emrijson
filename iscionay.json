@@ -34,12 +34,5 @@
     "kanalID": "sait_1234",
     "brans": "KAYNAK",
     "aktif": true
-  },
-  {
-    "id": 1770610802895,
-    "ad": "SAIT",
-    "kanalID": "SAIT_1234",
-    "brans": "KAYNAK",
-    "aktif": true
   }
 ]
