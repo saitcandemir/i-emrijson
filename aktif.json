@@ -566,5 +566,34 @@
         "gecenSn": 0
       }
     ]
+  },
+  {
+    "emirId": 1770597168445,
+    "isId": "151.01.2008",
+    "isim": "Pro Hareket Mili Kİsa KAYNAK",
+    "adet": 3,
+    "birimDk": 20,
+    "atolye": "KAYNAK",
+    "tarih": "09.02.2026 03:32:48",
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      },
+      {
+        "no": 2,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      },
+      {
+        "no": 3,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      }
+    ]
   }
 ]
