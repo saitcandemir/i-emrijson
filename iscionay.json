@@ -23,5 +23,11 @@
     "kanalID": "sait_12342",
     "brans": "TORNA",
     "aktif": true
+  },
+  {
+    "ad": "sat montaj",
+    "kanalID": "sait_1234",
+    "brans": "MONTAJ",
+    "aktif": true
   }
 ]
