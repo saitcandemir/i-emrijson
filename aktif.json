@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "emirId": 1770602394613,
+    "isId": "151.01.1601",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "adet": 2,
+    "birimDk": 22,
+    "atolye": "KAYNAK",
+    "tarih": "09.02.2026 04:59:54",
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      },
+      {
+        "no": 2,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      }
+    ]
+  }
+]
