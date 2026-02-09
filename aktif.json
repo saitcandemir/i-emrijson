@@ -1,37 +1,5 @@
 [
   {
-    "emirId": 1770604998596,
-    "isId": "151.01.1601",
-    "İD": "151.01.1601",
-    "isim": "ESKİ TİP PLATFORM MONTAJİ",
-    "reklam": "ESKİ TİP PLATFORM MONTAJİ",
-    "adet": 3,
-    "birimDk": 155,
-    "atolye": "KAYNAK",
-    "durum": "BEKLEMEDE",
-    "tarih": "09.02.2026 05:43:18",
-    "parcalar": [
-      {
-        "no": 1,
-        "usta": null,
-        "durum": "BEKLEMEDE",
-        "gecenSn": 0
-      },
-      {
-        "no": 2,
-        "usta": null,
-        "durum": "BEKLEMEDE",
-        "gecenSn": 0
-      },
-      {
-        "no": 3,
-        "usta": null,
-        "durum": "BEKLEMEDE",
-        "gecenSn": 0
-      }
-    ]
-  },
-  {
     "emirId": 1770606144601,
     "isId": "151.01.1601",
     "atolye": "KAYNAK",
