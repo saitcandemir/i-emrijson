@@ -159,5 +159,21 @@
         "toplamSn": 598
       }
     ]
+  },
+  {
+    "emirId": 1770628989404,
+    "isId": "152.01.182",
+    "isim": "APS1 PRO 182",
+    "atolye": "KAYNAK",
+    "adet": 1,
+    "birimDk": "20",
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      }
+    ]
   }
 ]
