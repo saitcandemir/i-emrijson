@@ -372,5 +372,24 @@
         "gecenSn": 0
       }
     ]
+  },
+  {
+    "emirId": 1770610450035,
+    "isId": "151.01.2008",
+    "İD": "151.01.2008",
+    "isim": "Pro Hareket Mili Kİsa KAYNAK",
+    "reklam": "Pro Hareket Mili Kİsa KAYNAK",
+    "adet": 1,
+    "atolye": "KAYNAK",
+    "durum": "BEKLEMEDE",
+    "tarih": "09.02.2026 07:14:10",
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      }
+    ]
   }
 ]
