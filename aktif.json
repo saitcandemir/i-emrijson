@@ -191,5 +191,21 @@
     "atolye": "KAYNAK",
     "durum": "BEKLEMEDE",
     "tarih": "09.02.2026 12:38:03"
+  },
+  {
+    "emirId": 1770631110602,
+    "isId": "151.01.1601",
+    "isim": "ESKİ TİP PLATFORM MONTAJİ",
+    "atolye": "KAYNAK",
+    "hedefDk": "155",
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "netSn": 0,
+        "molaSn": 0
+      }
+    ]
   }
 ]
