@@ -10,28 +10,28 @@
         "no": 1,
         "usta": "KA-1",
         "durum": "CALISIYOR",
-        "netSn": 1562,
+        "netSn": 1718,
         "molaSn": 0
       },
       {
         "no": 3,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 1377,
+        "netSn": 1533,
         "molaSn": 117
       },
       {
         "no": 4,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 665,
+        "netSn": 821,
         "molaSn": 817
       },
       {
         "no": 5,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 1460,
+        "netSn": 1616,
         "molaSn": 8
       }
     ]
@@ -47,14 +47,14 @@
         "no": 1,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 743,
+        "netSn": 899,
         "molaSn": 0
       },
       {
         "no": 2,
         "usta": "TO-2",
         "durum": "CALISIYOR",
-        "netSn": 736,
+        "netSn": 892,
         "molaSn": 0
       },
       {
@@ -62,13 +62,13 @@
         "usta": "TO-3",
         "durum": "MOLADA",
         "netSn": 384,
-        "molaSn": 346
+        "molaSn": 502
       },
       {
         "no": 4,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 721,
+        "netSn": 877,
         "molaSn": 0
       }
     ]
@@ -85,7 +85,7 @@
         "usta": "MO-1",
         "durum": "MOLADA",
         "netSn": 17,
-        "molaSn": 321
+        "molaSn": 477
       },
       {
         "no": 2,
@@ -121,7 +121,7 @@
         "no": 1,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 700,
+        "netSn": 856,
         "molaSn": 0
       }
     ]
@@ -135,8 +135,8 @@
     "parcalar": [
       {
         "no": 1,
-        "usta": "KA-1",
-        "durum": "CALISIYOR",
+        "usta": null,
+        "durum": "BEKLEMEDE",
         "netSn": 0,
         "molaSn": 0
       },
@@ -205,59 +205,6 @@
         "usta": null,
         "durum": "BEKLEMEDE",
         "gecenSn": 0
-      }
-    ]
-  },
-  {
-    "emirId": 1770712586081,
-    "isId": "151.01.2009",
-    "isim": "Pro Hareket Mili Uzun KAYNAK",
-    "atolye": "KAYNAK",
-    "hedefDk": "20",
-    "parcalar": [
-      {
-        "no": 1,
-        "usta": null,
-        "durum": "BEKLEMEDE",
-        "netSn": 0,
-        "molaSn": 0
-      }
-    ]
-  },
-  {
-    "emirId": 1770712611928,
-    "isId": "151.01.2009",
-    "isim": "Pro Hareket Mili Uzun KAYNAK",
-    "atolye": "KAYNAK",
-    "hedefDk": "20",
-    "parcalar": [
-      {
-        "no": 1,
-        "usta": null,
-        "durum": "BEKLEMEDE",
-        "netSn": 0,
-        "molaSn": 0
-      },
-      {
-        "no": 2,
-        "usta": null,
-        "durum": "BEKLEMEDE",
-        "netSn": 0,
-        "molaSn": 0
-      },
-      {
-        "no": 3,
-        "usta": null,
-        "durum": "BEKLEMEDE",
-        "netSn": 0,
-        "molaSn": 0
-      },
-      {
-        "no": 4,
-        "usta": null,
-        "durum": "BEKLEMEDE",
-        "netSn": 0,
-        "molaSn": 0
       }
     ]
   }
