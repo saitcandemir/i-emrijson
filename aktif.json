@@ -10,28 +10,28 @@
         "no": 1,
         "usta": "KA-1",
         "durum": "CALISIYOR",
-        "netSn": 1216,
+        "netSn": 1224,
         "molaSn": 0
       },
       {
         "no": 3,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 1031,
+        "netSn": 1039,
         "molaSn": 117
       },
       {
         "no": 4,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 319,
+        "netSn": 327,
         "molaSn": 817
       },
       {
         "no": 5,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 1114,
+        "netSn": 1122,
         "molaSn": 8
       }
     ]
@@ -47,14 +47,14 @@
         "no": 1,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 397,
+        "netSn": 405,
         "molaSn": 0
       },
       {
         "no": 2,
         "usta": "TO-2",
         "durum": "CALISIYOR",
-        "netSn": 390,
+        "netSn": 398,
         "molaSn": 0
       },
       {
@@ -62,13 +62,13 @@
         "usta": "TO-3",
         "durum": "MOLADA",
         "netSn": 384,
-        "molaSn": 0
+        "molaSn": 8
       },
       {
         "no": 4,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 375,
+        "netSn": 383,
         "molaSn": 0
       }
     ]
@@ -82,8 +82,8 @@
     "parcalar": [
       {
         "no": 1,
-        "usta": null,
-        "durum": "BEKLEMEDE",
+        "usta": "MO-1",
+        "durum": "CALISIYOR",
         "netSn": 0,
         "molaSn": 0
       },
@@ -121,7 +121,7 @@
         "no": 1,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 354,
+        "netSn": 362,
         "molaSn": 0
       }
     ]
