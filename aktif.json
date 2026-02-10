@@ -10,28 +10,28 @@
         "no": 1,
         "usta": "KA-1",
         "durum": "CALISIYOR",
-        "netSn": 2233,
+        "netSn": 2594,
         "molaSn": 0
       },
       {
         "no": 3,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 2048,
+        "netSn": 2409,
         "molaSn": 117
       },
       {
         "no": 4,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 1336,
+        "netSn": 1697,
         "molaSn": 817
       },
       {
         "no": 5,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 2131,
+        "netSn": 2492,
         "molaSn": 8
       }
     ]
@@ -47,14 +47,14 @@
         "no": 1,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 1414,
+        "netSn": 1775,
         "molaSn": 0
       },
       {
         "no": 2,
         "usta": "TO-2",
         "durum": "CALISIYOR",
-        "netSn": 1407,
+        "netSn": 1768,
         "molaSn": 0
       },
       {
@@ -62,13 +62,13 @@
         "usta": "TO-3",
         "durum": "MOLADA",
         "netSn": 384,
-        "molaSn": 1017
+        "molaSn": 1378
       },
       {
         "no": 4,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 1392,
+        "netSn": 1753,
         "molaSn": 0
       }
     ]
@@ -85,7 +85,7 @@
         "usta": "MO-1",
         "durum": "MOLADA",
         "netSn": 17,
-        "molaSn": 992
+        "molaSn": 1353
       },
       {
         "no": 2,
@@ -121,7 +121,7 @@
         "no": 1,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 1371,
+        "netSn": 1732,
         "molaSn": 0
       }
     ]
@@ -205,6 +205,22 @@
         "usta": null,
         "durum": "BEKLEMEDE",
         "gecenSn": 0
+      }
+    ]
+  },
+  {
+    "emirId": 1770715014390,
+    "isId": "152.11.1180",
+    "isim": "ATV TOP YUKLEME VİNCİ 180",
+    "atolye": "KAYNAK",
+    "hedefDk": "60",
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "netSn": 0,
+        "molaSn": 0
       }
     ]
   }
