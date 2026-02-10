@@ -10,28 +10,28 @@
         "no": 1,
         "usta": "KA-1",
         "durum": "CALISIYOR",
-        "netSn": 1469,
+        "netSn": 1654,
         "molaSn": 0
       },
       {
         "no": 3,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 1284,
+        "netSn": 1469,
         "molaSn": 117
       },
       {
         "no": 4,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 572,
+        "netSn": 757,
         "molaSn": 817
       },
       {
         "no": 5,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 1367,
+        "netSn": 1552,
         "molaSn": 8
       }
     ]
@@ -47,14 +47,14 @@
         "no": 1,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 650,
+        "netSn": 835,
         "molaSn": 0
       },
       {
         "no": 2,
         "usta": "TO-2",
         "durum": "CALISIYOR",
-        "netSn": 643,
+        "netSn": 828,
         "molaSn": 0
       },
       {
@@ -62,13 +62,13 @@
         "usta": "TO-3",
         "durum": "MOLADA",
         "netSn": 384,
-        "molaSn": 253
+        "molaSn": 438
       },
       {
         "no": 4,
         "usta": "TO-1",
         "durum": "CALISIYOR",
-        "netSn": 628,
+        "netSn": 813,
         "molaSn": 0
       }
     ]
@@ -85,7 +85,7 @@
         "usta": "MO-1",
         "durum": "MOLADA",
         "netSn": 17,
-        "molaSn": 228
+        "molaSn": 413
       },
       {
         "no": 2,
@@ -121,7 +121,7 @@
         "no": 1,
         "usta": "KA-2",
         "durum": "CALISIYOR",
-        "netSn": 607,
+        "netSn": 792,
         "molaSn": 0
       }
     ]
@@ -202,25 +202,6 @@
       },
       {
         "no": 3,
-        "usta": null,
-        "durum": "BEKLEMEDE",
-        "gecenSn": 0
-      }
-    ]
-  },
-  {
-    "emirId": 1770712504292,
-    "isId": "151.01.1601",
-    "İD": "151.01.1601",
-    "isim": "ESKİ TİP PLATFORM MONTAJİ",
-    "reklam": "ESKİ TİP PLATFORM MONTAJİ",
-    "adet": 1,
-    "atolye": "KAYNAK",
-    "durum": "BEKLEMEDE",
-    "tarih": "10.02.2026 11:35:04",
-    "parcalar": [
-      {
-        "no": 1,
         "usta": null,
         "durum": "BEKLEMEDE",
         "gecenSn": 0
