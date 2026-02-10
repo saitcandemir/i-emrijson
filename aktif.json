@@ -176,5 +176,36 @@
         "molaSn": 0
       }
     ]
+  },
+  {
+    "emirId": 1770711435094,
+    "isId": "151.01.2009",
+    "İD": "151.01.2009",
+    "isim": "Pro Hareket Mili Uzun KAYNAK",
+    "reklam": "Pro Hareket Mili Uzun KAYNAK",
+    "adet": 3,
+    "atolye": "KAYNAK",
+    "durum": "BEKLEMEDE",
+    "tarih": "10.02.2026 11:17:15",
+    "parcalar": [
+      {
+        "no": 1,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      },
+      {
+        "no": 2,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      },
+      {
+        "no": 3,
+        "usta": null,
+        "durum": "BEKLEMEDE",
+        "gecenSn": 0
+      }
+    ]
   }
 ]
